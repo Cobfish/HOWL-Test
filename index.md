@@ -1,1 +1,1 @@
-[HOWL.html]
+[HOWL.html](HOWL.md)
