@@ -3,6 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+theme: minima
 toc:
     enabled: true
 defaults:
