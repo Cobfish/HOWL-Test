@@ -1,3 +1,6 @@
+---
+layout: page
+---
 ## H.O.W.L. / Herald's Office of Wartime Logs (09:00am UTC is when day ticks over)
 
 Original Creator: Herald / Cobfish, Helpers: Tau

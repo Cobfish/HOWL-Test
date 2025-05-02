@@ -1,0 +1,23 @@
+<aside id="site-sidebar" class="sidebar">
+    <button id="sidebar-toggle-end" class="sidebar-toggle-end" aria-label="Toggle sidebar">
+        ☰
+    </button>
+      
+    {% comment %}
+      Generate the TOC from the current page’s content.
+      html=content uses the compiled HTML of your Markdown.
+      Pass through any parameters you like: class, id, h_min, h_max, etc.
+    {% endcomment %}
+    {% include toc.html
+         html=content
+         sanitize=true
+         class="sidebar-toc"
+         id="sidebar-toc"
+         h_min=3
+         h_max=4
+         flat_toc=false %}
+  </aside>
+  <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Toggle sidebar">
+    ☰
+  </button>
+  

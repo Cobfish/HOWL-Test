@@ -1,9 +1,10 @@
 plugins:
   - jekyll-relative-links
-  - jekyll-toc
 relative_links:
   enabled: true
   collections: true
+toc:
+    enabled: true
 defaults:
   - scope:
       path: ""
