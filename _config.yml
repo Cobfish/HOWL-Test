@@ -1,10 +1,10 @@
+remote_theme: jekyll/minima
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
-theme: minima
-skin: dark
 toc:
     enabled: true
 defaults:
@@ -12,6 +12,8 @@ defaults:
       path: ""
     values:
       toc: true
+minima:
+  skin: dark
 include:
   - CONTRIBUTING.md
   - README.md
