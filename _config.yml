@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 theme: minima
+skin: auto
 toc:
     enabled: true
 defaults:
