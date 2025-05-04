@@ -4,7 +4,7 @@ relative_links:
   enabled: true
   collections: true
 theme: minima
-skin: auto
+skin: dark
 toc:
     enabled: true
 defaults:
