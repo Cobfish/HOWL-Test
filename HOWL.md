@@ -1,6 +1,3 @@
----
-layout: page
----
 ## H.O.W.L. / Herald's Office of Wartime Logs (09:00am UTC is when day ticks over)
 
 Original Creator: Herald / Cobfish, Helpers: Tau
@@ -5603,628 +5600,664 @@ Assault Division: ***Predator Strain*** U4N deploys to **Terrek** (07:43pm UTC 1
 Dispatch: ***PREDATOR STRAIN*** OUTBREAK. Failure to contain the Terminid ***Predator Strain*** has led to an outbreak on **TERREK**. (08:01pm UTC 1st May 2025\)  
 Assault Division: ***Incineration Corps*** U3A leaves **Penta** (08:02pm UTC 1st May 2025\)  
 Assault Division: ***Incineration Corps*** U3A deploys to **Lesath** (08:02pm UTC 1st May 2025\)  
-DSS deploys to **Claorell** of the ***Tanis*** sector (08:59pm UTC 1st May 2025\)
+DSS deploys to **Claorell** of the ***Tanis*** sector (08:59pm UTC 1st May 2025\)  
+**Vog-Sojoth** of the ***Tanis*** sector is attacked by Automatons (09:03pm UTC 1st May 2025\)  
+**Vernen Wells** of the ***Hydra*** sector is attacked by Automatons (09:03pm UTC 1st May 2025\)  
+Assault Division: ***Incineration Corps*** U3A divides into 3 groups \[U3A, U3B, U3C\] (09:03pm UTC 1st May 2025\)  
+Assault Division: ***Incineration Corps*** U3B deploys to **Vog-Sojoth** (09:03pm UTC 1st May 2025\)  
+Assault Division: ***Incineration Corps*** U3C deploys to **Vernen Wells** (09:03pm UTC 1st May 2025\)  
+**Imber** of the ***Talus*** sector is attacked by Automatons (10:03pm UTC 1st May 2025\)  
+Assault Division: ***Incineration Corps*** U3A leaves **Lesath** (10:03pm UTC 1st May 2025\)  
+Assault Division: ***Incineration Corps*** U3A deploys to **Imber** (10:03pm UTC 1st May 2025\)  
+**Achernar Secundus** is liberated (02:03am UTC 2nd May 2025\)  
+↳ **Gar Haren** liberation campaign starts (02:03am UTC 2nd May 2025\)  
+DSS effect Eagle Storm is activated (06:27am UTC 2nd May 2025\)
+
+Day \#450 9:00am 2nd May 2025  
+**Terrek** defense is failed (07:42pm UTC 2nd May 2025\)  
+↳ **Terrek** liberation campaign starts (07:42pm UTC 2nd May 2025\)  
+Assault Division: ***Incineration Corps*** U3B leaves **Vernen Wells** (09:02pm UTC 2nd May 2025\)  
+Assault Division: ***Incineration Corps*** U3C leaves **Vog-Sojoth** (09:02pm UTC 2nd May 2025\)  
+**Vernen Wells** defense is failed (09:03pm UTC 2nd May 2025\)  
+↳ **Vernen Wells** liberation campaign starts (09:03pm UTC 2nd May 2025\)  
+↳ **Menkent** liberation campaign ends (09:03pm UTC 2nd May 2025\)  
+↳ ***Hydra*** sector is fully under Automaton control (09:03pm UTC 2nd May 2025\)  
+**Vog-Sojoth** defense is failed (09:03pm UTC 2nd May 2025\)  
+↳ **Lesath** liberation campaign ends (09:02pm UTC 2nd May 2025\)  
+Assault Division: ***Incineration Corps*** U3A leaves **Imber** (10:02pm UTC 2nd May 2025\)  
+**Imber** defense is failed (10:03pm UTC 2nd May 2025\)  
+↳ **Imber** liberation campaign starts (10:03pm UTC 2nd May 2025\)  
+↳ **Claorell** liberation campaign ends (10:03pm UTC 2nd May 2025\)  
+DSS deploys to **Imber** of the ***Talus*** sector (10:03pm UTC 2nd May 2025\)  
+Assault Division: ***Incineration Corps*** U3A deploys to **Imber** (10:05pm UTC 2nd May 2025\)  
+Assault Division: ***Incineration Corps*** U3B deploys to **Vernen Wells** (10:05pm UTC 2nd May 2025\)  
+Assault Division: ***Incineration Corps*** U3C deploys to **Vog-Sojoth** (10:05pm UTC 2nd May 2025\)  
+DSS effect Eagle Storm stops (06:29am UTC 3rd May 2025\)
+
+Day \#451 9:00am 3rd May 2025  
+**Azterra** of the ***Orion*** sector is attacked by Terminids (09:23am UTC 3rd May 2025\)  
+Assault Division: ***Predator Strain*** U4N divides into 3 groups \[U4N, U4O, U4P\] (09:24am UTC 3rd May 2025\)  
+Assault Division: ***Predator Strain*** U4O deploys to **Azterra** (09:24am UTC 3rd May 2025\)  
+**Cirrus** of the ***Orion*** sector is attacked by Terminids (09:24am UTC 3rd May 2025\)  
+Assault Division: ***Predator Strain*** U4P deploys to **Cirrus** (09:24am UTC 3rd May 2025\)  
+**Troost** is liberated (01:11pm UTC 3rd May 2025\)
 
 #### Day Zero
-<details>
-<summary> This is Day Zero</summary>
 
 Day Zero | **This Was The Starting Game-State At Launch**  
-- **Heeth** of the ***Orion*** sector is under Terminid Control  
-- **Angel's Venture** of the ***Orion*** sector is under Terminid control  
-- **Erata Prime** of the ***Umlaut*** sector is under Terminid control  
-- **Fenrir III** of the ***Umlaut*** sector is under Terminid control  
-- **Meridia** of the ***Umlaut*** sector is under Terminid control  
-- **Turing** of the ***Umlaut*** sector is under Terminid control  
-- ***Umlaut*** sector is fully under Terminid control  
-- **Estanu** of the ***Draco*** sector is under Terminid control  
-- **Crimsica** of the ***Draco*** sector is under Terminid control  
-- **Fori Prime** of the ***Draco*** sector is under Terminid control  
-- ***Draco*** sector is fully under Terminid control  
-- **Hellmire** of the ***Mirin*** sector is under Terminid control  
-- **Nivel 43** of the ***Mirin*** sector is under Terminid control  
-- **Zagon Prime** of the ***Mirin*** sector is under Terminid control  
-- **Oshaune** of the ***Mirin*** sector is under Terminid control  
-- ***Mirin*** sector is fully under Terminid control  
-- **Omicron** of the ***L'estrade*** sector is under Terminid control  
-- **Diaspora X** of the ***L'estrade*** sector is under Terminid control  
-- **Enuliale** of the ***L'estrade*** sector is under Terminid control  
-- **Epsilon Phoencis VI** of the ***L'estrade*** sector is under Terminid control  
-- **Gemstone Bluffs** of the ***L'estrade*** sector is under Terminid control  
-- **Nabatea Secundus** of the ***L'estrade*** sector is under Terminid control  
-- **Navi VII** of the ***L'estrade*** sector is under Terminid control  
-- ***L'estrade*** sector is fully under Terminid control  
-- **Azur Secundus** of the ***Sten*** sector is under Terminid control  
-- **Overgoe Prime** of the ***Sten*** sector is under Terminid control  
-- **Partion** of the ***Sten*** sector is under Terminid control  
-- **Peacock** of the ***Sten*** sector is under Terminid control  
-- **Trandor** of the ***Sten*** sector is under Terminid control  
-- ***Sten*** sector is fully under Terminid control  
-- **Maia** of the ***Severin*** sector is under Automaton control  
-- **Durgen** of the ***Severin*** sector is under Automaton control  
-- **Malevelon Creek** of the ***Severin*** sector is under Automaton control  
-- **Ubanea** of the ***Severin*** sector is under Automaton control  
-- **Tibit** of the ***Severin*** sector is under Automaton control  
-- ***Severin*** sector is fully under Automaton control  
-- **Malevelon Creek** \- **Maia** warp link  
-- **Malevelon Creek** \- **Durgen** warp link  
-- **Malevelon Creek** \- **Draupnir** warp link  
-- **Malevelon Creek** \- **Mantes** warp link  
-- **Durgen** \- **Ubanea** warp link  
-- **Ubanea** \- **Tibit** warp link  
-- **Ubanea** \- **Draupnir** warp link  
-- **Draupnir** \- **Mantes** warp link  
-- **Mantes** \- **Ingmar** warp link  
-- **Mantes** \- **Pöpli IX** warp link  
-- **Ingmar** \- **Pöpli IX** warp link  
-- **Ingmar** \- **Mort** warp link  
-- **Mort** \- **Pöpli IX** warp link  
-- **Terrek** \- **Azterra** warp link  
-- **Sulfura** \- **Nublaria I** warp link  
-- **Nublaria I** \- **Krakatwo** warp link  
-- **Moradesh** \- **Cirrus** warp link  
-- **Moradesh** \- **Fort Union** warp link  
-- **Moradesh** \- **Ivis** warp link  
-- **Moradesh** \- **Veld** warp link  
-- **Moradesh** \- **Angel's Venture** warp link  
-- **Turing** \- **Angel's Venture** warp link  
-- **Turing** \- **Meridia** warp link  
-- **Angel's Venture** \- **Meridia** warp link  
-- **Angel's Venture** \- **Veld** warp link  
-- **Veld** \- **Slif** warp link  
-- **Slif** \- **Ivis** warp link  
-- **Ivis** \- **Fort Union** warp link  
-- **Fort Union** \- **Cirrus** warp link  
-- **Cirrus** \- **Heeth** warp link  
-- **Heeth** \- **Erata Prime** warp link  
-- **Heeth** \- **Fenrir III** warp link  
-- **Erata Prime** \- **Fenrir III** warp link  
-- **Fenrir III** \- **Meridia** warp link  
-- **Meridia** \- **Estanu** warp link  
-- **Meridia** \- **Crimsica** warp link  
-- **Fori Prime** \- **Estanu** warp link  
-- **Fori Prime** \- **Crimsica** warp link  
-- **Fori Prime** \- **Oshaune** warp link  
-- **Oshaune** \- **Omicron** warp link  
-- **Omicron** \- **Zagon Prime** warp link  
-- **Zagon Prime** \- **Nivel 43** warp link  
-- **Nivel 43** \- **Hellmire** warp link  
-- **Hellmire** \- **Erata Prime** warp link  
-- **Hellmire** \- **Fenrir III** warp link  
-- **Hellmire** \- **Estanu** warp link  
-- **Navi VII** \- **Nabatea Secundus** warp link  
-- **Nabatea Secundus** \- **Gemstone Bluffs** warp link  
-- **Gemstone Bluffs** \- **Epsilon Phoencis VI** warp link  
-- **Epsilon Phoencis VI** \- **Enuliale** warp link  
-- **Enuliale** \- **Diaspora X** warp link  
-- **Diaspora X** \- **Gemstone Bluffs** warp link  
-- **Super Earth** has **Super Earth** \[Super Earth\] biome  
-- **Klen Dahth II** has Desert Dunes \[Sandy\] biome  
-- **Pathfinder V** has Plains \[Moor\] biome  
-- **Widow's Harbor** has Moon \[Sandy\] biome  
-- **New Haven** has Ionic Jungle \[Primordial\] biome  
-- **Pilen V** has Desert Cliffs \[Sandy\] biome  
-- **Hydrofall Prime** has Rocky Canyons \[Sandy\] biome  
-- **Darrowsport** has Acidic Badlands \[Sandy\] biome  
-- **Fornskogur II** has Volcanic Jungle \[Primordial\] biome  
-- **Midasburg** has Tundra \[Moor\] biome  
-- **Veil** has Deadlands \[Primordial\] biome  
-- **Marre IV** has Scorched Moor \[Moor\] biome  
-- **Cerberus IIIc** has Desert Cliffs \[Sandy\] biome  
-- **Prosperity Falls** has Ionic Jungle \[Primordial\] biome  
-- **Fort Sanctuary** has Ionic Crimson \[Moor\] biome  
-- **Seyshel Beach** has Ethereal Jungle \[Primordial\] biome  
-- **Effluvia** has Rocky Canyons \[Sandy\] biome  
-- **Okul VI** has Icy Glaciers \[Arctic\] biome  
-- **Solghast** has Deadlands \[Primordial\] biome  
-- **Diluvia** has Tundra \[Moor\] biome  
-- **Martyr's Bay** has Boneyard \[Arctic\] biome  
-- **Freedom Peak** has Ionic Crimson \[Moor\] biome  
-- **Kelvinor** has Icy Glaciers \[Arctic\] biome  
-- **Viridia Prime** has Desert Dunes \[Sandy\] biome  
-- **Obari** has Plains \[Moor\] biome  
-- **Fort Union** has Plains \[Moor\] biome  
-- **Azterra** has Rocky Canyons \[Sandy\] biome  
-- **Terrek** has Moon \[Sandy\] biome  
-- **Cirrus** has Deadlands \[Primordial\] biome  
-- **Heeth** has Icy Glaciers \[Arctic\] biome  
-- **Veld** has Ionic Jungle \[Primordial\] biome  
-- **Angel's Venture** has Tundra \[Moor\] biome  
-- **Wraith** has Acidic Badlands \[Sandy\] biome  
-- **Myradesh** has Desert Cliffs \[Sandy\] biome  
-- **Atrama** has Ionic Jungle \[Primordial\] biome  
-- **Maw** has Scorched Moor \[Moor\] biome  
-- **Igla** has Boneyard \[Arctic\] biome  
-- **New Kiruna** has Icy Glaciers \[Arctic\] biome  
-- **Fort Justice** has Tundra \[Moor\] biome  
-- **Zegema Paradise** has Volcanic Jungle \[Primordial\] biome  
-- **Emeria** has Rocky Canyons \[Sandy\] biome  
-- **Barabos** has Boneyard \[Arctic\] biome  
-- **Fenmire** has Plains \[Moor\] biome  
-- **Mastia** has Desert Dunes \[Sandy\] biome  
-- **Curia** has Moon \[Sandy\] biome  
-- **Tarsh** has Icy Glaciers \[Arctic\] biome  
-- **Shallus** has Ethereal Jungle \[Primordial\] biome  
-- **Shelt** has Tundra \[Moor\] biome  
-- **Imber** has Scorched Moor \[Moor\] biome  
-- **Gaellivare** has Volcanic Jungle \[Primordial\] biome  
-- **Blistica** has Scorched Moor \[Moor\] biome  
-- **Minchir** has Ionic Jungle \[Primordial\] biome  
-- **Mintoria** has Plains \[Moor\] biome  
-- **Zosma** has Moon \[Sandy\] biome  
-- **Zzaniah Prime** has Desert Dunes \[Sandy\] biome  
-- **Providence** has Ionic Crimson \[Moor\] biome  
-- **Primordia** has Volcanic Jungle \[Primordial\] biome  
-- **Krakabos** has Boneyard \[Arctic\] biome  
-- **Iridica** has Ethereal Jungle \[Primordial\] biome  
-- **Ratch** has Desert Dunes \[Sandy\] biome  
-- **Valgaard** has Ionic Crimson \[Moor\] biome  
-- **Sulfura** has Ethereal Jungle \[Primordial\] biome  
-- **Nublaria I** has Volcanic Jungle \[Primordial\] biome  
-- **Krakatwo** has Boneyard \[Arctic\] biome  
-- **Ivis** has Icy Glaciers \[Arctic\] biome  
-- **Slif** has Acidic Badlands \[Sandy\] biome  
-- **Moradesh** has Desert Dunes \[Sandy\] biome  
-- **Volterra** has Plains \[Moor\] biome  
-- **Crucible** has Tundra \[Moor\] biome  
-- **Caramoor** has Desert Dunes \[Sandy\] biome  
-- **Alta V** has Volcanic Jungle \[Primordial\] biome  
-- **Inari** has Boneyard \[Arctic\] biome  
-- **Ursica XI** has Ethereal Jungle \[Primordial\] biome  
-- **Darius II** has Acidic Badlands \[Sandy\] biome  
-- **Achernar Secundus** has Plains \[Moor\] biome  
-- **Achird III** has Rocky Canyons \[Sandy\] biome  
-- **Acamar IV** has Plains \[Moor\] biome  
-- **Gacrux** has Tundra \[Moor\] biome  
-- **Gar Haren** has Volcanic Jungle \[Primordial\] biome  
-- **Gatria** has Ionic Crimson \[Moor\] biome  
-- **Pandion-XXIV** has Deadlands \[Primordial\] biome  
-- **Phact Bay** has Desert Dunes \[Sandy\] biome  
-- **Kharst** has Ionic Crimson \[Moor\] biome  
-- **Rasp** has Moon \[Sandy\] biome  
-- **Bashyr** has Deadlands \[Primordial\] biome  
-- **Acubens Prime** has Ethereal Jungle \[Primordial\] biome  
-- **Adhara** has Scorched Moor \[Moor\] biome  
-- **Afoyay Bay** has Plains \[Moor\] biome  
-- **Eukoria** has Boneyard \[Arctic\] biome  
-- **Myrium** has Rocky Canyons \[Sandy\] biome  
-- **Regnus** has Volcanic Jungle \[Primordial\] biome  
-- **Mog** has Icy Glaciers \[Arctic\] biome  
-- **Kerth Secundus** has Tundra \[Moor\] biome  
-- **Parsh** has Icy Glaciers \[Arctic\] biome  
-- **Valmox** has Ionic Crimson \[Moor\] biome  
-- **Iro** has Plains \[Moor\] biome  
-- **Grafmere** has Boneyard \[Arctic\] biome  
-- **Oasis** has Volcanic Jungle \[Primordial\] biome  
-- **Genesis Prime** has Ionic Jungle \[Primordial\] biome  
-- **New Stockholm** has Icy Glaciers \[Arctic\] biome  
-- **Ain-5** has Deadlands \[Primordial\] biome  
-- **Alairt III** has Ionic Jungle \[Primordial\] biome  
-- **Alamak VII** has Ethereal Jungle \[Primordial\] biome  
-- **Heze Bay** has Desert Dunes \[Sandy\] biome  
-- **Reaf** has Plains \[Moor\] biome  
-- **Irulta** has Volcanic Jungle \[Primordial\] biome  
-- **Outpost 32** has Desert Dunes \[Sandy\] biome  
-- **Calypso** has Rocky Canyons \[Sandy\] biome  
-- **Elysian Meadows** has Ionic Crimson \[Moor\] biome  
-- **Alderidge Cove** has Deadlands \[Primordial\] biome  
-- **Bellatrix** has Plains \[Moor\] biome  
-- **Botein** has Acidic Badlands \[Sandy\] biome  
-- **Khandark** has Icy Glaciers \[Arctic\] biome  
-- **Emorath** has Ethereal Jungle \[Primordial\] biome  
-- **Ilduna Prime** has Tundra \[Moor\] biome  
-- **Liberty Ridge** has Ionic Crimson \[Moor\] biome  
-- **Baldrick Prime** has Volcanic Jungle \[Primordial\] biome  
-- **Meridia** has Volcanic Jungle \[Primordial\] biome  
-- **Fenrir III** has Moon \[Sandy\] biome  
-- **Turing** has Ethereal Jungle \[Primordial\] biome  
-- **Erata Prime** has Desert Cliffs \[Sandy\] biome  
-- **The Weir** has Plains \[Moor\] biome  
-- **Kuper** has Ionic Jungle \[Primordial\] biome  
-- **Caph** has Volcanic Jungle \[Primordial\] biome  
-- **Castor** has Rocky Canyons \[Sandy\] biome  
-- **Lastofe** has Desert Dunes \[Sandy\] biome  
-- **Tien Kwan** has **Tien Kwan** \[Arctic\] biome  
-- **Durgen** has Desert Dunes \[Sandy\] biome  
-- **Maia** has Moon \[Sandy\] biome  
-- **Malevelon Creek** has Ionic Jungle \[Primordial\] biome  
-- **Tibit** has Ethereal Jungle \[Primordial\] biome  
-- **Ubanea** has Ionic Crimson \[Moor\] biome  
-- **Borea** has Icy Glaciers \[Arctic\] biome  
-- **Oslo Station** has Boneyard \[Arctic\] biome  
-- **Gunvald** has Ionic Crimson \[Moor\] biome  
-- **Pöpli IX** has Scorched Moor \[Moor\] biome  
-- **Draupnir** has Plains \[Moor\] biome  
-- **Mort** has Deadlands \[Primordial\] biome  
-- **Ingmar** has Ionic Crimson \[Moor\] biome  
-- **Mantes** has Volcanic Jungle \[Primordial\] biome  
-- **Charbal-VII** has Acidic Badlands \[Sandy\] biome  
-- **Charon Prime** has Ionic Crimson \[Moor\] biome  
-- **Marfark** has Icy Glaciers \[Arctic\] biome  
-- **Martale** has Tundra \[Moor\] biome  
-- **Matar Bay** has Plains \[Moor\] biome  
-- **Meissa** has Volcanic Jungle \[Primordial\] biome  
-- **Wasat** has Acidic Badlands \[Sandy\] biome  
-- **Vega Bay** has Icy Glaciers \[Arctic\] biome  
-- **Wezen** has Scorched Moor \[Moor\] biome  
-- **X-45** has Deadlands \[Primordial\] biome  
-- **Choepessa IV** has Boneyard \[Arctic\] biome  
-- **Troost** has Deadlands \[Primordial\] biome  
-- **Ustotu** has Desert Cliffs \[Sandy\] biome  
-- **Vandalon IV** has Icy Glaciers \[Arctic\] biome  
-- **Varylia 5** has Plains \[Moor\] biome  
-- **Zea Rugosia** has Desert Cliffs \[Sandy\] biome  
-- **Hadar** has Icy Glaciers \[Arctic\] biome  
-- **Haldus** has Moon \[Sandy\] biome  
-- **Herthon Secundus** has Scorched Moor \[Moor\] biome  
-- **Haka** has Deadlands \[Primordial\] biome  
-- **Halies Port** has Boneyard \[Arctic\] biome  
-- **Propus** has Desert Dunes \[Sandy\] biome  
-- **Ras Algethi** has Tundra \[Moor\] biome  
-- **Azur Secundus** has Desert Cliffs \[Sandy\] biome  
-- **Trandor** has Tundra \[Moor\] biome  
-- **Overgoe Prime** has Ionic Crimson \[Moor\] biome  
-- **Partion** has Scorched Moor \[Moor\] biome  
-- **Peacock** has Ionic Jungle \[Primordial\] biome  
-- **Julheim** has Icy Glaciers \[Arctic\] biome  
-- **Dolph** has Moon \[Sandy\] biome  
-- **Bekvam III** has Ethereal Jungle \[Primordial\] biome  
-- **Duma Tyr** has Tundra \[Moor\] biome  
-- **Vernen Wells** has Rocky Canyons \[Sandy\] biome  
-- **Aesir Pass** has Deadlands \[Primordial\] biome  
-- **Menkent** has Scorched Moor \[Moor\] biome  
-- **Aurora Bay** has Tundra \[Moor\] biome  
-- **Mekbuda** has Rocky Canyons \[Sandy\] biome  
-- **Merak** has Ionic Jungle \[Primordial\] biome  
-- **Merga IV** has Icy Glaciers \[Arctic\] biome  
-- **Vindemitarix Prime** has Ethereal Jungle \[Primordial\] biome  
-- **Cyberstan** has **Cyberstan** \[Arctic\] biome  
-- **Penta** has Deadlands \[Primordial\] biome  
-- **Choohe** has Desert Dunes \[Sandy\] biome  
-- **Chort Bay** has Acidic Badlands \[Sandy\] biome  
-- **Lesath** has Boneyard \[Arctic\] biome  
-- **Hellmire** has Scorched Moor \[Moor\] biome  
-- **Nivel 43** has Deadlands \[Primordial\] biome  
-- **Oshaune** has Plains \[Moor\] biome  
-- **Zagon Prime** has Desert Dunes \[Sandy\] biome  
-- **Arkturus** has Icy Glaciers \[Arctic\] biome  
-- **Kirrik** has Volcanic Jungle \[Primordial\] biome  
-- **Mortax Prime** has Desert Cliffs \[Sandy\] biome  
-- **Wilford Station** has Acidic Badlands \[Sandy\] biome  
-- **Pioneer II** has Rocky Canyons \[Sandy\] biome  
-- **Deneb Secundus** has Boneyard \[Arctic\] biome  
-- **Electra Bay** has Plains \[Moor\] biome  
-- **Enuliale** has Ionic Crimson \[Moor\] biome  
-- **Epsilon Phoencis VI** has Icy Glaciers \[Arctic\] biome  
-- **Nabatea Secundus** has Ionic Jungle \[Primordial\] biome  
-- **Navi VII** has Volcanic Jungle \[Primordial\] biome  
-- **Diaspora X** has Desert Dunes \[Sandy\] biome  
-- **Gemstone Bluffs** has Plains \[Moor\] biome  
-- **Omicron** has Tundra \[Moor\] biome  
-- **Skaash** has Acidic Badlands \[Sandy\] biome  
-- **Acrab XI** has Ionic Crimson \[Moor\] biome  
-- **Acrux IX** has Boneyard \[Arctic\] biome  
-- **Gemma** has Ionic Jungle \[Primordial\] biome  
-- **Grand Errant** has Scorched Moor \[Moor\] biome  
-- **Pherkad Secundus** has Plains \[Moor\] biome  
-- **Polaris Prime** has Desert Cliffs \[Sandy\] biome  
-- **Pollux 31** has Volcanic Jungle \[Primordial\] biome  
-- **Prasa** has Rocky Canyons \[Sandy\] biome  
-- **Esker** has Acidic Badlands \[Sandy\] biome  
-- **Erson Sands** has Desert Cliffs \[Sandy\] biome  
-- **Socorro III** has Ethereal Jungle \[Primordial\] biome  
-- **Bore Rock** has Scorched Moor \[Moor\] biome  
-- **Crimsica** has Ionic Crimson \[Moor\] biome  
-- **Estanu** has Boneyard \[Arctic\] biome  
-- **Fori Prime** has Rocky Canyons \[Sandy\] biome  
-- **East Iridium Trading Bay** has Volcanic Jungle \[Primordial\] biome  
-- **Osupsam** has Desert Dunes \[Sandy\] biome  
-- **Brink-2** has Ionic Jungle \[Primordial\] biome  
-- **Bunda Secundus** has Tundra \[Moor\] biome  
-- **Canopus** has Desert Cliffs \[Sandy\] biome  
-- **Vog-Sojoth** has Icy Glaciers \[Arctic\] biome  
-- **Claorell** has Moon \[Sandy\] biome  
-- **Clasa** has Volcanic Jungle \[Primordial\] biome  
-- **Demiurg** has Tundra \[Moor\] biome  
-- **Yed Prior** has Ionic Crimson \[Moor\] biome  
-- **Zefia** has Ethereal Jungle \[Primordial\] biome  
-- **Alaraph** has Deadlands \[Primordial\] biome  
-- **Alathfar XI** has Icy Glaciers \[Arctic\] biome  
-- **Andar** has Tundra \[Moor\] biome  
-- **Asperoth Prime** has Scorched Moor \[Moor\] biome  
-- **Keid** has Desert Dunes \[Sandy\] biome  
-- **Hesoe Prime** has Icy Glaciers \[Arctic\] biome  
-- **Hort** has Plains \[Moor\] biome  
-- **RD-4** has Moon \[Sandy\] biome  
-- **Rogue 5** has Volcanic Jungle \[Primordial\] biome  
-- **Rirga Bay** has Acidic Badlands \[Sandy\] biome  
-- **Hydrobius** has Desert Cliffs \[Sandy\] biome  
-- **Karlia** has Scorched Moor \[Moor\] biome  
-- **Seasse** has Ionic Jungle \[Primordial\] biome  
-- **Senge 23** has Rocky Canyons \[Sandy\] biome  
-- **Setia** has Desert Dunes \[Sandy\] biome  
-- **Klaka 5** has Volcanic Jungle \[Primordial\] biome  
-- **Kneth Port** has Scorched Moor \[Moor\] biome  
-- **Kraz** has Rocky Canyons \[Sandy\] biome  
-- **Kuma** has Rocky Canyons \[Sandy\] biome  
-- **Mordia 9** has Ethereal Jungle \[Primordial\] biome  
-- **Skitter** has Plains \[Moor\] biome  
-- **Euphoria III** has Moon \[Sandy\] biome  
-- **Leng Secundus** has Acidic Badlands \[Sandy\] biome  
-- **Spherion** has Volcanic Jungle \[Primordial\] biome  
-- **Stor Tha Prime** has Boneyard \[Arctic\] biome  
-- **Stout** has Ionic Crimson \[Moor\] biome  
-- **Termadon** has Plains \[Moor\] biome  
-- **Shete** has Acidic Badlands \[Sandy\] biome  
-- **Siemnot** has Ionic Jungle \[Primordial\] biome  
-- **Sirius** has Moon \[Sandy\] biome  
-- **Skat Bay** has Deadlands \[Primordial\] biome  
-- **Super Earth** coordinates are X 0.0 Y 0.0  
-- **Klen Dahth II** coordinates are X 0.05373042 Y 0.10565466  
-- **Pathfinder V** coordinates are X 0.04664221 Y 0.16758725  
-- **Widow’s Harbor** coordinates are X 0.12536779 Y 0.11821219  
-- **New Haven** coordinates are X 0.10280278 Y 0.05765711  
-- **Pilen V** coordinates are X 0.15988354 Y 0.043583166  
-- **Hydrofall** coordinates are X 0.13535836 Y \-0.03378948  
-- **Zea Rugosia** coordinates are X 0.36159223 Y \-0.52270126  
-- **Darrowsport** coordinates are X 0.09485684 Y \-0.08101245  
-- **Fornskogur II** coordinates are X 0.15801243 Y \-0.09685686  
-- **Midasburg** coordinates are X 0.06770126 Y \-0.1448935  
-- **Cerberus IIIc** coordinates are X 0.001789452 Y \-0.18935835  
-- **Prosperity Falls** coordinates are X \-0.001789474 Y \-0.12535837  
-- **Okul VI** coordinates are X \-0.06158319 Y \-0.16488354  
-- **Martyr’s Bay** coordinates are X \-0.099012464 Y \-0.11185683  
-- **Freedom Peak** coordinates are X \-0.17010404 Y \-0.08865711  
-- **Fort Union** coordinates are X 0.27240774 Y 0.20429876  
-- **Kelvinor** coordinates are X \-0.14765465 Y \-0.030730395  
-- **Wraith** coordinates are X \-0.15065464 Y 0.015730456  
-- **Igla** coordinates are X \-0.1728935 Y 0.06970126  
-- **New Kiruna** coordinates are X \-0.12621213 Y 0.11136782  
-- **Fort Justice** coordinates are X \-0.07801243 Y 0.10585686  
-- **Zegema Paradise** coordinates are X \-0.039789412 Y 0.14535835  
-- **Providence** coordinates are X 0.030315775 Y 0.2269306  
-- **Primordia** coordinates are X 0.09383544 Y 0.25608748  
-- **Sulfura** coordinates are X 0.17009519 Y 0.1877717  
-- **Nublaria I** coordinates are X 0.2117717 Y 0.12409518  
-- **Krakatwo** coordinates are X 0.2540875 Y 0.05583542  
-- **Volterra** coordinates are X 0.2939306 Y \-0.033684243  
-- **Crucible** coordinates are X 0.22952318 Y \-0.029197697  
-- **Veil** coordinates are X 0.23037383 Y \-0.0976583  
-- **Marre IV** coordinates are X 0.2007717 Y \-0.1490952  
-- **Fort Sanctuary** coordinates are X 0.15409517 Y \-0.210073  
-- **Seyshel Beach** coordinates are X 0.0977173 Y \-0.22407754  
-- **Hellmire** coordinates are X 0.5111386 Y 0.3511805  
-- **Effluvia** coordinates are X \-0.023138678 Y \-0.24981944  
-- **Solghast** coordinates are X \-0.09065833 Y \-0.2413738  
-- **Diluvia** coordinates are X \-0.1440952 Y \-0.2027717  
-- **Viridia Prime** coordinates are X \-0.19187985 Y \-0.14480585  
-- **Obari** coordinates are X \-0.24438877 Y \-0.10283538  
-- **Myradesh** coordinates are X \-0.2415232 Y \-0.033197638  
-- **Atrama** coordinates are X \-0.25681943 Y 0.030138722  
-- **Emeria** coordinates are X \-0.2473738 Y 0.09965837  
-- **Barabos** coordinates are X \-0.1857717 Y 0.13809519  
-- **Fenmire** coordinates are X \-0.16809516 Y 0.19577172  
-- **Mastia** coordinates are X \-0.13065825 Y 0.30637383  
-- **Shallus** coordinates are X \-0.061315693 Y 0.2489306  
-- **Krakabos** coordinates are X 0.03782084 Y 0.32250285  
-- **Iridica** coordinates are X 0.1129696 Y 0.3345827  
-- **Azterra** coordinates are X 0.2219546 Y 0.2772582  
-- **Azur** Secundus coordinates are X 0.87390286 Y 0.35359928  
-- **Ivis** coordinates are X 0.287884 Y 0.1099696  
-- **Slif** coordinates are X 0.338688 Y 0.05460588  
-- **Caramoor** coordinates are X 0.32650283 Y \-0.12384212  
-- **Kharst** coordinates are X 0.26874065 Y \-0.21253327  
-- **Eukoria** coordinates are X 0.19353323 Y \-0.28004193  
-- **Myrium** coordinates are X 0.12696959 Y \-0.30758274  
-- **Kerth Secundus** coordinates are X 0.04284205 Y \-0.33550286  
-- **Parsh** coordinates are X \-0.038842108 Y \-0.32750285  
-- **Reaf** coordinates are X \-0.11379249 Y \-0.3215678  
-- **Irulta** coordinates are X \-0.19953328 Y \-0.2830419  
-- **Emorath** coordinates are X \-0.26690286 Y \-0.23559926  
-- **Ilduna Prime** coordinates are X \-0.28988406 Y \-0.16096954  
-- **Maw** coordinates are X \-0.33550286 Y \-0.05084203  
-- **Meridia** coordinates are X 0.5134972 Y 0.20684212  
-- **Borea** coordinates are X \-0.31756774 Y 0.13179255  
-- **Curia** coordinates are X \-0.24490279 Y 0.21259932  
-- **Tarsh** coordinates are X \-0.20995454 Y 0.28325823  
-- **Shelt** coordinates are X \-0.05373336 Y 0.3648641  
-- **Imber** coordinates are X \-0.060664836 Y 0.44539174  
-- **Blistica** coordinates are X \-0.1716316 Y 0.8050751  
-- **Ratch** coordinates are X 0.0441322 Y 0.42626023  
-- **Julheim** coordinates are X \-0.52319145 Y 0.14335436  
-- **Valgaard** coordinates are X 0.1661038 Y 0.40307793  
-- **Arkturus** coordinates are X 0.2559713 Y 0.5260108  
-- **Esker** coordinates are X 0.372748 Y 0.5082812  
-- **Terrek** coordinates are X 0.26528117 Y 0.347748  
-- **Cirrus** coordinates are X 0.32492584 Y 0.25839266  
-- **Crimsica** coordinates are X 0.6113544 Y 0.22880854  
-- **Heeth** coordinates are X 0.39437926 Y 0.27310377  
-- **Veld** coordinates are X 0.43926024 Y 0.0731322  
-- **Alta V** coordinates are X 0.3660751 Y \-0.04763163  
-- **Ursica XI** coordinates are X 0.5340751 Y \-0.090368435  
-- **Inari** coordinates are X 0.44555652 Y \-0.06207318  
-- **Skaash** coordinates are X 0.41835436 Y \-0.17080852  
-- **Moradesh** coordinates are X 0.33707795 Y 0.1548962  
-- **Rasp** coordinates are X 0.39501083 Y \-0.26197135  
-- **Bashyr** coordinates are X 0.32492584 Y \-0.26339266  
-- **Regnus** coordinates are X 0.24639264 Y \-0.3159259  
-- **Mog** coordinates are X 0.29074797 Y \-0.35328123  
-- **Valmox** coordinates are X 0.18610376 Y \-0.381078  
-- **Iro** coordinates are X 0.15380847 Y \-0.4373544  
-- **Grafmere** coordinates are X 0.06113215 Y \-0.40526026  
-- **New Stockholm** coordinates are X 0.1470731 Y \-0.5095566  
-- **Oasis** coordinates are X 0.00063157 Y \-0.4440751  
-- **Genesis Prime** coordinates are X \-0.07607324 Y \-0.44355652  
-- **Outpost 32** coordinates are X \-0.13786763 Y \-0.40105802  
-- **Calypso** coordinates are X \-0.21110377 Y \-0.42437923  
-- **Elysian Meadows** coordinates are X \-0.25539273 Y \-0.3439258  
-- **Alderidge Cove** coordinates are X \-0.31297135 Y \-0.39101082  
-- **Trandor** coordinates are X 0.9189892 Y \-0.1249713  
-- **East Iridium Trading Bay** coordinates are X \-0.3422812 Y \-0.302748  
-- **Liberty Ridge** coordinates are X \-0.4123793 Y \-0.17510368  
-- **Baldrick Prime** coordinates are X \-0.353078 Y \-0.13310368  
-- **The Weir** coordinates are X \-0.42307508 Y \-0.029368328  
-- **Kuper** coordinates are X \-0.46455657 Y \-0.09407307  
-- **Oslo Station** coordinates are X \-0.4232602 Y 0.05013234  
-- **Pöpli IX** coordinates are X \-0.6355565 Y 0.0490733  
-- **Gunvald** coordinates are X \-0.349058 Y 0.0568677  
-- **Dolph** coordinates are X \-0.531078 Y 0.05410378  
-- **Bekvam III** coordinates are X \-0.48401085 Y 0.21397132  
-- **Duma Tyr** coordinates are X \-0.40970957 Y 0.15897132  
-- **Vernen Wells** coordinates are X \-0.26997122 Y 0.3760109  
-- **Aesir Pass** coordinates are X \-0.34874794 Y 0.28628126  
-- **Aurora Bay** coordinates are X \-0.44310373 Y 0.599078  
-- **Penta** coordinates are X \-0.27880847 Y 0.58735436  
-- **Gaellivare** coordinates are X \-0.16213205 Y 0.4142603  
-- **Vog-Sojoth** coordinates are X \-0.122073 Y 0.5435566  
-- **Kirrik** coordinates are X 0.12954043 Y 0.52342516  
-- **Mortax Prime** coordinates are X 0.033894707 Y 0.5456473  
-- **Wilford Station** coordinates are X 0.1969427 Y 0.5865483  
-- **Pioneer II** coordinates are X 0.28023794 Y 0.6415732  
-- **Erson Sands** coordinates are X 0.46854144 Y 0.5513042  
-- **Socorro III** coordinates are X 0.3994094 Y 0.6009798  
-- **Bore Rock** coordinates are X 0.3259798 Y 0.4174094  
-- **Fenrir III** coordinates are X 0.46994886 Y 0.27418607  
-- **Turing** coordinates are X 0.5348745 Y 0.11823793  
-- **Angel’s Venture** coordinates are X 0.4448446 Y 0.1618837  
-- **Darius II** coordinates are X 0.6416474 Y \-0.034105327  
-- **Acamar IV** coordinates are X 0.6244252 Y 0.10954041  
-- **Achernar Secundus** coordinates are X 0.6394251 Y \-0.11354046  
-- **Achird III** coordinates are X 0.5706473 Y \-0.035894755  
-- **Acrab XI** coordinates are X 0.4985732 Y \-0.21423799  
-- **Acrux IX** coordinates are X 0.5715483 Y \-0.19894274  
-- **Acubens Prime** coordinates are X 0.39494884 Y \-0.34418607  
-- **Adhara** coordinates are X 0.3655414 Y \-0.40630427  
-- **Afoyay Bay** coordinates are X 0.30818605 Y \-0.4349489  
-- **Ain-5** coordinates are X 0.21723792 Y \-0.49157324  
-- **Alairt III** coordinates are X 0.11354035 Y \-0.5914251  
-- **Alamak VII** coordinates are X 0.06359941 Y \-0.5271288  
-- **Alaraph** coordinates are X \-0.03489475 Y \-0.54864734  
-- **Alathfar XI** coordinates are X \-0.12159955 Y \-0.5161287  
-- **Andar** coordinates are X \-0.20094277 Y \-0.4955483  
-- **Asperoth Prime** coordinates are X \-0.23688374 Y \-0.5768446  
-- **Bellatrix** coordinates are X \-0.30640945 Y \-0.4626785  
-- **Botein** coordinates are X \-0.3871862 Y \-0.43394879  
-- **Osupsam** coordinates are X \-0.47797978 Y \-0.3174094  
-- **Brink-2** coordinates are X \-0.4116785 Y \-0.3474094  
-- **Bunda Secundus** coordinates are X \-0.5268447 Y \-0.18688355  
-- **Canopus** coordinates are X \-0.47057328 Y \-0.23023784  
-- **Caph** coordinates are X \-0.5226474 Y \-0.035894625  
-- **Castor** coordinates are X \-0.56242514 Y \-0.11354032  
-- **Durgen** coordinates are X \-0.9146473 Y \-0.17310524  
-- **Draupnir** coordinates are X \-0.745425 Y \-0.1314594  
-- **Mort** coordinates are X \-0.6788745 Y 0.117238  
-- **Ingmar** coordinates are X \-0.73154825 Y 0.05294286  
-- **Charbal-VII** coordinates are X \-0.6009798 Y 0.2024094  
-- **Charon Prime** coordinates are X \-0.575186 Y 0.26594892  
-- **Choepessa IV** coordinates are X \-0.7044093 Y 0.25667855  
-- **Choohe** coordinates are X \-0.3992379 Y 0.5128745  
-- **Chort Bay** coordinates are X \-0.3412379 Y 0.5515733  
-- **Claorell** coordinates are X \-0.04959929 Y 0.5291288  
-- **Clasa** coordinates are X \-0.07354023 Y 0.6374251  
-- **Demiurg** coordinates are X 0.061421014 Y 0.6512196  
-- **Deneb Secundus** coordinates are X 0.09195879 Y 0.7373349  
-- **Electra Bay** coordinates are X 0.2163721 Y 0.7093697  
-- **Enuliale** coordinates are X 0.47584745 Y 0.6789487  
-- **Epsilon Phoencis VI** coordinates are X 0.5693348 Y 0.6043272  
-- **Erata Prime** coordinates are X 0.4243272 Y 0.34833485  
-- **Estanu** coordinates are X 0.5803697 Y 0.29137206  
-- **Fori Prime** coordinates are X 0.6880386 Y 0.30101782  
-- **Gacrux** coordinates are X 0.7302936 Y 0.14800768  
-- **Gar Haren** coordinates are X 0.7312195 Y \-0.12242107  
-- **Gatria** coordinates are X 0.8252936 Y \-0.13200772  
-- **Gemma** coordinates are X 0.5600685 Y \-0.27437216  
-- **Grand Errant** coordinates are X 0.6873349 Y \-0.2439588  
-- **Hadar** coordinates are X 0.51897186 Y \-0.3859795  
-- **Haka** coordinates are X 0.5813272 Y \-0.45833483  
-- **Haldus** coordinates are X 0.45897943 Y \-0.45897192  
-- **Halies Port** coordinates are X 0.4808474 Y \-0.5826475  
-- **Herthon Secundus** coordinates are X 0.27001774 Y \-0.5880387  
-- **Hesoe Prime** coordinates are X 0.3589587 Y \-0.73933494  
-- **Heze Bay** coordinates are X 0.04742095 Y \-0.64221954  
-- **Hort** coordinates are X 0.2510076 Y \-0.69129366  
-- **Hydrobius** coordinates are X \-0.04842106 Y \-0.70721954  
-- **Karlia** coordinates are X \-0.1330078 Y \-0.6602936  
-- **Keid** coordinates are X \-0.2649589 Y \-0.6723349  
-- **Khandark** coordinates are X \-0.37284753 Y \-0.5306474  
-- **Klaka 5** coordinates are X \-0.5559487 Y \-0.31584743  
-- **Kneth Port** coordinates are X \-0.4953272 Y \-0.4213348  
-- **Kraz** coordinates are X \-0.6140685 Y \-0.20337197  
-- **Kuma** coordinates are X 0.03396134 Y 0.9259823  
-- **Lastofe** coordinates are X \-0.62221956 Y \-0.042420916  
-- **Leng Secundus** coordinates are X \-0.6862936 Y \-0.25600755  
-- **Lesath** coordinates are X \-0.22899726 Y 0.49906695  
-- **Maia** coordinates are X \-0.9272936 Y \-0.04299212  
-- **Malevelon Creek** coordinates are X \-0.8473348 Y \-0.096041  
-- **Mantes** coordinates are X \-0.74603856 Y \-0.03198197  
-- **Marfark** coordinates are X \-0.43697178 Y 0.3259796  
-- **Martale** coordinates are X \-0.5379487 Y 0.3338475  
-- **Matar Bay** coordinates are X \-0.4909794 Y 0.4139719  
-- **Meissa** coordinates are X \-0.5683347 Y 0.4903273  
-- **Mekbuda** coordinates are X \-0.53437203 Y 0.6510685  
-- **Menkent** coordinates are X \-0.31501773 Y 0.4560387  
-- **Merak** coordinates are X \-0.35206652 Y 0.64499736  
-- **Merga IV** coordinates are X \-0.32600746 Y 0.7472937  
-- **Minchir** coordinates are X 0.084947325 Y 0.8337918  
-- **Mintoria** coordinates are X \-0.06005267 Y 0.84179187  
-- **Mordia 9** coordinates are X 0.3105063 Y 0.77156365  
-- **Nabatea Secundus** coordinates are X 0.7657729 Y 0.5369948  
-- **Navi VII** coordinates are X 0.77812827 Y 0.3443502  
-- **Nivel 43** coordinates are X 0.4889177 Y 0.43328553  
-- **Oshaune** coordinates are X 0.633865 Y 0.3955063  
-- **Overgoe Prime** coordinates are X 0.9115288 Y 0.18509296  
-- **Pandion-XXIV** coordinates are X 0.7147919 Y 0.06394728  
-- **Partion** coordinates are X 0.8417918 Y 0.10094728  
-- **Peacock** coordinates are X 0.93316215 Y 0.004525  
-- **Phact Bay** coordinates are X 0.7587918 Y \-0.019947395  
-- **Pherkad Secundus** coordinates are X 0.8658252 Y \-0.30003393  
-- **Polaris Prime** coordinates are X 0.7575288 Y \-0.351093  
-- **Pollux 31** coordinates are X 0.7659177 Y \-0.48228556  
-- **Prasa** coordinates are X 0.66399485 Y \-0.5727729  
-- **Propus** coordinates are X 0.58777285 Y \-0.676995  
-- **Ras Algethi** coordinates are X 0.49028546 Y \-0.71661645  
-- **RD-4** coordinates are X 0.29350623 Y \-0.8715637  
-- **Rogue 5** coordinates are X 0.14809287 Y \-0.91152894  
-- **Rirga Bay** coordinates are X 0.09694725 Y \-0.7277918  
-- **Seasse** coordinates are X 0.104947254 Y \-0.82979184  
-- **Senge 23** coordinates are X \-0.037947383 Y \-0.8437918  
-- **Setia** coordinates are X \-0.16047508 Y \-0.85416216  
-- **Shete** coordinates are X \-0.31250626 Y \-0.83086497  
-- **Siemnot** coordinates are X \-0.44250628 Y \-0.76256365  
-- **Sirius** coordinates are X \-0.5732856 Y \-0.6689176  
-- **Skat Bay** coordinates are X \-0.48777303 Y \-0.5639948  
-- **Spherion** coordinates are X \-0.6169949 Y \-0.5607729  
-- **Stor Tha Prime** coordinates are X \-0.75561637 Y \-0.5062855  
-- **Stout** coordinates are X \-0.6258253 Y \-0.40203378  
-- **Termadon** coordinates are X \-0.8608651 Y \-0.36050615  
-- **Tibit** coordinates are X \-0.7807918 Y \-0.3289472  
-- **Tien Kwan** coordinates are X \-0.6268659 Y \-0.12653387  
-- **Troost** coordinates are X \-0.9021621 Y 0.15547518  
-- **Ubanea** coordinates are X \-0.8157918 Y \-0.2170526  
-- **Ustotu** coordinates are X \-0.806865 Y 0.20750636  
-- **Vandalon IV** coordinates are X \-0.840825 Y 0.06103413  
-- **Varylia 5** coordinates are X \-0.74635 Y 0.3441284  
-- **Wasat** coordinates are X \-0.6519177 Y 0.45428553  
-- **Vega Bay** coordinates are X \-0.7952854 Y 0.4969178  
-- **Wezen** coordinates are X \-0.8741281 Y 0.3473503  
-- **Vindemitarix Prime** coordinates are X \-0.56103384 Y 0.77082515  
-- **X-45** coordinates are X \-0.6895062 Y 0.5908651  
-- **Yed Prior** coordinates are X \-0.13953374 Y 0.7098659  
-- **Zefia** coordinates are X \-0.048947096 Y 0.72179186  
-- **Zosma** coordinates are X \-0.35552636 Y 0.8833641  
-- **Zzaniah Prime** coordinates are X \-0.19952635 Y 0.9263641  
-- **Skitter** coordinates are X 0.14810903 Y 0.9233154  
-- **Euphoria III** coordinates are X 0.3191681 Y 0.8730191  
-- **Diaspora X** coordinates are X 0.5267236 Y 0.7475853  
-- **Gemstone Bluffs** coordinates are X 0.6665664 Y 0.6070179  
-- **Zagon Prime** coordinates are X 0.55758536 Y 0.4887236  
-- **Omicron** coordinates are X 0.6838866 Y 0.48672357  
-- **Cyberstan** coordinates are X \-0.438396 Y 0.6977152
-
-</details>
+**Heeth** of the ***Orion*** sector is under Terminid Control  
+**Angel's Venture** of the ***Orion*** sector is under Terminid control  
+**Erata Prime** of the ***Umlaut*** sector is under Terminid control  
+**Fenrir III** of the ***Umlaut*** sector is under Terminid control  
+**Meridia** of the ***Umlaut*** sector is under Terminid control  
+**Turing** of the ***Umlaut*** sector is under Terminid control  
+***Umlaut*** sector is fully under Terminid control  
+**Estanu** of the ***Draco*** sector is under Terminid control  
+**Crimsica** of the ***Draco*** sector is under Terminid control  
+**Fori Prime** of the ***Draco*** sector is under Terminid control  
+***Draco*** sector is fully under Terminid control  
+**Hellmire** of the ***Mirin*** sector is under Terminid control  
+**Nivel 43** of the ***Mirin*** sector is under Terminid control  
+**Zagon Prime** of the ***Mirin*** sector is under Terminid control  
+**Oshaune** of the ***Mirin*** sector is under Terminid control  
+***Mirin*** sector is fully under Terminid control  
+**Omicron** of the ***L'estrade*** sector is under Terminid control  
+**Diaspora X** of the ***L'estrade*** sector is under Terminid control  
+**Enuliale** of the ***L'estrade*** sector is under Terminid control  
+**Epsilon Phoencis VI** of the ***L'estrade*** sector is under Terminid control  
+**Gemstone Bluffs** of the ***L'estrade*** sector is under Terminid control  
+**Nabatea Secundus** of the ***L'estrade*** sector is under Terminid control  
+**Navi VII** of the ***L'estrade*** sector is under Terminid control  
+***L'estrade*** sector is fully under Terminid control  
+**Azur Secundus** of the ***Sten*** sector is under Terminid control  
+**Overgoe Prime** of the ***Sten*** sector is under Terminid control  
+**Partion** of the ***Sten*** sector is under Terminid control  
+**Peacock** of the ***Sten*** sector is under Terminid control  
+**Trandor** of the ***Sten*** sector is under Terminid control  
+***Sten*** sector is fully under Terminid control  
+**Maia** of the ***Severin*** sector is under Automaton control  
+**Durgen** of the ***Severin*** sector is under Automaton control  
+**Malevelon Creek** of the ***Severin*** sector is under Automaton control  
+**Ubanea** of the ***Severin*** sector is under Automaton control  
+**Tibit** of the ***Severin*** sector is under Automaton control  
+***Severin*** sector is fully under Automaton control  
+**Malevelon Creek** \- **Maia** warp link  
+**Malevelon Creek** \- **Durgen** warp link  
+**Malevelon Creek** \- **Draupnir** warp link  
+**Malevelon Creek** \- **Mantes** warp link  
+**Durgen** \- **Ubanea** warp link  
+**Ubanea** \- **Tibit** warp link  
+**Ubanea** \- **Draupnir** warp link  
+**Draupnir** \- **Mantes** warp link  
+**Mantes** \- **Ingmar** warp link  
+**Mantes** \- **Pöpli IX** warp link  
+**Ingmar** \- **Pöpli IX** warp link  
+**Ingmar** \- **Mort** warp link  
+**Mort** \- **Pöpli IX** warp link  
+**Terrek** \- **Azterra** warp link  
+**Sulfura** \- **Nublaria I** warp link  
+**Nublaria I** \- **Krakatwo** warp link  
+**Moradesh** \- **Cirrus** warp link  
+**Moradesh** \- **Fort Union** warp link  
+**Moradesh** \- **Ivis** warp link  
+**Moradesh** \- **Veld** warp link  
+**Moradesh** \- **Angel's Venture** warp link  
+**Turing** \- **Angel's Venture** warp link  
+**Turing** \- **Meridia** warp link  
+**Angel's Venture** \- **Meridia** warp link  
+**Angel's Venture** \- **Veld** warp link  
+**Veld** \- **Slif** warp link  
+**Slif** \- **Ivis** warp link  
+**Ivis** \- **Fort Union** warp link  
+**Fort Union** \- **Cirrus** warp link  
+**Cirrus** \- **Heeth** warp link  
+**Heeth** \- **Erata Prime** warp link  
+**Heeth** \- **Fenrir III** warp link  
+**Erata Prime** \- **Fenrir III** warp link  
+**Fenrir III** \- **Meridia** warp link  
+**Meridia** \- **Estanu** warp link  
+**Meridia** \- **Crimsica** warp link  
+**Fori Prime** \- **Estanu** warp link  
+**Fori Prime** \- **Crimsica** warp link  
+**Fori Prime** \- **Oshaune** warp link  
+**Oshaune** \- **Omicron** warp link  
+**Omicron** \- **Zagon Prime** warp link  
+**Zagon Prime** \- **Nivel 43** warp link  
+**Nivel 43** \- **Hellmire** warp link  
+**Hellmire** \- **Erata Prime** warp link  
+**Hellmire** \- **Fenrir III** warp link  
+**Hellmire** \- **Estanu** warp link  
+**Navi VII** \- **Nabatea Secundus** warp link  
+**Nabatea Secundus** \- **Gemstone Bluffs** warp link  
+**Gemstone Bluffs** \- **Epsilon Phoencis VI** warp link  
+**Epsilon Phoencis VI** \- **Enuliale** warp link  
+**Enuliale** \- **Diaspora X** warp link  
+**Diaspora X** \- **Gemstone Bluffs** warp link  
+**Super Earth** has **Super Earth** \[Super Earth\] biome  
+**Klen Dahth II** has Desert Dunes \[Sandy\] biome  
+**Pathfinder V** has Plains \[Moor\] biome  
+**Widow's Harbor** has Moon \[Sandy\] biome  
+**New Haven** has Ionic Jungle \[Primordial\] biome  
+**Pilen V** has Desert Cliffs \[Sandy\] biome  
+**Hydrofall Prime** has Rocky Canyons \[Sandy\] biome  
+**Darrowsport** has Acidic Badlands \[Sandy\] biome  
+**Fornskogur II** has Volcanic Jungle \[Primordial\] biome  
+**Midasburg** has Tundra \[Moor\] biome  
+**Veil** has Deadlands \[Primordial\] biome  
+**Marre IV** has Scorched Moor \[Moor\] biome  
+**Cerberus IIIc** has Desert Cliffs \[Sandy\] biome  
+**Prosperity Falls** has Ionic Jungle \[Primordial\] biome  
+**Fort Sanctuary** has Ionic Crimson \[Moor\] biome  
+**Seyshel Beach** has Ethereal Jungle \[Primordial\] biome  
+**Effluvia** has Rocky Canyons \[Sandy\] biome  
+**Okul VI** has Icy Glaciers \[Arctic\] biome  
+**Solghast** has Deadlands \[Primordial\] biome  
+**Diluvia** has Tundra \[Moor\] biome  
+**Martyr's Bay** has Boneyard \[Arctic\] biome  
+**Freedom Peak** has Ionic Crimson \[Moor\] biome  
+**Kelvinor** has Icy Glaciers \[Arctic\] biome  
+**Viridia Prime** has Desert Dunes \[Sandy\] biome  
+**Obari** has Plains \[Moor\] biome  
+**Fort Union** has Plains \[Moor\] biome  
+**Azterra** has Rocky Canyons \[Sandy\] biome  
+**Terrek** has Moon \[Sandy\] biome  
+**Cirrus** has Deadlands \[Primordial\] biome  
+**Heeth** has Icy Glaciers \[Arctic\] biome  
+**Veld** has Ionic Jungle \[Primordial\] biome  
+**Angel's Venture** has Tundra \[Moor\] biome  
+**Wraith** has Acidic Badlands \[Sandy\] biome  
+**Myradesh** has Desert Cliffs \[Sandy\] biome  
+**Atrama** has Ionic Jungle \[Primordial\] biome  
+**Maw** has Scorched Moor \[Moor\] biome  
+**Igla** has Boneyard \[Arctic\] biome  
+**New Kiruna** has Icy Glaciers \[Arctic\] biome  
+**Fort Justice** has Tundra \[Moor\] biome  
+**Zegema Paradise** has Volcanic Jungle \[Primordial\] biome  
+**Emeria** has Rocky Canyons \[Sandy\] biome  
+**Barabos** has Boneyard \[Arctic\] biome  
+**Fenmire** has Plains \[Moor\] biome  
+**Mastia** has Desert Dunes \[Sandy\] biome  
+**Curia** has Moon \[Sandy\] biome  
+**Tarsh** has Icy Glaciers \[Arctic\] biome  
+**Shallus** has Ethereal Jungle \[Primordial\] biome  
+**Shelt** has Tundra \[Moor\] biome  
+**Imber** has Scorched Moor \[Moor\] biome  
+**Gaellivare** has Volcanic Jungle \[Primordial\] biome  
+**Blistica** has Scorched Moor \[Moor\] biome  
+**Minchir** has Ionic Jungle \[Primordial\] biome  
+**Mintoria** has Plains \[Moor\] biome  
+**Zosma** has Moon \[Sandy\] biome  
+**Zzaniah Prime** has Desert Dunes \[Sandy\] biome  
+**Providence** has Ionic Crimson \[Moor\] biome  
+**Primordia** has Volcanic Jungle \[Primordial\] biome  
+**Krakabos** has Boneyard \[Arctic\] biome  
+**Iridica** has Ethereal Jungle \[Primordial\] biome  
+**Ratch** has Desert Dunes \[Sandy\] biome  
+**Valgaard** has Ionic Crimson \[Moor\] biome  
+**Sulfura** has Ethereal Jungle \[Primordial\] biome  
+**Nublaria I** has Volcanic Jungle \[Primordial\] biome  
+**Krakatwo** has Boneyard \[Arctic\] biome  
+**Ivis** has Icy Glaciers \[Arctic\] biome  
+**Slif** has Acidic Badlands \[Sandy\] biome  
+**Moradesh** has Desert Dunes \[Sandy\] biome  
+**Volterra** has Plains \[Moor\] biome  
+**Crucible** has Tundra \[Moor\] biome  
+**Caramoor** has Desert Dunes \[Sandy\] biome  
+**Alta V** has Volcanic Jungle \[Primordial\] biome  
+**Inari** has Boneyard \[Arctic\] biome  
+**Ursica XI** has Ethereal Jungle \[Primordial\] biome  
+**Darius II** has Acidic Badlands \[Sandy\] biome  
+**Achernar Secundus** has Plains \[Moor\] biome  
+**Achird III** has Rocky Canyons \[Sandy\] biome  
+**Acamar IV** has Plains \[Moor\] biome  
+**Gacrux** has Tundra \[Moor\] biome  
+**Gar Haren** has Volcanic Jungle \[Primordial\] biome  
+**Gatria** has Ionic Crimson \[Moor\] biome  
+**Pandion-XXIV** has Deadlands \[Primordial\] biome  
+**Phact Bay** has Desert Dunes \[Sandy\] biome  
+**Kharst** has Ionic Crimson \[Moor\] biome  
+**Rasp** has Moon \[Sandy\] biome  
+**Bashyr** has Deadlands \[Primordial\] biome  
+**Acubens Prime** has Ethereal Jungle \[Primordial\] biome  
+**Adhara** has Scorched Moor \[Moor\] biome  
+**Afoyay Bay** has Plains \[Moor\] biome  
+**Eukoria** has Boneyard \[Arctic\] biome  
+**Myrium** has Rocky Canyons \[Sandy\] biome  
+**Regnus** has Volcanic Jungle \[Primordial\] biome  
+**Mog** has Icy Glaciers \[Arctic\] biome  
+**Kerth Secundus** has Tundra \[Moor\] biome  
+**Parsh** has Icy Glaciers \[Arctic\] biome  
+**Valmox** has Ionic Crimson \[Moor\] biome  
+**Iro** has Plains \[Moor\] biome  
+**Grafmere** has Boneyard \[Arctic\] biome  
+**Oasis** has Volcanic Jungle \[Primordial\] biome  
+**Genesis Prime** has Ionic Jungle \[Primordial\] biome  
+**New Stockholm** has Icy Glaciers \[Arctic\] biome  
+**Ain-5** has Deadlands \[Primordial\] biome  
+**Alairt III** has Ionic Jungle \[Primordial\] biome  
+**Alamak VII** has Ethereal Jungle \[Primordial\] biome  
+**Heze Bay** has Desert Dunes \[Sandy\] biome  
+**Reaf** has Plains \[Moor\] biome  
+**Irulta** has Volcanic Jungle \[Primordial\] biome  
+**Outpost 32** has Desert Dunes \[Sandy\] biome  
+**Calypso** has Rocky Canyons \[Sandy\] biome  
+**Elysian Meadows** has Ionic Crimson \[Moor\] biome  
+**Alderidge Cove** has Deadlands \[Primordial\] biome  
+**Bellatrix** has Plains \[Moor\] biome  
+**Botein** has Acidic Badlands \[Sandy\] biome  
+**Khandark** has Icy Glaciers \[Arctic\] biome  
+**Emorath** has Ethereal Jungle \[Primordial\] biome  
+**Ilduna Prime** has Tundra \[Moor\] biome  
+**Liberty Ridge** has Ionic Crimson \[Moor\] biome  
+**Baldrick Prime** has Volcanic Jungle \[Primordial\] biome  
+**Meridia** has Volcanic Jungle \[Primordial\] biome  
+**Fenrir III** has Moon \[Sandy\] biome  
+**Turing** has Ethereal Jungle \[Primordial\] biome  
+**Erata Prime** has Desert Cliffs \[Sandy\] biome  
+**The Weir** has Plains \[Moor\] biome  
+**Kuper** has Ionic Jungle \[Primordial\] biome  
+**Caph** has Volcanic Jungle \[Primordial\] biome  
+**Castor** has Rocky Canyons \[Sandy\] biome  
+**Lastofe** has Desert Dunes \[Sandy\] biome  
+**Tien Kwan** has **Tien Kwan** \[Arctic\] biome  
+**Durgen** has Desert Dunes \[Sandy\] biome  
+**Maia** has Moon \[Sandy\] biome  
+**Malevelon Creek** has Ionic Jungle \[Primordial\] biome  
+**Tibit** has Ethereal Jungle \[Primordial\] biome  
+**Ubanea** has Ionic Crimson \[Moor\] biome  
+**Borea** has Icy Glaciers \[Arctic\] biome  
+**Oslo Station** has Boneyard \[Arctic\] biome  
+**Gunvald** has Ionic Crimson \[Moor\] biome  
+**Pöpli IX** has Scorched Moor \[Moor\] biome  
+**Draupnir** has Plains \[Moor\] biome  
+**Mort** has Deadlands \[Primordial\] biome  
+**Ingmar** has Ionic Crimson \[Moor\] biome  
+**Mantes** has Volcanic Jungle \[Primordial\] biome  
+**Charbal-VII** has Acidic Badlands \[Sandy\] biome  
+**Charon Prime** has Ionic Crimson \[Moor\] biome  
+**Marfark** has Icy Glaciers \[Arctic\] biome  
+**Martale** has Tundra \[Moor\] biome  
+**Matar Bay** has Plains \[Moor\] biome  
+**Meissa** has Volcanic Jungle \[Primordial\] biome  
+**Wasat** has Acidic Badlands \[Sandy\] biome  
+**Vega Bay** has Icy Glaciers \[Arctic\] biome  
+**Wezen** has Scorched Moor \[Moor\] biome  
+**X-45** has Deadlands \[Primordial\] biome  
+**Choepessa IV** has Boneyard \[Arctic\] biome  
+**Troost** has Deadlands \[Primordial\] biome  
+**Ustotu** has Desert Cliffs \[Sandy\] biome  
+**Vandalon IV** has Icy Glaciers \[Arctic\] biome  
+**Varylia 5** has Plains \[Moor\] biome  
+**Zea Rugosia** has Desert Cliffs \[Sandy\] biome  
+**Hadar** has Icy Glaciers \[Arctic\] biome  
+**Haldus** has Moon \[Sandy\] biome  
+**Herthon Secundus** has Scorched Moor \[Moor\] biome  
+**Haka** has Deadlands \[Primordial\] biome  
+**Halies Port** has Boneyard \[Arctic\] biome  
+**Propus** has Desert Dunes \[Sandy\] biome  
+**Ras Algethi** has Tundra \[Moor\] biome  
+**Azur Secundus** has Desert Cliffs \[Sandy\] biome  
+**Trandor** has Tundra \[Moor\] biome  
+**Overgoe Prime** has Ionic Crimson \[Moor\] biome  
+**Partion** has Scorched Moor \[Moor\] biome  
+**Peacock** has Ionic Jungle \[Primordial\] biome  
+**Julheim** has Icy Glaciers \[Arctic\] biome  
+**Dolph** has Moon \[Sandy\] biome  
+**Bekvam III** has Ethereal Jungle \[Primordial\] biome  
+**Duma Tyr** has Tundra \[Moor\] biome  
+**Vernen Wells** has Rocky Canyons \[Sandy\] biome  
+**Aesir Pass** has Deadlands \[Primordial\] biome  
+**Menkent** has Scorched Moor \[Moor\] biome  
+**Aurora Bay** has Tundra \[Moor\] biome  
+**Mekbuda** has Rocky Canyons \[Sandy\] biome  
+**Merak** has Ionic Jungle \[Primordial\] biome  
+**Merga IV** has Icy Glaciers \[Arctic\] biome  
+**Vindemitarix Prime** has Ethereal Jungle \[Primordial\] biome  
+**Cyberstan** has **Cyberstan** \[Arctic\] biome  
+**Penta** has Deadlands \[Primordial\] biome  
+**Choohe** has Desert Dunes \[Sandy\] biome  
+**Chort Bay** has Acidic Badlands \[Sandy\] biome  
+**Lesath** has Boneyard \[Arctic\] biome  
+**Hellmire** has Scorched Moor \[Moor\] biome  
+**Nivel 43** has Deadlands \[Primordial\] biome  
+**Oshaune** has Plains \[Moor\] biome  
+**Zagon Prime** has Desert Dunes \[Sandy\] biome  
+**Arkturus** has Icy Glaciers \[Arctic\] biome  
+**Kirrik** has Volcanic Jungle \[Primordial\] biome  
+**Mortax Prime** has Desert Cliffs \[Sandy\] biome  
+**Wilford Station** has Acidic Badlands \[Sandy\] biome  
+**Pioneer II** has Rocky Canyons \[Sandy\] biome  
+**Deneb Secundus** has Boneyard \[Arctic\] biome  
+**Electra Bay** has Plains \[Moor\] biome  
+**Enuliale** has Ionic Crimson \[Moor\] biome  
+**Epsilon Phoencis VI** has Icy Glaciers \[Arctic\] biome  
+**Nabatea Secundus** has Ionic Jungle \[Primordial\] biome  
+**Navi VII** has Volcanic Jungle \[Primordial\] biome  
+**Diaspora X** has Desert Dunes \[Sandy\] biome  
+**Gemstone Bluffs** has Plains \[Moor\] biome  
+**Omicron** has Tundra \[Moor\] biome  
+**Skaash** has Acidic Badlands \[Sandy\] biome  
+**Acrab XI** has Ionic Crimson \[Moor\] biome  
+**Acrux IX** has Boneyard \[Arctic\] biome  
+**Gemma** has Ionic Jungle \[Primordial\] biome  
+**Grand Errant** has Scorched Moor \[Moor\] biome  
+**Pherkad Secundus** has Plains \[Moor\] biome  
+**Polaris Prime** has Desert Cliffs \[Sandy\] biome  
+**Pollux 31** has Volcanic Jungle \[Primordial\] biome  
+**Prasa** has Rocky Canyons \[Sandy\] biome  
+**Esker** has Acidic Badlands \[Sandy\] biome  
+**Erson Sands** has Desert Cliffs \[Sandy\] biome  
+**Socorro III** has Ethereal Jungle \[Primordial\] biome  
+**Bore Rock** has Scorched Moor \[Moor\] biome  
+**Crimsica** has Ionic Crimson \[Moor\] biome  
+**Estanu** has Boneyard \[Arctic\] biome  
+**Fori Prime** has Rocky Canyons \[Sandy\] biome  
+**East Iridium Trading Bay** has Volcanic Jungle \[Primordial\] biome  
+**Osupsam** has Desert Dunes \[Sandy\] biome  
+**Brink-2** has Ionic Jungle \[Primordial\] biome  
+**Bunda Secundus** has Tundra \[Moor\] biome  
+**Canopus** has Desert Cliffs \[Sandy\] biome  
+**Vog-Sojoth** has Icy Glaciers \[Arctic\] biome  
+**Claorell** has Moon \[Sandy\] biome  
+**Clasa** has Volcanic Jungle \[Primordial\] biome  
+**Demiurg** has Tundra \[Moor\] biome  
+**Yed Prior** has Ionic Crimson \[Moor\] biome  
+**Zefia** has Ethereal Jungle \[Primordial\] biome  
+**Alaraph** has Deadlands \[Primordial\] biome  
+**Alathfar XI** has Icy Glaciers \[Arctic\] biome  
+**Andar** has Tundra \[Moor\] biome  
+**Asperoth Prime** has Scorched Moor \[Moor\] biome  
+**Keid** has Desert Dunes \[Sandy\] biome  
+**Hesoe Prime** has Icy Glaciers \[Arctic\] biome  
+**Hort** has Plains \[Moor\] biome  
+**RD-4** has Moon \[Sandy\] biome  
+**Rogue 5** has Volcanic Jungle \[Primordial\] biome  
+**Rirga Bay** has Acidic Badlands \[Sandy\] biome  
+**Hydrobius** has Desert Cliffs \[Sandy\] biome  
+**Karlia** has Scorched Moor \[Moor\] biome  
+**Seasse** has Ionic Jungle \[Primordial\] biome  
+**Senge 23** has Rocky Canyons \[Sandy\] biome  
+**Setia** has Desert Dunes \[Sandy\] biome  
+**Klaka 5** has Volcanic Jungle \[Primordial\] biome  
+**Kneth Port** has Scorched Moor \[Moor\] biome  
+**Kraz** has Rocky Canyons \[Sandy\] biome  
+**Kuma** has Rocky Canyons \[Sandy\] biome  
+**Mordia 9** has Ethereal Jungle \[Primordial\] biome  
+**Skitter** has Plains \[Moor\] biome  
+**Euphoria III** has Moon \[Sandy\] biome  
+**Leng Secundus** has Acidic Badlands \[Sandy\] biome  
+**Spherion** has Volcanic Jungle \[Primordial\] biome  
+**Stor Tha Prime** has Boneyard \[Arctic\] biome  
+**Stout** has Ionic Crimson \[Moor\] biome  
+**Termadon** has Plains \[Moor\] biome  
+**Shete** has Acidic Badlands \[Sandy\] biome  
+**Siemnot** has Ionic Jungle \[Primordial\] biome  
+**Sirius** has Moon \[Sandy\] biome  
+**Skat Bay** has Deadlands \[Primordial\] biome  
+**Super Earth** coordinates are X 0.0 Y 0.0  
+**Klen Dahth II** coordinates are X 0.05373042 Y 0.10565466  
+**Pathfinder V** coordinates are X 0.04664221 Y 0.16758725  
+**Widow’s Harbor** coordinates are X 0.12536779 Y 0.11821219  
+**New Haven** coordinates are X 0.10280278 Y 0.05765711  
+**Pilen V** coordinates are X 0.15988354 Y 0.043583166  
+**Hydrofall** coordinates are X 0.13535836 Y \-0.03378948  
+**Zea Rugosia** coordinates are X 0.36159223 Y \-0.52270126  
+**Darrowsport** coordinates are X 0.09485684 Y \-0.08101245  
+**Fornskogur II** coordinates are X 0.15801243 Y \-0.09685686  
+**Midasburg** coordinates are X 0.06770126 Y \-0.1448935  
+**Cerberus IIIc** coordinates are X 0.001789452 Y \-0.18935835  
+**Prosperity Falls** coordinates are X \-0.001789474 Y \-0.12535837  
+**Okul VI** coordinates are X \-0.06158319 Y \-0.16488354  
+**Martyr’s Bay** coordinates are X \-0.099012464 Y \-0.11185683  
+**Freedom Peak** coordinates are X \-0.17010404 Y \-0.08865711  
+**Fort Union** coordinates are X 0.27240774 Y 0.20429876  
+**Kelvinor** coordinates are X \-0.14765465 Y \-0.030730395  
+**Wraith** coordinates are X \-0.15065464 Y 0.015730456  
+**Igla** coordinates are X \-0.1728935 Y 0.06970126  
+**New Kiruna** coordinates are X \-0.12621213 Y 0.11136782  
+**Fort Justice** coordinates are X \-0.07801243 Y 0.10585686  
+**Zegema Paradise** coordinates are X \-0.039789412 Y 0.14535835  
+**Providence** coordinates are X 0.030315775 Y 0.2269306  
+**Primordia** coordinates are X 0.09383544 Y 0.25608748  
+**Sulfura** coordinates are X 0.17009519 Y 0.1877717  
+**Nublaria I** coordinates are X 0.2117717 Y 0.12409518  
+**Krakatwo** coordinates are X 0.2540875 Y 0.05583542  
+**Volterra** coordinates are X 0.2939306 Y \-0.033684243  
+**Crucible** coordinates are X 0.22952318 Y \-0.029197697  
+**Veil** coordinates are X 0.23037383 Y \-0.0976583  
+**Marre IV** coordinates are X 0.2007717 Y \-0.1490952  
+**Fort Sanctuary** coordinates are X 0.15409517 Y \-0.210073  
+**Seyshel Beach** coordinates are X 0.0977173 Y \-0.22407754  
+**Hellmire** coordinates are X 0.5111386 Y 0.3511805  
+**Effluvia** coordinates are X \-0.023138678 Y \-0.24981944  
+**Solghast** coordinates are X \-0.09065833 Y \-0.2413738  
+**Diluvia** coordinates are X \-0.1440952 Y \-0.2027717  
+**Viridia Prime** coordinates are X \-0.19187985 Y \-0.14480585  
+**Obari** coordinates are X \-0.24438877 Y \-0.10283538  
+**Myradesh** coordinates are X \-0.2415232 Y \-0.033197638  
+**Atrama** coordinates are X \-0.25681943 Y 0.030138722  
+**Emeria** coordinates are X \-0.2473738 Y 0.09965837  
+**Barabos** coordinates are X \-0.1857717 Y 0.13809519  
+**Fenmire** coordinates are X \-0.16809516 Y 0.19577172  
+**Mastia** coordinates are X \-0.13065825 Y 0.30637383  
+**Shallus** coordinates are X \-0.061315693 Y 0.2489306  
+**Krakabos** coordinates are X 0.03782084 Y 0.32250285  
+**Iridica** coordinates are X 0.1129696 Y 0.3345827  
+**Azterra** coordinates are X 0.2219546 Y 0.2772582  
+**Azur** Secundus coordinates are X 0.87390286 Y 0.35359928  
+**Ivis** coordinates are X 0.287884 Y 0.1099696  
+**Slif** coordinates are X 0.338688 Y 0.05460588  
+**Caramoor** coordinates are X 0.32650283 Y \-0.12384212  
+**Kharst** coordinates are X 0.26874065 Y \-0.21253327  
+**Eukoria** coordinates are X 0.19353323 Y \-0.28004193  
+**Myrium** coordinates are X 0.12696959 Y \-0.30758274  
+**Kerth Secundus** coordinates are X 0.04284205 Y \-0.33550286  
+**Parsh** coordinates are X \-0.038842108 Y \-0.32750285  
+**Reaf** coordinates are X \-0.11379249 Y \-0.3215678  
+**Irulta** coordinates are X \-0.19953328 Y \-0.2830419  
+**Emorath** coordinates are X \-0.26690286 Y \-0.23559926  
+**Ilduna Prime** coordinates are X \-0.28988406 Y \-0.16096954  
+**Maw** coordinates are X \-0.33550286 Y \-0.05084203  
+**Meridia** coordinates are X 0.5134972 Y 0.20684212  
+**Borea** coordinates are X \-0.31756774 Y 0.13179255  
+**Curia** coordinates are X \-0.24490279 Y 0.21259932  
+**Tarsh** coordinates are X \-0.20995454 Y 0.28325823  
+**Shelt** coordinates are X \-0.05373336 Y 0.3648641  
+**Imber** coordinates are X \-0.060664836 Y 0.44539174  
+**Blistica** coordinates are X \-0.1716316 Y 0.8050751  
+**Ratch** coordinates are X 0.0441322 Y 0.42626023  
+**Julheim** coordinates are X \-0.52319145 Y 0.14335436  
+**Valgaard** coordinates are X 0.1661038 Y 0.40307793  
+**Arkturus** coordinates are X 0.2559713 Y 0.5260108  
+**Esker** coordinates are X 0.372748 Y 0.5082812  
+**Terrek** coordinates are X 0.26528117 Y 0.347748  
+**Cirrus** coordinates are X 0.32492584 Y 0.25839266  
+**Crimsica** coordinates are X 0.6113544 Y 0.22880854  
+**Heeth** coordinates are X 0.39437926 Y 0.27310377  
+**Veld** coordinates are X 0.43926024 Y 0.0731322  
+**Alta V** coordinates are X 0.3660751 Y \-0.04763163  
+**Ursica XI** coordinates are X 0.5340751 Y \-0.090368435  
+**Inari** coordinates are X 0.44555652 Y \-0.06207318  
+**Skaash** coordinates are X 0.41835436 Y \-0.17080852  
+**Moradesh** coordinates are X 0.33707795 Y 0.1548962  
+**Rasp** coordinates are X 0.39501083 Y \-0.26197135  
+**Bashyr** coordinates are X 0.32492584 Y \-0.26339266  
+**Regnus** coordinates are X 0.24639264 Y \-0.3159259  
+**Mog** coordinates are X 0.29074797 Y \-0.35328123  
+**Valmox** coordinates are X 0.18610376 Y \-0.381078  
+**Iro** coordinates are X 0.15380847 Y \-0.4373544  
+**Grafmere** coordinates are X 0.06113215 Y \-0.40526026  
+**New Stockholm** coordinates are X 0.1470731 Y \-0.5095566  
+**Oasis** coordinates are X 0.00063157 Y \-0.4440751  
+**Genesis Prime** coordinates are X \-0.07607324 Y \-0.44355652  
+**Outpost 32** coordinates are X \-0.13786763 Y \-0.40105802  
+**Calypso** coordinates are X \-0.21110377 Y \-0.42437923  
+**Elysian Meadows** coordinates are X \-0.25539273 Y \-0.3439258  
+**Alderidge Cove** coordinates are X \-0.31297135 Y \-0.39101082  
+**Trandor** coordinates are X 0.9189892 Y \-0.1249713  
+**East Iridium Trading Bay** coordinates are X \-0.3422812 Y \-0.302748  
+**Liberty Ridge** coordinates are X \-0.4123793 Y \-0.17510368  
+**Baldrick Prime** coordinates are X \-0.353078 Y \-0.13310368  
+**The Weir** coordinates are X \-0.42307508 Y \-0.029368328  
+**Kuper** coordinates are X \-0.46455657 Y \-0.09407307  
+**Oslo Station** coordinates are X \-0.4232602 Y 0.05013234  
+**Pöpli IX** coordinates are X \-0.6355565 Y 0.0490733  
+**Gunvald** coordinates are X \-0.349058 Y 0.0568677  
+**Dolph** coordinates are X \-0.531078 Y 0.05410378  
+**Bekvam III** coordinates are X \-0.48401085 Y 0.21397132  
+**Duma Tyr** coordinates are X \-0.40970957 Y 0.15897132  
+**Vernen Wells** coordinates are X \-0.26997122 Y 0.3760109  
+**Aesir Pass** coordinates are X \-0.34874794 Y 0.28628126  
+**Aurora Bay** coordinates are X \-0.44310373 Y 0.599078  
+**Penta** coordinates are X \-0.27880847 Y 0.58735436  
+**Gaellivare** coordinates are X \-0.16213205 Y 0.4142603  
+**Vog-Sojoth** coordinates are X \-0.122073 Y 0.5435566  
+**Kirrik** coordinates are X 0.12954043 Y 0.52342516  
+**Mortax Prime** coordinates are X 0.033894707 Y 0.5456473  
+**Wilford Station** coordinates are X 0.1969427 Y 0.5865483  
+**Pioneer II** coordinates are X 0.28023794 Y 0.6415732  
+**Erson Sands** coordinates are X 0.46854144 Y 0.5513042  
+**Socorro III** coordinates are X 0.3994094 Y 0.6009798  
+**Bore Rock** coordinates are X 0.3259798 Y 0.4174094  
+**Fenrir III** coordinates are X 0.46994886 Y 0.27418607  
+**Turing** coordinates are X 0.5348745 Y 0.11823793  
+**Angel’s Venture** coordinates are X 0.4448446 Y 0.1618837  
+**Darius II** coordinates are X 0.6416474 Y \-0.034105327  
+**Acamar IV** coordinates are X 0.6244252 Y 0.10954041  
+**Achernar Secundus** coordinates are X 0.6394251 Y \-0.11354046  
+**Achird III** coordinates are X 0.5706473 Y \-0.035894755  
+**Acrab XI** coordinates are X 0.4985732 Y \-0.21423799  
+**Acrux IX** coordinates are X 0.5715483 Y \-0.19894274  
+**Acubens Prime** coordinates are X 0.39494884 Y \-0.34418607  
+**Adhara** coordinates are X 0.3655414 Y \-0.40630427  
+**Afoyay Bay** coordinates are X 0.30818605 Y \-0.4349489  
+**Ain-5** coordinates are X 0.21723792 Y \-0.49157324  
+**Alairt III** coordinates are X 0.11354035 Y \-0.5914251  
+**Alamak VII** coordinates are X 0.06359941 Y \-0.5271288  
+**Alaraph** coordinates are X \-0.03489475 Y \-0.54864734  
+**Alathfar XI** coordinates are X \-0.12159955 Y \-0.5161287  
+**Andar** coordinates are X \-0.20094277 Y \-0.4955483  
+**Asperoth Prime** coordinates are X \-0.23688374 Y \-0.5768446  
+**Bellatrix** coordinates are X \-0.30640945 Y \-0.4626785  
+**Botein** coordinates are X \-0.3871862 Y \-0.43394879  
+**Osupsam** coordinates are X \-0.47797978 Y \-0.3174094  
+**Brink-2** coordinates are X \-0.4116785 Y \-0.3474094  
+**Bunda Secundus** coordinates are X \-0.5268447 Y \-0.18688355  
+**Canopus** coordinates are X \-0.47057328 Y \-0.23023784  
+**Caph** coordinates are X \-0.5226474 Y \-0.035894625  
+**Castor** coordinates are X \-0.56242514 Y \-0.11354032  
+**Durgen** coordinates are X \-0.9146473 Y \-0.17310524  
+**Draupnir** coordinates are X \-0.745425 Y \-0.1314594  
+**Mort** coordinates are X \-0.6788745 Y 0.117238  
+**Ingmar** coordinates are X \-0.73154825 Y 0.05294286  
+**Charbal-VII** coordinates are X \-0.6009798 Y 0.2024094  
+**Charon Prime** coordinates are X \-0.575186 Y 0.26594892  
+**Choepessa IV** coordinates are X \-0.7044093 Y 0.25667855  
+**Choohe** coordinates are X \-0.3992379 Y 0.5128745  
+**Chort Bay** coordinates are X \-0.3412379 Y 0.5515733  
+**Claorell** coordinates are X \-0.04959929 Y 0.5291288  
+**Clasa** coordinates are X \-0.07354023 Y 0.6374251  
+**Demiurg** coordinates are X 0.061421014 Y 0.6512196  
+**Deneb Secundus** coordinates are X 0.09195879 Y 0.7373349  
+**Electra Bay** coordinates are X 0.2163721 Y 0.7093697  
+**Enuliale** coordinates are X 0.47584745 Y 0.6789487  
+**Epsilon Phoencis VI** coordinates are X 0.5693348 Y 0.6043272  
+**Erata Prime** coordinates are X 0.4243272 Y 0.34833485  
+**Estanu** coordinates are X 0.5803697 Y 0.29137206  
+**Fori Prime** coordinates are X 0.6880386 Y 0.30101782  
+**Gacrux** coordinates are X 0.7302936 Y 0.14800768  
+**Gar Haren** coordinates are X 0.7312195 Y \-0.12242107  
+**Gatria** coordinates are X 0.8252936 Y \-0.13200772  
+**Gemma** coordinates are X 0.5600685 Y \-0.27437216  
+**Grand Errant** coordinates are X 0.6873349 Y \-0.2439588  
+**Hadar** coordinates are X 0.51897186 Y \-0.3859795  
+**Haka** coordinates are X 0.5813272 Y \-0.45833483  
+**Haldus** coordinates are X 0.45897943 Y \-0.45897192  
+**Halies Port** coordinates are X 0.4808474 Y \-0.5826475  
+**Herthon Secundus** coordinates are X 0.27001774 Y \-0.5880387  
+**Hesoe Prime** coordinates are X 0.3589587 Y \-0.73933494  
+**Heze Bay** coordinates are X 0.04742095 Y \-0.64221954  
+**Hort** coordinates are X 0.2510076 Y \-0.69129366  
+**Hydrobius** coordinates are X \-0.04842106 Y \-0.70721954  
+**Karlia** coordinates are X \-0.1330078 Y \-0.6602936  
+**Keid** coordinates are X \-0.2649589 Y \-0.6723349  
+**Khandark** coordinates are X \-0.37284753 Y \-0.5306474  
+**Klaka 5** coordinates are X \-0.5559487 Y \-0.31584743  
+**Kneth Port** coordinates are X \-0.4953272 Y \-0.4213348  
+**Kraz** coordinates are X \-0.6140685 Y \-0.20337197  
+**Kuma** coordinates are X 0.03396134 Y 0.9259823  
+**Lastofe** coordinates are X \-0.62221956 Y \-0.042420916  
+**Leng Secundus** coordinates are X \-0.6862936 Y \-0.25600755  
+**Lesath** coordinates are X \-0.22899726 Y 0.49906695  
+**Maia** coordinates are X \-0.9272936 Y \-0.04299212  
+**Malevelon Creek** coordinates are X \-0.8473348 Y \-0.096041  
+**Mantes** coordinates are X \-0.74603856 Y \-0.03198197  
+**Marfark** coordinates are X \-0.43697178 Y 0.3259796  
+**Martale** coordinates are X \-0.5379487 Y 0.3338475  
+**Matar Bay** coordinates are X \-0.4909794 Y 0.4139719  
+**Meissa** coordinates are X \-0.5683347 Y 0.4903273  
+**Mekbuda** coordinates are X \-0.53437203 Y 0.6510685  
+**Menkent** coordinates are X \-0.31501773 Y 0.4560387  
+**Merak** coordinates are X \-0.35206652 Y 0.64499736  
+**Merga IV** coordinates are X \-0.32600746 Y 0.7472937  
+**Minchir** coordinates are X 0.084947325 Y 0.8337918  
+**Mintoria** coordinates are X \-0.06005267 Y 0.84179187  
+**Mordia 9** coordinates are X 0.3105063 Y 0.77156365  
+**Nabatea Secundus** coordinates are X 0.7657729 Y 0.5369948  
+**Navi VII** coordinates are X 0.77812827 Y 0.3443502  
+**Nivel 43** coordinates are X 0.4889177 Y 0.43328553  
+**Oshaune** coordinates are X 0.633865 Y 0.3955063  
+**Overgoe Prime** coordinates are X 0.9115288 Y 0.18509296  
+**Pandion-XXIV** coordinates are X 0.7147919 Y 0.06394728  
+**Partion** coordinates are X 0.8417918 Y 0.10094728  
+**Peacock** coordinates are X 0.93316215 Y 0.004525  
+**Phact Bay** coordinates are X 0.7587918 Y \-0.019947395  
+**Pherkad Secundus** coordinates are X 0.8658252 Y \-0.30003393  
+**Polaris Prime** coordinates are X 0.7575288 Y \-0.351093  
+**Pollux 31** coordinates are X 0.7659177 Y \-0.48228556  
+**Prasa** coordinates are X 0.66399485 Y \-0.5727729  
+**Propus** coordinates are X 0.58777285 Y \-0.676995  
+**Ras Algethi** coordinates are X 0.49028546 Y \-0.71661645  
+**RD-4** coordinates are X 0.29350623 Y \-0.8715637  
+**Rogue 5** coordinates are X 0.14809287 Y \-0.91152894  
+**Rirga Bay** coordinates are X 0.09694725 Y \-0.7277918  
+**Seasse** coordinates are X 0.104947254 Y \-0.82979184  
+**Senge 23** coordinates are X \-0.037947383 Y \-0.8437918  
+**Setia** coordinates are X \-0.16047508 Y \-0.85416216  
+**Shete** coordinates are X \-0.31250626 Y \-0.83086497  
+**Siemnot** coordinates are X \-0.44250628 Y \-0.76256365  
+**Sirius** coordinates are X \-0.5732856 Y \-0.6689176  
+**Skat Bay** coordinates are X \-0.48777303 Y \-0.5639948  
+**Spherion** coordinates are X \-0.6169949 Y \-0.5607729  
+**Stor Tha Prime** coordinates are X \-0.75561637 Y \-0.5062855  
+**Stout** coordinates are X \-0.6258253 Y \-0.40203378  
+**Termadon** coordinates are X \-0.8608651 Y \-0.36050615  
+**Tibit** coordinates are X \-0.7807918 Y \-0.3289472  
+**Tien Kwan** coordinates are X \-0.6268659 Y \-0.12653387  
+**Troost** coordinates are X \-0.9021621 Y 0.15547518  
+**Ubanea** coordinates are X \-0.8157918 Y \-0.2170526  
+**Ustotu** coordinates are X \-0.806865 Y 0.20750636  
+**Vandalon IV** coordinates are X \-0.840825 Y 0.06103413  
+**Varylia 5** coordinates are X \-0.74635 Y 0.3441284  
+**Wasat** coordinates are X \-0.6519177 Y 0.45428553  
+**Vega Bay** coordinates are X \-0.7952854 Y 0.4969178  
+**Wezen** coordinates are X \-0.8741281 Y 0.3473503  
+**Vindemitarix Prime** coordinates are X \-0.56103384 Y 0.77082515  
+**X-45** coordinates are X \-0.6895062 Y 0.5908651  
+**Yed Prior** coordinates are X \-0.13953374 Y 0.7098659  
+**Zefia** coordinates are X \-0.048947096 Y 0.72179186  
+**Zosma** coordinates are X \-0.35552636 Y 0.8833641  
+**Zzaniah Prime** coordinates are X \-0.19952635 Y 0.9263641  
+**Skitter** coordinates are X 0.14810903 Y 0.9233154  
+**Euphoria III** coordinates are X 0.3191681 Y 0.8730191  
+**Diaspora X** coordinates are X 0.5267236 Y 0.7475853  
+**Gemstone Bluffs** coordinates are X 0.6665664 Y 0.6070179  
+**Zagon Prime** coordinates are X 0.55758536 Y 0.4887236  
+**Omicron** coordinates are X 0.6838866 Y 0.48672357  
+**Cyberstan** coordinates are X \-0.438396 Y 0.6977152
 
 ### Second Galactic War Statistics
- 
+
 See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveomega.github.io/helldiversplanettable/) to view the up to date statistics on defenses, liberations, and insta-flips.
 
 #### Major Order Data
