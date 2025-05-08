@@ -1,11 +1,12 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 toc:
     enabled: true
-theme: minima
+remote_theme: jekyll/minima@3cdd14d
 defaults:
   - scope:
       path: ""
