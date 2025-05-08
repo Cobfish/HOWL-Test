@@ -6,7 +6,7 @@ relative_links:
   collections: true
 toc:
     enabled: true
-remote_theme: jekyll/minima@3cdd14d
+theme: minima
 defaults:
   - scope:
       path: ""
