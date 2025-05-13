@@ -544,7 +544,6 @@ Day \#62 9:00am 9th Apr 2024
 **Chort Bay** of the ***Lacaille*** sector is attacked by Automatons (11:43am UTC 9th Apr 2024\)  
 **Lesath** of the ***Lacaille*** sector is attacked by Automatons (11:43am UTC 9th Apr 2024\)  
 **Menkent** of the ***Hydra*** sector is attacked by Automatons (11:43am UTC 9th Apr 2024\)  
-Emergency Alert | Reclamation Emergency Defense is issued (11:47am UTC 9th Apr 2024\)  
 Dispatch: HIGH PRIORITY BROADCAST. ALL UNITS TO LIBCON 1\. FEDERATION UNDER ATTACK. MULTIPLE PLANETS HAVE FALLEN. A massive Automaton Invasion Fleet, comprising tens of thousands of warships, arrived from FTL jump to the ***Valdis*** Sector and overran nearly every planet in just hours. Attacks on communications networks delayed warning until now. SEAF reserves are scrambling. All Helldivers are called to deploy immediately to the defense. This Fleet dwarfs the Automaton armies destroyed in Operation Swift Disassembly. As we predicted from the start, they were merely a vanguard. This is the Automatons' true force. Where the Automatons hid this fleet, and what their true intentions are—those questions must be answered later. The Reclamation has begun. (11:47pm UTC 9th Apr 2024\)  
 ↳ **NOTE**: This Dispatch is for Operation A1-4-5 (11:47pm UTC 9th Apr 2024\)  
 ***Major Order*** | A1-4-4 Liberate **Hellmire**, **Estanu** and **Crimsica** is won | Objective: Liberate (12:02pm UTC 9th Apr 2024\)  
@@ -800,7 +799,6 @@ Dispatch: OP LEGITIMATE UNDERTAKING, PHASE I FAILED. The Automatons, in their ca
 **Meridia** is not accessible despite connecting to the liberated world of **Crimsica** (02:22pm UTC 29th Apr 2024\)  
 **Meridia** is not accessible despite connecting to the liberated world of **Estanu** (02:22pm UTC 29th Apr 2024\)  
 ***Major Order*** | A1-4-11 Deactivate the TCS is issued | Objective: Liberate (02:24pm UTC 29th Apr 2024\)  
-Emergency Alert | TCS Failure Emergency Defense is issued (02:28pm UTC 29th Apr 2024\)  
 Dispatch: EMERGENCY BROADCAST. Terminid outbreaks have erupted on all Barrier Planets. The bugs appear to be showing resistance to Termicide. On **Meridia**, Terminid reproduction rates have exploded overnight. While the mechanism for this adaptation is unclear, it appears to be linked to continued Termicide exposure. It cannot be allowed to spread. The Helldivers are ordered to deactivate the Terminid Control System on the remaining Barrier Planets immediately. (02:28pm UTC 29th Apr 2024\)  
 **Crimsica** of the ***Draco*** sector is attacked by Terminids (02:31pm UTC 29th Apr 2024\)
 
@@ -2249,8 +2247,7 @@ Assault Division: ***Jet Brigade*** U1 deploys to **Choohe** (11:43am UTC 18th O
 Assault Division: ***Jet Brigade*** U1 leaves **Choohe** (11:45am UTC 18th Oct 2024\)  
 **Matar Bay** of the ***Andromeda*** sector is attacked by Automatons (01:01pm UTC 18th Oct 2024\)  
 Assault Division: ***Jet Brigade*** U1 deploys to **Matar Bay** (01:01pm UTC 18th Oct 2024\)  
-Emergency Alert | ***Jet Brigade*** Emergency Defense is issued (01:03pm UTC 18th Oct 2024\)  
-***Major Order*** | A1-10-4 ***Jet Brigade*** is issued | Objective: Defend (01:03pm UTC 18th Oct 2024\)
+***Major Order*** | A1-10-4 Stop The ***Jet Brigade*** is issued | Objective: Defend (01:03pm UTC 18th Oct 2024\)
 
 Day \#255 9:00am 19th Oct 2024  
 **Matar Bay** defense is failed (01:05pm UTC 19th Oct 2024\)  
@@ -2272,7 +2269,7 @@ Assault Division: ***Jet Brigade*** U1 deploys to **Marfark** (04:11am UTC 21st 
 Day \#257 9:00am 21st Oct 2024  
 Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. This experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as: \-a fluttering **Super Earth** flag \-a filled-out ballot \-the inevitable destruction of Freedom's enemies. (06:51pm UTC 21st Oct 2024\)  
 **Marfark** defense is won (03:36am UTC 22nd Oct 2024\)  
-↳ ***Major Order*** | A1-10-4 ***Jet Brigade*** is won | Objective: Defend (03:36am UTC 22nd Oct 2024\)  
+↳ ***Major Order*** | A1-10-4 Stop The ***Jet Brigade*** is won | Objective: Defend (03:36am UTC 22nd Oct 2024\)  
 Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the ***Jet Brigade*** has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (07:09am UTC 22nd Oct 2024\)  
 Assault Division: ***Jet Brigade*** U1 is routed (07:17am UTC 22nd Oct 2024\)
 
@@ -2733,7 +2730,6 @@ DSS is disabled (02:22am UTC 13th Dec 2024\)
 DSS effect Eagle Storm stops (02:22am UTC 13th Dec 2024\)  
 Dispatch: EMERGENCY ALERT. DISREGARD ALL PRIOR ORDERS. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE. REPLACEMENT ORDERS TO FOLLOW THIS MESSAGE (02:24am UTC 13th Dec 2024\)  
 Dispatch: ALL UNITS TO LIBCON 1\. PLANET CALYPSO UNDER ATTACK. ALL HELLDIVERS ORDERED TO **CALYPSO** IMMEDIATELY. ILLUMINATE SIGNATURES REPORTED (02:28am UTC 13th Dec 2024\)  
-Emergency Alert | **Calypso** Illuminate Emergency Invasion Defense is issued (02:28am UTC 13th Dec 2024\)  
 ***Major Order*** | A1-12-3 Defend **Calypso** from the Illuminate is issued | Objective: Defend (02:28am UTC 13th Dec 2024\)  
 Dispatch: DSS OFFLINE. The Democracy Space Station has been taken offline following multiple catastrophic system failures. Sabotage is suspected. The station has been locked down for repair, with all personnel to undergo security screenings. (02:30am UTC 13th Dec 2024\)
 
@@ -5557,7 +5553,7 @@ DSS deploys to **Tien Kwan** of the ***Theseus*** sector (04:59am UTC 29th Apr 2
 **NOTE**: Due to unknown reasons it was not possible to dive on **Tien Kwan** as it would instantly crash the player upon loading the mission. It is presumed that Joel and his team manually ended the invasion as a result of this (06:01am UTC 29th Apr 2025\)  
 DSS deploys to **Fenrir III** of the ***Umlaut*** sector (06:01am UTC 29th Apr 2025\)  
 **Meridia** moves to X 0.26588857 Y 0.11910832 (07:00pm UTC 29th Apr 2025\)  
-**Meridia** moves to X 0.26588848 Y 0.19910833 (07:08pm UTC 29th Apr 2025\)  
+**Meridia** moves to X 0.26588848 Y 0.11910833 (07:08pm UTC 29th Apr 2025\)  
 **Nublaria I** of the **Celeste** sector is now safe from threat of destruction (07:20pm UTC 29th Apr 2025\)
 
 Day \#447 9:00am 29th Apr 2025  
@@ -5735,7 +5731,92 @@ Assault Division: ***Jet Brigade*** U5 deploys to **Claorell** (12:56pm UTC 7th 
 DSS deploys to **Krakatwo** of the ***Celeste*** sector (05:01pm UTC 7th May 2025\)  
 **Cirrus** is liberated (09:10pm UTC 7th May 2025\)  
 ↳ **Terrek** liberation campaign starts (09:10pm UTC 7th May 2025\)  
-Assault Division: ***Predator Strain*** U4P is routed (09:10pm UTC 7th May 2025\)
+Assault Division: ***Predator Strain*** U4P is routed (09:10pm UTC 7th May 2025\)  
+DSS effect Heavy Ordnance Distribution is activated (07:47am UTC 7th May 2025\)
+
+Day \#456 9:00am 8th May 2025  
+**Krakatwo** defense is won (09:02am UTC 8th May 2025\)  
+DSS deploys to **Tarsh** of the ***Marspira*** sector (09:02am UTC 8th May 2025\)  
+Assault Division: ***Incineration Corps*** U3C leaves **Clasa** (09:53am UTC 8th May 2025\)  
+Assault Division: ***Incineration Corps*** U3C deploys to **Yed** **Prior** (09:54m UTC 8th May 2025\)  
+**Tarsh** is liberated (10:30am UTC 8th May 2025\)  
+↳ **Vernen Wells** liberation campaign starts (10:30am UTC 8th May 2025\)  
+↳ ***Marspira*** sector is fully under Human control (10:30am UTC 8th May 2025\)  
+DSS deploys to **Claorell** of the ***Tanis*** sector (10:30am UTC 8th May 2025\)  
+Assault Division: ***Incineration Corps*** U3C leaves **Yed Prior** (11:11am UTC 8th May 2025\)  
+Assault Division: ***Incineration Corps*** U3C deploys to **Blistica** (11:12am UTC 8th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 leaves **Claorell** (11:12am UTC 8th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 deploys to **Clasa** (11:13am UTC 8th May 2025\)  
+**Claorell** is liberated (07:08am UTC 9th May 2025\)  
+↳ **Vog-Sojoth** liberation campaign starts (07:08am UTC 9th May 2025\)  
+DSS deploys to **Veld** of the ***Orion*** sector (07:08am UTC 9th May 2025\)  
+DSS effect Heavy Ordnance Distribution stops (07:48am UTC 7th May 2025\)
+
+Day \#457 9:00am 9th May 2025  
+Assault Division: ***Incineration Corps*** U3B leaves **Aesir Pass** (09:14am UTC 9th May 2025\)  
+**Curia** of the ***Marspira*** sector is attacked by Automatons (09:16am UTC 9th May 2025\)  
+Assault Division: ***Incineration Corps*** U3B deploys to **Curia** (09:16am UTC 9th May 2025\)  
+DSS deploys to **Curia** of the ***Marspira*** sector (05:03pm UTC 9th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 leaves **Clasa** (07:11pm UTC 9th May 2025\)  
+**Demiurg** of the ***Tanis*** sector is attacked by Automatons (07:13pm UTC 9th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 deploys to **Demiurg** (07:13pm UTC 9th May 2025\)  
+DSS effect Eagle Storm is activated (08:52pm UTC 9th May 2025\)  
+**Curia** defense is won (06:36am UTC 10th May 2025\)  
+Assault Division: ***Incineration Corps*** U3B is routed (06:36am UTC 10th May 2025\)  
+DSS deploys to **Demiurg** of the ***Tanis*** sector (06:36am UTC 10th May 2025\)  
+**Sulfura** of the ***Celeste*** sector is attacked by Terminids (08:29am UTC 10th May 2025\)  
+Assault Division: ***Predator Strain*** U4O divides into 2 groups \[U4O, U4R\] (08:29am UTC 10th May 2025\)  
+Assault Division: ***Predator Strain*** U4R deploys to **Azterra** (08:29am UTC 10th May 2025\)
+
+Day \#458 9:00am 10th May 2025  
+DSS effect Eagle Storm stops (08:53pm UTC 10th May 2025\)  
+**Sulfura** defense is failed (08:30am UTC 11th May 2025\)  
+↳ **Sulfura** liberation campaign starts (08:30am UTC 11th May 2025\)
+
+Day \#459 9:00am 11th May 2025  
+**Demiurg** defense is failed (09:30am UTC 11th May 2025\)  
+DSS deploys to **Sulfura** of the ***Celeste*** sector (09:30am UTC 11th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 leaves **Demiurg** (01:18pm UTC 11th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 deploys to **Clasa** (01:20pm UTC 11th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 leaves **Clasa** (02:17pm UTC 11th May 2025\)  
+**Claorell** of the ***Tanis*** sector is attacked by Automatons (02:18pm UTC 11th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 deploys to **Claorell** (02:18pm UTC 11th May 2025\)  
+DSS effect Orbital Blockade starts (03:05pm UTC 11th May 2025\)  
+**Krakatwo** of the ***Celeste*** sector is attacked by Terminids (08:46pm UTC 11th May 2025\)  
+Assault Division: ***Predator Strain*** U5C divides into 2 groups \[U5C, U5E\] (08:46pm UTC 11th May 2025\)  
+Assault Division: ***Predator Strain*** U5E deploys to **Krakatwo** (08:46pm UTC 11th May 2025\)  
+DSS deploys to **Claorell** of the ***Tanis*** sector (09:04pm UTC 11th May 2025\)  
+**Claorell** defense is won (07:21am UTC 12th May 2025\)  
+Assault Division: ***Jet Brigade*** U5 is routed (07:21am UTC 12th May 2025\)  
+DSS deploys to **Sulfura** of the ***Celeste*** sector (07:21am UTC 12th May 2025\)
+
+Day \#460 9:00am 12th May 2025  
+DSS deploys to **Krakatwo** of the ***Celeste*** sector (09:05am UTC 12th May 2025\)  
+DSS effect Orbital Blockade stops (03:05pm UTC 12th May 2025\)  
+***Major Order*** | A2-5-1 Assault Division Conquest is failed | Objective: Conquest (07:02pm UTC 12th May 2025\)  
+Assault Division: ***Incineration Corps*** U3C leaves **Blistica** (07:06pm UTC 12th May 2025\)  
+**Zzaniah Prime** of the ***Gellert*** sector is attacked by Automatons (07:08pm UTC 12th May 2025\)  
+Assault Division: ***Incineration Corps*** U3C deploys to **Zzaniah Prime** (07:08pm UTC 12th May 2025\)  
+Dispatch: MAJOR ORDER FAILED. Through insidious tactics and the unwittingly synchronized deployment of elite units, enemies of Freedom have unlawfully prevented the expansion of **Super Earth** territory. Consult your Galactic Map for more information. (07:16pm UTC 12th May 2025\)  
+**Krakatwo** defense is failed (08:47pm UTC 12th May 2025\)  
+↳ **Krakatwo** liberation campaign starts (08:47pm UTC 12th May 2025\)  
+↳ **Slif** liberation campaign ends (08:47pm UTC 12th May 2025\)  
+**Sulfura** is liberated (09:02pm UTC 12th May 2025\)  
+DSS deploys to **Krakatwo** of the ***Celeste*** sector (09:02pm UTC 12th May 2025\)  
+DSS deploys to **Zzaniah Prime** of the ***Gellert*** sector (09:05pm UTC 12th May 2025\)  
+**Nublaria I** of the ***Celeste*** sector is attacked by Terminids (04:29am UTC 13th May 2025\)  
+Assault Division: ***Predator Strain*** U5E divides into 2 groups \[U5E, U5F\] (04:29am UTC 13th May 2025\)  
+Assault Division: ***Predator Strain*** U5F deploys to **Nublaria I** (04:29am UTC 13th May 2025\)  
+Assault Division: ***The Great Host*** U1 deploys to **Meridia** (08:58am UTC 13th May 2025\)
+
+Day \#461 9:00am 13th May 2025  
+Assault Division: ***The Great Host*** U1 leaves **Meridia** (09:00am UTC 13th May 2025\)  
+Assault Division: ***The Great Host*** U1 deploys to **Widow’s Harbor** (09:01am UTC 13th May 2025\)  
+**Widow's Harbor** of the **Altus** sector is attacked by Illuminates (09:02am UTC 13th May 2025\)  
+***Major Order*** | Operation A2-5-2 Weaken ***The Great Host*** By Any Means Necessary is issued | Objective: Control (09:05am UTC 13th May 2025\)  
+Dispatch: ALERT \-- ALERT \-- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. **WIDOW'S HARBOR** ATTACKED. ALL UNITS TO **WIDOW'S HARBOR** (09:05am UTC 13th May 2025\)  
+DSS deploys to **Krakatwo** of the ***Celeste*** sector (09:05am UTC 13th May 2025\)  
+DSS deploys to **Widow's Harbor** of the ***Altus*** sector (01:05pm UTC 13th May 2025\)
 
 #### Day Zero
 
@@ -6359,13 +6440,13 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-96 Major Orders: 72 wins, 23 losses, 1 pending,(75.8%)  
+97 Major Orders: 72 wins, 24 losses, 1 pending, (75%)  
 28 Liberate MOs: 21 wins, 7 losses,  (75%)  
-23 Control MOs: 22 wins, 1 loss, (95.7%)  
+24 Control MOs: 22 wins, 1 loss, 1 pending, (95.7%)  
 11 Defend MOs: 7 wins, 4 losses, (63.6%)  
 9 Eradicate MOs: 4 wins, 5 losses, (44.4%)  
 1 Sample MO: 1 win, 0 losses, (100%)  
-3 Conquest MOs: 1 win, 1 loss, 1 pending, (50%)  
+3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
 21 Combo MOs: 16 wins, 5 losses, (76.2%)  
 ↳ 11 Eradicate Tasks: 9 wins, 2 losses, (81.8%)  
@@ -6413,9 +6494,9 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Illuminate Front MOs
 
-7 Illuminate MOs: 5 wins, 2 losses, (71.4%)  
+8 Illuminate MOs: 5 wins, 2 losses, 1 pending, (71.4%)  
 0 Liberate MOs: 0 wins, 0 losses, (???)  
-0 Control MOs: 0 wins, 0 losses, (???)  
+1 Control MOs: 0 wins, 0 losses, 1 pending, (???)  
 5 Defend MOs: 3 wins, 2 losses, (60%)  
 0 Eradicate MOs: 0 wins, 0 losses, (???)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
@@ -6431,13 +6512,13 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Multi-Fronts MOs
 
-20 Multi-Fronts MOs: 10 wins, 9 losses, 1 pending, (55.6%)  
+20 Multi-Fronts MOs: 10 wins, 10 losses, (50%)  
 2 Liberate MOs: 1 win, 1 loss, (50%)  
 4 Control MOs: 3 wins, 1 loss, (75%)  
 1 Defend MO: 1 win, 0 losses, (100%)  
 3 Eradicate MOs: 0 wins, 3 losses, (0%)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
-3 Conquest MOs: 1 win, 1 loss, 1 pending, (50%)  
+3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
 7 Combo MOs: 4 wins, 3 losses, (57.1%)  
 ↳ 2 Eradicate Tasks: 1 win, 1 loss, (50%)  
