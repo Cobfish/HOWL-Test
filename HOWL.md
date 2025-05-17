@@ -5810,13 +5810,50 @@ Assault Division: ***Predator Strain*** U5F deploys to **Nublaria I** (04:29am U
 Assault Division: ***The Great Host*** U1 deploys to **Meridia** (08:58am UTC 13th May 2025\)
 
 Day \#461 9:00am 13th May 2025  
+**Super Earth** of the ***Sol*** sector's biome is changed from **Super Earth** \[**Super Earth**\] to **Super Earth** Metropolis \[**Super Earth**\] (09:00am UTC 13th May 2025\)  
 Assault Division: ***The Great Host*** U1 leaves **Meridia** (09:00am UTC 13th May 2025\)  
 Assault Division: ***The Great Host*** U1 deploys to **Widow’s Harbor** (09:01am UTC 13th May 2025\)  
-**Widow's Harbor** of the **Altus** sector is attacked by Illuminates (09:02am UTC 13th May 2025\)  
+**Widow's Harbor** of the **Altus** sector is attacked by Illuminate (09:02am UTC 13th May 2025\)  
 ***Major Order*** | Operation A2-5-2 Weaken ***The Great Host*** By Any Means Necessary is issued | Objective: Control (09:05am UTC 13th May 2025\)  
 Dispatch: ALERT \-- ALERT \-- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. **WIDOW'S HARBOR** ATTACKED. ALL UNITS TO **WIDOW'S HARBOR** (09:05am UTC 13th May 2025\)  
 DSS deploys to **Krakatwo** of the ***Celeste*** sector (09:05am UTC 13th May 2025\)  
-DSS deploys to **Widow's Harbor** of the ***Altus*** sector (01:05pm UTC 13th May 2025\)
+DSS deploys to **Widow's Harbor** of the ***Altus*** sector (01:05pm UTC 13th May 2025\)  
+**Zzaniah Prime** defense is failed (07:09pm UTC 13th May 2025\)  
+↳ **Zzaniah Prime** liberation campaign starts (07:09pm UTC 13th May 2025\)  
+**Nublaria I** defense is failed (04:30am UTC 14th May 2025\)  
+↳ **Nublaria I** liberation campaign starts (04:30am UTC 14th May 2025\)  
+↳ **Krakatwo** liberation campaign ends (04:30am UTC 14th May 2025\)
+
+Day \#462 9:00am 14th May 2025  
+Dispatch: ALERT. The DSS has taken fire from Illuminate spacecraft. The station remains operational, but Helldivers are advised that the enemy appears to have anti-DSS countermeasures prepared. Continued engagement on Illuminate-targeted planets risks further damage to the station. (12:06pm UTC 14th May 2025\)  
+Dispatch: INFORMATIONAL UPDATE. In light of the ongoing strategic situation and in order to ensure elite training of the Galaxy's greatest heroes continues uninterrupted, Helldiver training has been relocated from Mars to an undisclosed location. (02:39pm UTC 14th May 2025\)  
+DSS deploys to **Nublaria I** of the ***Celeste*** sector (05:06pm UTC 14th May 2025\)  
+DSS deploys to **Widow's Harbor** of the ***Altus*** sector (09:06pm UTC 14th May 2025\)  
+DSS deploys to **Nublaria I** of the ***Celeste*** sector (01:06am UTC 15th May 2025\)  
+DSS deploys to **Widow's Harbor** of the ***Altus*** sector (05:06am UTC 15th May 2025\)  
+Assault Division: ***Predator Strain*** U5C leaves **Slif** (07:59am UTC 15th May 2025\)  
+Assault Division: ***Predator Strain*** U5C merges with ***Predator Strain*** U5E on **Krakatwo** (08:01am UTC 15th May 2025\)
+
+Day \#463 9:00am 15th May 2025  
+**Widow's Harbor** defense is failed (09:03am UTC 15th May 2025\)  
+DSS deploys to **Nublaria I** of the ***Celeste*** sector (09:03am UTC 15th May 2025\)  
+Assault Division: ***The Great Host*** U1 leaves **Widow’s Harbor** (10:58am UTC 15th May 2025\)  
+**Pilen V** of the ***Altus*** sector is attacked by Illuminate (11:01am UTC 15th May 2025\)  
+Assault Division: ***The Great Host*** U1 deploys to **Pilen V** (11:02am UTC 15th May 2025\)  
+Assault Division: ***Predator Strain*** U5E leaves **Krakatwo** (11:46am UTC 15th May 2025\)  
+Assault Division: ***Predator Strain*** U5E merges with ***Predator Strain*** U5F on **Nublaria I** (11:48am UTC 15th May 2025\)  
+DSS deploys to **Pilen V** of the ***Altus*** sector (06:00pm UTC 15th May 2025\)  
+DSS deploys to **Claorell** of the ***Tanis*** sector (06:37pm UTC 15th May 2025\)  
+DSS is disabled (06:37pm UTC 15th May 2025\)  
+Dispatch: DSS DISABLED. The DSS was immediately engaged upon arrival at **PILEN V**, taking direct and severe damage. The crew managed to conduct a successful emergency warp to **CLAORELL** before the station was destroyed. Many valiant crew were sacrificed. Repairs are underway; it is unclear when the station will be returned to operational status. (06:37pm UTC 15th May 2025\)
+
+Day \#464 9:00am 16th May 2025
+
+Day \#465 9:00am 17th May 2025  
+**Pilen V** defense is failed (03:58pm UTC 17th May 2025\)  
+Assault Division: ***The Great Host*** U1 leaves **Pilen V** (05:49pm UTC 17th May 2025\)  
+**New Haven** of the ***Altus*** sector is attacked by Illuminate (05:50pm UTC 17th May 2025\)  
+Assault Division: ***The Great Host*** U1 deploys to **New Haven** (05:50pm UTC 17th May 2025\)
 
 #### Day Zero
 
@@ -5909,7 +5946,7 @@ Day Zero | **This Was The Starting Game-State At Launch**
 **Epsilon Phoencis VI** \- **Enuliale** warp link  
 **Enuliale** \- **Diaspora X** warp link  
 **Diaspora X** \- **Gemstone Bluffs** warp link  
-**Super Earth** has **Super Earth** \[Super Earth\] biome  
+**Super Earth** has **Super Earth** \[**Super Earth**\] biome  
 **Klen Dahth II** has Desert Dunes \[Sandy\] biome  
 **Pathfinder V** has Plains \[Moor\] biome  
 **Widow's Harbor** has Moon \[Sandy\] biome  
