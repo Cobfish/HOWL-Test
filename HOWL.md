@@ -5814,7 +5814,7 @@ Day \#461 9:00am 13th May 2025
 Assault Division: ***The Great Host*** U1 leaves **Meridia** (09:00am UTC 13th May 2025\)  
 Assault Division: ***The Great Host*** U1 deploys to **Widow’s Harbor** (09:01am UTC 13th May 2025\)  
 **Widow's Harbor** of the **Altus** sector is attacked by Illuminate (09:02am UTC 13th May 2025\)  
-***Major Order*** | Operation A2-5-2 Weaken ***The Great Host*** By Any Means Necessary is issued | Objective: Control (09:05am UTC 13th May 2025\)  
+***Major Order*** | A2-5-2 Weaken ***The Great Host*** By Any Means Necessary is issued | Objective: Control (09:05am UTC 13th May 2025\)  
 Dispatch: ALERT \-- ALERT \-- ALERT. ILLUMINATE FLEET I.V.O. WORMHOLE. **WIDOW'S HARBOR** ATTACKED. ALL UNITS TO **WIDOW'S HARBOR** (09:05am UTC 13th May 2025\)  
 DSS deploys to **Krakatwo** of the ***Celeste*** sector (09:05am UTC 13th May 2025\)  
 DSS deploys to **Widow's Harbor** of the ***Altus*** sector (01:05pm UTC 13th May 2025\)  
@@ -5854,6 +5854,51 @@ Day \#465 9:00am 17th May 2025
 Assault Division: ***The Great Host*** U1 leaves **Pilen V** (05:49pm UTC 17th May 2025\)  
 **New Haven** of the ***Altus*** sector is attacked by Illuminate (05:50pm UTC 17th May 2025\)  
 Assault Division: ***The Great Host*** U1 deploys to **New Haven** (05:50pm UTC 17th May 2025\)
+
+Day \#466 9:00am 18th May 2025
+
+Day \#467 9:00am 19th May 2025  
+**New Haven** defense is failed (05:54am UTC 20th May 2025\)  
+***Major Order*** | A2-5-2 Weaken ***The Great Host*** By Any Means Necessary is won | Objective: Control (07:17am UTC 20th May 2025\)  
+Dispatch: MAJOR ORDER CONCLUDED. As anticipated, **Widow's Harbor**, **Pilen V**, and **New Haven** have fallen to the Illuminate. The dauntless and obedient resistance of the Helldivers reduced the enemy's estimated fleet strength by 21.5%, a powerful blow to the enemy's invasion strength. (07:17am UTC 20th May 2025\)  
+Assault Division: ***The Great Host*** U1 leaves **New Haven** (08:32am UTC 20th May 2025\)  
+Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Training Sites across the planet, where rigorous, thorough, and safe training of the Galaxy's Elite has long occurred, have been destroyed. The expert and seasoned facility PA operators who facilitated the training died defending the planet. Fortunately, Helldiver training has already been relocated to another undisclosed planet. Nevertheless, reinforcement budgets will suffer a short-term reduction by 1\. (08:36am UTC 20th May 2025\)
+
+Day \#468 9:00am 20th May 2025  
+**Super Earth** liberation campaign starts (09:07am UTC 20th May 2025\)  
+**Super Earth** Region 0 Eaglepolis is attacked by Illuminate (09:07am UTC 20th May 2025\)  
+***Major Order*** | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (09:11am UTC 20th May 2025\)  
+Dispatch: NEW MAJOR ORDER. The Battle for **Super Earth** has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, **Super Earth** is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (09:12am UTC 20th May 2025\)  
+Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in **Super Earth**'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (09:16am UTC 20th May 2025\)  
+**Super Earth** Region 2 Remembrance is attacked by Illuminate (08:02pm UTC 20th May 2025\)  
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (08:04pm UTC 20th May 2025\)  
+**Super Earth** Region 6 Equality-on-Sea is attacked by Illuminate (08:11am UTC 21st May 2025\)  
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (08:11am UTC 21st May 2025\)
+
+Day \#469 9:00am 21st May 2025
+
+Day \#470 9:00am 22nd May 2025  
+Dispatch: IMPACT STABILIZED. Reinforcement budgets have been returned to normal. (10:10am UTC 22nd May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Remembrance. (10:12am UTC 22nd May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Eagleopolis. (10:16am UTC 22nd May 2025\)  
+Dispatch: MEGACITY NEARING COLLAPSE. Eagleopolis is on the verge of falling to the Illuminate. (01:15pm UTC 22nd May 2025\)  
+Dispatch: COUNTERMEASURES ONLINE. Eagle Rearm Cooldown times have been returned to normal. (01:23pm UTC 22nd May 2025\)  
+Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (01:40pm UTC 22nd May 2025\)  
+**Super Earth** Region 0 Eaglepolis defense is failed (06:15pm UTC 22nd May 2025\)  
+Dispatch: EAGLEOPOLIS HAS FALLEN. The Great Mall of **Super Earth** has been reduced to rubble; Congressional Rapids Family Fun Zone is no more. (06:17pm UTC 22nd May 2025\)  
+***Major Order*** | A2-5-3 Eradicate Illuminate In The Intital Wave is won | Objective: Eradicate (08:29am UTC 23rd May 2025\)  
+Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SEAF soldiers, have caused significant losses to the Illuminate ground and airborne detachments. Projections indicate that clearing the targeted benchmark has resulted in a 10% hit to the Illuminate Fleet Strength, in addition to their losses from attrition. (08:32am UTC 23rd May 2025\)
+
+Day \#471 9:00am 23rd May 2025  
+***Major Order*** | A2-5-4 Extract From Illuminate Missions is issued | Objective: Extraction (10:18am UTC 23rd May 2025\)  
+Dispatch: NEW MAJOR ORDER. The initial wave of assault is over. The Battle for **Super Earth** now enters its critical next phase. Illuminate Fleet Strength currently stands at 49%. 6 Mega Cities remain standing. They must be defended at all costs. The Helldivers are ordered to execute a sustained campaign of successful operations on **Super Earth**. (10:20am UTC 23rd May 2025\)  
+**Super Earth** Region 1 Administrative Center 02 is attacked by Illuminate (12:54pm UTC 23rd May 2025\)  
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Administrative Center 02\. (12:54pm UTC 23rd May 2025\)  
+Dispatch: M-105 Stalwart stratagem availability has ended. (01:15pm UTC 23rd May 2025\)
+
+Day \#472 9:00am 24th May 2025  
+Dispatch: MEGACITY NEARING COLLAPSE. Remembrance is on the verge of falling to the Illuminate. (02:05pm UTC 24th May 2025\)  
+Dispatch: MEGACITY NEARING COLLAPSE. Administrative Center 02 is on the verge of falling to the Illuminate. (03:29pm UTC 24th May 2025\)
 
 #### Day Zero
 
@@ -6477,14 +6522,15 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-97 Major Orders: 72 wins, 24 losses, 1 pending, (75%)  
+99 Major Orders: 74 wins, 24 losses, 1 pending, (75.5%)  
 28 Liberate MOs: 21 wins, 7 losses,  (75%)  
-24 Control MOs: 22 wins, 1 loss, 1 pending, (95.7%)  
+24 Control MOs: 23 wins, 1 loss, (95.8%)  
 11 Defend MOs: 7 wins, 4 losses, (63.6%)  
-9 Eradicate MOs: 4 wins, 5 losses, (44.4%)  
+10 Eradicate MOs: 5 wins, 5 losses, (50%)  
 1 Sample MO: 1 win, 0 losses, (100%)  
 3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
+1 Extraction MO: 0 wins, 0 losses, 1 pending, (???)  
 21 Combo MOs: 16 wins, 5 losses, (76.2%)  
 ↳ 11 Eradicate Tasks: 9 wins, 2 losses, (81.8%)  
 ↳ 11 Liberate Tasks: 10 wins, 1 loss, (90.9%)  
@@ -6503,6 +6549,7 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 1 Sample MO: 1 win, 0 losses, (100%)  
 0 Conquest MOs: 0 wins, 0 losses, (???)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
+0 Extraction MOs: 0 wins, 0 losses, (???)  
 6 Combo MOs: 6 wins, 0 losses, (100%)  
 ↳ 4 Eradicate Tasks: 4 wins, 0 losses, (100%)  
 ↳ 3 Liberate Tasks: 3 win, 0 losses, (100%)  
@@ -6521,6 +6568,7 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 0 Sample MOs: 0 wins, 0 losses, (???)  
 0 Conquest MOs: 0 wins, 0 losses, (???)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
+0 Extraction MOs: 0 wins, 0 losses, (???)  
 5 Combo MOs: 3 wins, 2 losses, (60%)  
 ↳ 2 Eradicate Tasks: 1 win, 1 loss, (50%)  
 ↳ 3 Liberate Tasks: 2 wins, 1 loss, (66.7%)  
@@ -6531,14 +6579,15 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Illuminate Front MOs
 
-8 Illuminate MOs: 5 wins, 2 losses, 1 pending, (71.4%)  
+10 Illuminate MOs: 7 wins, 2 losses, 1 pending, (77.8%)  
 0 Liberate MOs: 0 wins, 0 losses, (???)  
-1 Control MOs: 0 wins, 0 losses, 1 pending, (???)  
+1 Control MOs: 1 win, 0 losses, (100%)  
 5 Defend MOs: 3 wins, 2 losses, (60%)  
-0 Eradicate MOs: 0 wins, 0 losses, (???)  
+1 Eradicate MO: 1 win, 0 losses, (100%)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
 0 Conquest MOs: 0 wins, 0 losses, (???)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
+1 Extraction MO: 0 wins, 0 losses, 1 pending, (???)  
 2 Combo MOs: 1 win, 0 losses, (100%)  
 ↳ 3 Eradicate Tasks: 3 wins, 0 losses, (100%)  
 ↳ 0 Liberate Tasks: 0 wins, 0 losses, (???)  
@@ -6557,6 +6606,7 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 0 Sample MOs: 0 wins, 0 losses, (???)  
 3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
+0 Extraction MOs: 0 wins, 0 losses, (???)  
 7 Combo MOs: 4 wins, 3 losses, (57.1%)  
 ↳ 2 Eradicate Tasks: 1 win, 1 loss, (50%)  
 ↳ 5 Liberate Tasks: 5 wins, 0 losses,, (100%)  
