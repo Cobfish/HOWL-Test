@@ -2294,7 +2294,7 @@ Dispatch: AUTOMATON COUNTERATTACK. Intercepted messages indicate bot plans for a
 **Aesir Pass** of the ***Hydra*** sector is attacked by Automatons (07:09am UTC 24th Oct 2024\)  
 Dispatch: SPORE SURGE. The Ministry of Science reports an unanticipated spike in Terminid spore counts. Expect a severe increase in resistance on Terminid planets. (07:10am UTC 24th Oct 2024\)
 
-Day \#260 9:00am 24rd Oct 2024  
+Day \#260 9:00am 24th Oct 2024  
 **Gacrux** defense is failed (04:03pm UTC 24th Oct 2024\)  
 ↳ **Gacrux** liberation campaign starts (04:03pm UTC 24th Oct 2024\)  
 ↳ **Partion** liberation campaign ends (04:03pm UTC 24th Oct 2024\)  
@@ -5866,13 +5866,14 @@ Dispatch: MARS RAZED. Mars has been razed by the Illuminate. All Helldiver Train
 
 Day \#468 9:00am 20th May 2025  
 **Super Earth** liberation campaign starts (09:07am UTC 20th May 2025\)  
-**Super Earth** Region 0 Eaglepolis is attacked by Illuminate (09:07am UTC 20th May 2025\)  
+Assault Division: ***The Great Host*** U1 deploys to **Super Earth** (09:07am UTC 20th May 2025\)  
+**Super Earth** Region 0 Eaglepolis is besieged by IIlluminate (09:07am UTC 20th May 2025\)  
 ***Major Order*** | A2-5-3 Eradicate Illuminate In The Intital Wave is issued | Objective: Eradicate (09:11am UTC 20th May 2025\)  
 Dispatch: NEW MAJOR ORDER. The Battle for **Super Earth** has begun. The battle will span multiple Orders. Hold the Mega Cities: if all 7 fall, **Super Earth** is lost. The strategic focus for the initial wave of battle is to kill as many Illuminate ground forces as possible. (09:12am UTC 20th May 2025\)  
 Dispatch: LOW ORBIT INTERDICTION. Illuminate spacecraft are firing upon Eagle fighters in **Super Earth**'s orbit. Eagle Rearm Cooldown will be increased by 30 seconds until countermeasures can be developed. (09:16am UTC 20th May 2025\)  
-**Super Earth** Region 2 Remembrance is attacked by Illuminate (08:02pm UTC 20th May 2025\)  
+**Super Earth** Region 2 Remembrance is besieged by IIlluminate (08:02pm UTC 20th May 2025\)  
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Remembrance. (08:04pm UTC 20th May 2025\)  
-**Super Earth** Region 6 Equality-on-Sea is attacked by Illuminate (08:11am UTC 21st May 2025\)  
+**Super Earth** Region 6 Equality-on-Sea is besieged by Illuminate (08:11am UTC 21st May 2025\)  
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Equality-on-Sea. (08:11am UTC 21st May 2025\)
 
 Day \#469 9:00am 21st May 2025
@@ -5884,7 +5885,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: MEGACITY NEARING COLLAPSE. Eagleopolis is on the verge of falling to the Illuminate. (01:15pm UTC 22nd May 2025\)  
 Dispatch: COUNTERMEASURES ONLINE. Eagle Rearm Cooldown times have been returned to normal. (01:23pm UTC 22nd May 2025\)  
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (01:40pm UTC 22nd May 2025\)  
-**Super Earth** Region 0 Eaglepolis defense is failed (06:15pm UTC 22nd May 2025\)  
+**Super Earth** Region 0 Eaglepolis siege is failed (06:15pm UTC 22nd May 2025\)  
 Dispatch: EAGLEOPOLIS HAS FALLEN. The Great Mall of **Super Earth** has been reduced to rubble; Congressional Rapids Family Fun Zone is no more. (06:17pm UTC 22nd May 2025\)  
 ***Major Order*** | A2-5-3 Eradicate Illuminate In The Intital Wave is won | Objective: Eradicate (08:29am UTC 23rd May 2025\)  
 Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SEAF soldiers, have caused significant losses to the Illuminate ground and airborne detachments. Projections indicate that clearing the targeted benchmark has resulted in a 10% hit to the Illuminate Fleet Strength, in addition to their losses from attrition. (08:32am UTC 23rd May 2025\)
@@ -5892,13 +5893,95 @@ Dispatch: MAJOR ORDER WON. The Helldivers, fighting side-by-side with regular SE
 Day \#471 9:00am 23rd May 2025  
 ***Major Order*** | A2-5-4 Extract From Illuminate Missions is issued | Objective: Extraction (10:18am UTC 23rd May 2025\)  
 Dispatch: NEW MAJOR ORDER. The initial wave of assault is over. The Battle for **Super Earth** now enters its critical next phase. Illuminate Fleet Strength currently stands at 49%. 6 Mega Cities remain standing. They must be defended at all costs. The Helldivers are ordered to execute a sustained campaign of successful operations on **Super Earth**. (10:20am UTC 23rd May 2025\)  
-**Super Earth** Region 1 Administrative Center 02 is attacked by Illuminate (12:54pm UTC 23rd May 2025\)  
+**Super Earth** Region 1 Administrative Center 02 is besieged by Illuminate (12:54pm UTC 23rd May 2025\)  
 Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Administrative Center 02\. (12:54pm UTC 23rd May 2025\)  
 Dispatch: M-105 Stalwart stratagem availability has ended. (01:15pm UTC 23rd May 2025\)
 
 Day \#472 9:00am 24th May 2025  
 Dispatch: MEGACITY NEARING COLLAPSE. Remembrance is on the verge of falling to the Illuminate. (02:05pm UTC 24th May 2025\)  
-Dispatch: MEGACITY NEARING COLLAPSE. Administrative Center 02 is on the verge of falling to the Illuminate. (03:29pm UTC 24th May 2025\)
+Dispatch: MEGACITY NEARING COLLAPSE. Administrative Center 02 is on the verge of falling to the Illuminate. (03:29pm UTC 24th May 2025\)  
+Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All Helldivers must rally to their immediate defense. (04:06pm UTC 24th May 2025\)  
+Dispatch: EMERGENCY ARSENAL AUGMENTATION. Shield Generator Relay authorized for use on **SUPER EARTH**. (07:57pm UTC 24th May 2025\)  
+Dispatch: ADMINISTRATIVE CENTER 02 HAS FALLEN. The hallowed center of our Federal Bureaucracy burns. (09:28pm UTC 24th May 2025\)  
+Dispatch: As a result of second- and third- order effects, Pelican Extraction times will take 30 seconds longer. in the short term. (09:29pm UTC 24th May 2025\)  
+**Super Earth** Region 1 Administrative Center 02 siege is failed (09:32pm UTC 24th May 2025\)  
+**Super Earth** Region 2 Remembrance siege is failed (09:47pm UTC 24th May 2025\)  
+Dispatch: REMEMBRANCE HAS FALLEN. Remembrance, monument to perseverance, is occupied by the Illuminate. This transgression will not be forgotten, nor forgiven. (09:48pm UTC 24th May 2025\)  
+Dispatch: The resultant impact to the planetwide defense network means that Orbital Stratagem Cooldowns will be increased by 60 seconds until further notice. (09:48pm UTC 24th May 2025\)  
+Dispatch: SUPER DEFENSE PROTOCOL SAPPHIRE. Three Megacities have fallen, triggering the activation of the first Super Defense Protocol: costly global defense measures to be used only when Democracy needs them most. Super Defense Protocol Sapphire converts the remaining rainforests into massive tactical airstrips. Eagle Rearm time is decreased by 45 seconds on Super Earth. (09:49pm UTC 24th May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Equality-on-Sea. (08:50am UTC 25th May 2025\)
+
+Day \#473 9:00am 25th May 2025  
+**Super Earth** Region 3 York Supreme is besieged by Illuminate (10:59am UTC 25th May 2025\)  
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on York Supreme. (10:59am UTC 25th May 2025\)
+
+Day \#474 9:00am 26th May 2025  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Equality-on-Sea. (11:06am UTC 26th May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from York Supreme. (11:11am UTC 26th May 2025\)  
+**Super Earth** Region 4 Port Mercy is besieged by Illuminate (11:16am UTC 26th May 2025\)  
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on Port Mercy. (11:16am UTC 26th May 2025\)  
+***Major Order*** | A2-5-5 Kill Automatons For DSS Repairs is issued | Objective: Eradicate (02:32pm UTC 26th May 2025\)  
+Dispatch: DSS NEARING OPERATIONAL STATUS. Repairs to the DSS are nearly complete. However, materials needed to bring it online are scarce. Bringing the station to operational status in time to affect the Battle for **Super Earth** will require resources to be liberated from the Automatons. The dismantling of 200,000,000 Automatons is estimated to be sufficient to effect the immediate full repair of the DSS. (02:32pm UTC 26th May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces away from Equality-on-Sea. (08:47pm UTC 26th May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on York Supreme. (08:52pm UTC 26th May 2025\)
+
+Day \#475 9:00am 27th May 2025  
+***Major Order*** | A2-5-4 Extract From Illuminate Missions is failed | Objective: Extraction (10:28am UTC 27th May 2025\)  
+Dispatch: MAJOR ORDER FAILED. Overwhelming enemy numbers prevented our heroes from completing the required number of operations. With this brief window of opportunity now closed, the chance to strike a mighty blow against our invaders has evaded us. Illuminate Fleet Strength is now estimated at 24% of its original operating power. 4 Mega Cities remain standing. The end of this conflict approaches. Liberty guide us all. (10:32am UTC 27th May 2025\)  
+***Major Order*** | A2-5-6 The Battle For **Super Earth** Final Phase is issued | Objective: Control (11:04am UTC 27th May 2025\)  
+Dispatch: NEW MAJOR ORDER. The Battle for **Super Earth** enters its final phase. High Command anticipates an all-out assault to take the final 4 Mega Cities. Consult your Galactic Map for more information. (11:04am UTC 27th May 2025\)  
+Dispatch: MEGACITY NEARING COLLAPSE. Port Mercy is on the verge of falling to the Illuminate. (03:12am UTC 28th May 2025\)  
+Dispatch: MEGACITY NEARING COLLAPSE. York Supreme is on the verge of falling to the Illuminate. (07:36am UTC 28th May 2025\)  
+Dispatch: SITUATION DIRE. Multiple Megacities are on the verge of falling. All Helldivers must rally to their immediate defense. (08:07am UTC 28th May 2025\)
+
+Day \#476 9:00am 28th May 2025  
+**Super Earth** Region 4 Port Mercy siege is failed (10:32am UTC 28th May 2025\)  
+Dispatch: PORT MERCY HAS FALLEN. The longtime refuge of so many Class-A citizens is now a stronghold of the Illuminate. (10:32am UTC 28th May 2025\)  
+Dispatch: The Super Earth Defense Grid is now suffering severe logistical impacts. Ammunition Combat Loads will be reduced by 50%. Stim Capacity will be reduced by 2\. (10:33am UTC 28th May 2025\)  
+Dispatch: IMPACT STABILIZED. Orbital Stratagem Cooldown times have been returned to normal. (10:35am UTC 28th May 2025\)  
+Dispatch: SUPER DEFENSE PROTOCOL DIAMOND. The fall of a 4th Mega City has triggered the activation of Super Defense Protocol Diamond. Super Defense Protocol Diamond removes all Collateral Damage Mitigation Procedures. All Helldiver loadouts will be augmented with the Orbital Napalm Barrage stratagem for **Super Earth** missions. (10:35am UTC 28th May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Equality-on-Sea. (10:37am UTC 28th May 2025\)  
+**Super Earth** Region 3 York Supreme siege is failed (01:34pm UTC 28th May 2025\)  
+Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (01:35pm UTC 28th May 2025\)  
+Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for **Super Earth** missions. (01:35pm UTC 28th May 2025\)  
+Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (01:35pm UTC 28th May 2025\)  
+DSS is activated (04:10pm UTC 28th May 2025\)  
+DSS deploys to **Super Earth** of the ***Sol*** sector (04:10pm UTC 28th May 2025\)  
+Dispatch: DSS OPERATIONAL. The Democracy Space Station has been returned to full operational status. It will be deployed to **Super Earth** immediately. Fleet positioning protocols are in place to defend it from Illuminate attack. The station will also be operating in temporary overdrive, with a new Tactical Action combining the effects of two others: Eagle Blockade. (04:10pm UTC 28th May 2025\)  
+Dispatch: IMPACT STABILIZED. Extraction times have been returned to normal. (04:11pm UTC 28th May 2025\)  
+Dispatch: IMPACT STABILIZED. Ammunition Combat Loads have been returned to normal. Stim capacity has been returned to normal. (04:11pm UTC 28th May 2025\)  
+DSS deploys to **Vog-Sojoth** of the ***Tanis*** sector (04:14pm UTC 28th May 2025\)  
+DSS deploys to **Super Earth** of the ***Sol*** sector (04:15pm UTC 28th May 2025\)  
+DSS effect Eagle Blockade is activated (04:22pm UTC 28th May 2025\)  
+**Super Earth** Region 6 Prosperity City is besieged by Illuminate (08:09am UTC 29th May 2025\)  
+Dispatch: MEGACITY UNDER ATTACK. The Illuminate have launched an attack on **Super Earth**'s Capital: Prosperity City. (08:09am UTC 29th May 2025\)  
+Dispatch: DEFENSES HOLDING. The Illuminate have launched a desperate last push upon Equality-On-Sea and Prosperity City, this comes at great cost to their sustained fleet strength. The Helldivers are holding the line. Continue the fight. (08:29am UTC 29th May 2025\)  
+Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-on-Sea have pushed the Illuminate to the edges of the city limits. While they continue to attempt to gain a new foothold within the city, the defensive positions by SEAF and Helldiver forces is taking an extra toll on the Illuminate Fleet Strength. (08:50am UTC 29th May 2025\)
+
+Day \#477 9:00am 29th May 2025  
+**Fort Union** of the ***Orion*** sector is attacked by Terminids (09:00am UTC 29th May 2025\)  
+***Major Order*** | A2-5-7 Defend Fort Union Satellites is issued | Objective: Defend (09:02am UTC 29th May 2025\)  
+Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on Fort Union has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet. However, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed. (09:03am UTC 29th May 2025\)  
+Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Prosperity City. (12:12pm UTC 29th May 2025\)  
+Dispatch: PRESIDENT KIA. The President of **Super Earth** has been killed in action by the Illuminate during the fall of Prosperity City. The President died heroically, defending the Presidential Security bunker with only a pistol against waves of Illuminate foes. Presidential authority has been placed in the Minister of Defense. (09:57pm UTC 29th May 2025\)  
+NOTE: This dispatch is later revised to say “during the siege of” instead of “during the fall of” for unknown reasons (09:57pm UTC 29th May 2025\)  
+**Fort Union** defense is won (10:02pm UTC 29th May 2025\)  
+***Major Order*** | A2-5-7 Defend Fort Union Satellites is won | Objective: Defend (10:02pm UTC 29th May 2025\)  
+Dispatch: MALWARE TRANSMITTED. Satellites on **FORT UNION** have successfully transmitted civilian-created malware to the Illuminate Fleet, resulting in the destruction of multiple large spacecraft. The Illuminate Fleet has suffered 5% damage as a result. The unnamed technician who developed the code has been given a field promotion to Command of the 405th Cyberwarfare Detachment. (10:24pm UTC 29th May 2025\)  
+Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault. These are the battle's final hours. The enemy will push with the entirety of their strength. Hold the line. (10:42pm UTC 29th May 2025\)
+
+Day \#478 9:00am 30th May 2025  
+Super Earth defense is won (11:15am UTC 30th May 2025\)  
+↳ ***Sol*** sector is fully under Human control (11:15am UTC 30th May 2025\)  
+Assault Division: ***The Great Host*** U1 is routed (11:15am UTC 30th May 2025\)  
+DSS deploys to **Terrek** of the ***Orion*** sector (11:16am UTC 30th May 2025\)  
+***Major Order*** | A2-5-6 The Battle For **Super Earth** Final Phase is won | Objective: Control (11:16am UTC 30th May 2025\)  
+**New Haven** of the ***Altus*** sector instantly flips to Human control (11:20am UTC 30th May 2025\)  
+**Widow’s Harbor** of the ***Altus*** sector instantly flips to Human control (11:20am UTC 30th May 2025\)  
+**Pilen V** of the ***Altus*** sector instantly flips to Human control (11:20am UTC 30th May 2025\)  
+Dispatch: MAJOR ORDER WON. The Illuminate have retreated. The Battle for **Super Earth** has been won. Consult your Galactic Map for more information. (11:21am UTC 30th May 2025\)  
+Dispatch: NEW PRESIDENT ELECTED. A new President of **Super Earth** has been sworn in following a landslide victory in a Managed Election. (12:25pm UTC 30th May 2025\)  
+DSS deploys to **Gaellivare** of the ***Talus*** sector (12:20am UTC 31th May 2025\)
 
 #### Day Zero
 
@@ -6522,15 +6605,15 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-99 Major Orders: 74 wins, 24 losses, 1 pending, (75.5%)  
+102 Major Orders: 77 wins, 25 losses, (75.5%)  
 28 Liberate MOs: 21 wins, 7 losses,  (75%)  
-24 Control MOs: 23 wins, 1 loss, (95.8%)  
-11 Defend MOs: 7 wins, 4 losses, (63.6%)  
-10 Eradicate MOs: 5 wins, 5 losses, (50%)  
+25 Control MOs: 24 wins, 1 loss, (96%)  
+12 Defend MOs: 8 wins, 4 losses, (75%)  
+11 Eradicate MOs: 6 wins, 5 losses, (54.5%)  
 1 Sample MO: 1 win, 0 losses, (100%)  
 3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
-1 Extraction MO: 0 wins, 0 losses, 1 pending, (???)  
+1 Extraction MO: 0 wins, 1 loss, (0%)  
 21 Combo MOs: 16 wins, 5 losses, (76.2%)  
 ↳ 11 Eradicate Tasks: 9 wins, 2 losses, (81.8%)  
 ↳ 11 Liberate Tasks: 10 wins, 1 loss, (90.9%)  
@@ -6541,10 +6624,10 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Terminid Front MOs
 
-36 Terminid MOs: 33 wins, 3 losses, (91.7%)  
+37 Terminid MOs: 34 wins, 3 losses, (91.9%)  
 12 Liberate MOs: 10 wins, 2 losses, (83.3%)  
 9 Control MOs: 9 wins, 0 losses, (100%)  
-2 Defend MOs: 2 wins, 0 losses, (100%)  
+3 Defend MOs: 3 wins, 0 losses, (100%)  
 5 Eradicate MOs: 4 wins, 1 loss, (80%)  
 1 Sample MO: 1 win, 0 losses, (100%)  
 0 Conquest MOs: 0 wins, 0 losses, (???)  
@@ -6560,11 +6643,11 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Automaton Front MOs
 
-33 Automaton MOs: 24 wins, 9 losses, (72.7%)  
+34 Automaton MOs: 25 wins, 9 losses, (73.5%)  
 14 Liberate MOs: 10 wins, 4 losses, (71.4%)  
 10 Control MOs: 10 wins, 0 losses, (100%)  
 3 Defend MOs: 1 win, 2 losses, (33.3%)  
-1 Eradicate MO: 0 wins, 1 loss, (0%)  
+2 Eradicate MOs: 1 win, 1 loss, (50%)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
 0 Conquest MOs: 0 wins, 0 losses, (???)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
@@ -6579,15 +6662,15 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Illuminate Front MOs
 
-10 Illuminate MOs: 7 wins, 2 losses, 1 pending, (77.8%)  
+11 Illuminate MOs: 7 wins, 3 losses, 1 pending, (70%)  
 0 Liberate MOs: 0 wins, 0 losses, (???)  
-1 Control MOs: 1 win, 0 losses, (100%)  
+2 Control MOs: 1 win, 0 losses, 1 pending, (100%)  
 5 Defend MOs: 3 wins, 2 losses, (60%)  
 1 Eradicate MO: 1 win, 0 losses, (100%)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
 0 Conquest MOs: 0 wins, 0 losses, (???)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
-1 Extraction MO: 0 wins, 0 losses, 1 pending, (???)  
+1 Extraction MO: 0 wins, 1 loss, (0%)  
 2 Combo MOs: 1 win, 0 losses, (100%)  
 ↳ 3 Eradicate Tasks: 3 wins, 0 losses, (100%)  
 ↳ 0 Liberate Tasks: 0 wins, 0 losses, (???)  
