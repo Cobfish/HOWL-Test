@@ -6351,7 +6351,40 @@ Dispatch: MAJOR ORDER WON. The Helldivers have successfully repelled the Termini
 Dispatch: NEW MAJOR ORDER. The **Super Earth** Satellite Observation Network has regained operability, revealing that Illuminate fugitives have twisted multiple Federation cities into totalitarian strongholds. Helldivers: reclaim these cities for **Super Earth**. Consult your Galactic Map for more information. (12:40pm UTC 17th Jun 2025\)  
 DSS deploys to **Hydrobius** of the ***Omega*** sector (04:35pm UTC 17th Jun 2025\)  
 **Alamak VII** Region 0 Kesuma Town has fallen to Humans (07:39pm UTC 17th Jun 2025\)  
-DSS deploys to **Alamak VII** of the ***Hanzo*** sector (08:35pm UTC 17th Jun 2025\)
+DSS deploys to **Alamak VII** of the ***Hanzo*** sector (08:35pm UTC 17th Jun 2025\)  
+**Alamak VII** Region 2 No Compound Settlement is besieged by Humans (07:09am UTC 18th Jun 2025\)  
+**Alamak VII** Region 2 No Compound Settlement has fallen to Humans (07:09am UTC 18th Jun 2025\)
+
+Day \#497 9:00am 18th Jun 2025
+
+Day \#498 9:00am 19th Jun 2025  
+DSS effect Heavy Ordnance Distribution is activated (01:18pm UTC 19th Jun 2025\)  
+**Alairt III** Region 2 Shed Town has fallen to Humans (05:33pm UTC 19th Jun 2025\)  
+**Alamak VII** Region 3 Filibuster Mega City is besieged by Humans (06:53pm UTC 19th Jun 2025\)
+
+Day \#499 9:00am 20th Jun 2025  
+DSS effect Heavy Ordnance Distribution stops (01:19pm UTC 20th Jun 2025\)  
+**Alamak VII** is liberated (03:24pm UTC 20th Jun 2025\)  
+DSS deploys to **Alairt III** of the ***Hanzo*** sector (03:24pm UTC 20th Jun 2025\)  
+**Alairt III** Region 3 Free Trade Megacity is besieged by Humans (03:50am UTC 20th Jun 2025\)
+
+Day \#500 9:00am 21st Jun 2025  
+DSS effect Orbital Blockade is activated (03:19am UTC 22nd Jun 2025\)  
+**Alairt III** Region 3 Free Trade Megacity has fallen to Humans (07:16am UTC 22nd Jun 2025\)  
+**Alairt III** Region 0 Greater Storouse Town is besieged by Humans (07:16am UTC 22nd Jun 2025\)  
+**Alairt III** Region 1 New Storouse Town is besieged by Humans (07:16am UTC 22nd Jun 2025\)
+
+Day \#501 9:00am 22nd Jun 2025  
+***Major Order*** | A2-6-4 Liberate Two Illuminate Worlds is failed | Objective: Liberate (12:41pm UTC 22nd Jun 2025\)  
+Dispatch: MAJOR ORDER FAILED. The Helldivers' tenacious attempt to reclaim our corrupted cities has failed. Consult your Galactic Map for more information. (01:00pm UTC 22nd Jun 2025\)  
+***Major Order*** | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is issued | Objective: Eradicate (01:38pm UTC 22nd Jun 2025\)  
+**Zea Rugosia** of the ***Ferris*** sector is attacked by Illuminate (01:40pm UTC 22nd Jun 2025\)  
+Dispatch: NEW MAJOR ORDER. Pursuant to intergalactic law, substantial war reparations are now owed by the Illuminate for their assault on **Super Earth**, with a tribunal ruling the Terminids as bearing secondary liability. Helldivers: execute Illuminate fugitives and cull Terminid abettors, to deliver technology, materiel, E-710, and Justice commensurate with the reparations owed. Consult your Galactic Map for more information. (01:43pm UTC 22nd Jun 2025\)  
+Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (07:23pm UTC 22nd Jun 2025\)  
+DSS deploys to **Zea Rugosia** of the ***Ferris*** sector (08:39pm UTC 22nd Jun 2025\)  
+DSS effect Orbital Blockade stops (03:20am UTC 23rd Jun 2025\)
+
+Day \#502 9:00am 23rd Jun 2025
 
 #### Day Zero
 
@@ -6975,11 +7008,11 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-105 Major Orders: 79 wins, 26 losses, (75.2%)  
-29 Liberate MOs: 21 wins, 8 losses, (72.4%)  
+107 Major Orders: 79 wins, 27 losses, 1 pending, (74.5%)  
+30 Liberate MOs: 21 wins, 9 losses, (70%)  
 26 Control MOs: 25 wins, 1 loss, (96.2%)  
 13 Defend MOs: 9 wins, 4 losses, (69.2%)  
-11 Eradicate MOs: 6 wins, 5 losses, (54.5%)  
+12 Eradicate MOs: 6 wins, 5 losses, 1 pending, (54.5%)  
 1 Sample MO: 1 win, 0 losses, (100%)  
 3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
@@ -7032,8 +7065,8 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Illuminate Front MOs
 
-12 Illuminate MOs: 8 wins, 4 losses, (66.6%)  
-1 Liberate MO: 0 wins, 1 loss, (0%)  
+13 Illuminate MOs: 8 wins, 5 losses, (61.5%)  
+2 Liberate MOs: 0 wins, 2 losses, (0%)  
 2 Control MOs: 2 wins, 0 losses, (100%)  
 5 Defend MOs: 3 wins, 2 losses, (60%)  
 1 Eradicate MO: 1 win, 0 losses, (100%)  
@@ -7051,18 +7084,18 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Multi-Fronts MOs
 
-20 Multi-Fronts MOs: 10 wins, 10 losses, (50%)  
+21 Multi-Fronts MOs: 10 wins, 10 losses, 1 pending, (50%)  
 2 Liberate MOs: 1 win, 1 loss, (50%)  
 4 Control MOs: 3 wins, 1 loss, (75%)  
 1 Defend MO: 1 win, 0 losses, (100%)  
-3 Eradicate MOs: 0 wins, 3 losses, (0%)  
+4 Eradicate MOs: 0 wins, 3 losses, 1 pending, (0%)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
 3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
 0 Extraction MOs: 0 wins, 0 losses, (???)  
 7 Combo MOs: 4 wins, 3 losses, (57.1%)  
 ↳ 2 Eradicate Tasks: 1 win, 1 loss, (50%)  
-↳ 5 Liberate Tasks: 5 wins, 0 losses,, (100%)  
+↳ 5 Liberate Tasks: 5 wins, 0 losses, (100%)  
 ↳ 5 Defend Tasks: 2 wins, 3 losses, (40%)  
 ↳ 4 Control Tasks: 3 wins, 1 loss, (75%)  
 ↳ 0 Sample Tasks: 0 wins, 0 losses, (???)  
