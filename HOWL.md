@@ -4,6 +4,8 @@ Original Creator: Herald / Cobfish, Helpers: Tau
 
 Tidbit of advice, use Control \+ F for easier access to info with keywords
 
+I will not be updating HOWL from Monday, July 7th to July 21st. I have been long overdue for a break from this project as I have taken less than 7 actual break days where I didn't interact with this community/updated the project since I started it back on June 19th 2024\. Tau will be updating the document to some capability but it will not contain all the extra formatting/proof-checking that I do. Nor will Major Order stats be updated. When I come back from break I will work on it again. \- Herald
+
 [HOWL Projects Link Tree](https://docs.google.com/document/d/1hURxcGFSxEfH71HQz_2QNmNityBdZQ0f50azC6QgKLo/edit?usp=sharing)
 
 ### Second Galactic War Timeline
@@ -3644,7 +3646,7 @@ Day \#371 9:00am 12th Feb 2025
 DSS deploys to **Irulta** of the ***Saleria*** sector (10:50am UTC 12th Feb 2025\)  
 **Meridia** moves to X 0.46805942 Y 0.17564051 (11:00am UTC 12th Feb 2025\)  
 **Meridia** moves to X 0.4665703 Y 0.17478539 (03:00pm UTC 12th Feb 2025\)  
-**Angel’s Venture** of the ***Orion*** sector is under threat (03:31pm UTC 12th Feb 2025\)  
+**Angel’s Venture** of the ***Orion*** sector is now under threat (03:31pm UTC 12th Feb 2025\)  
 Dispatch: PRIORITY ALERT. The **Meridian** Singularity has reached critical momentum. It can no longer be slowed down enough to avoid collision with **ANGEL'S VENTURE**. **ANGEL'S VENTURE** can no longer be saved. Evacuation of high-priority citizens is underway. (03:33pm UTC 12th Feb 2025\)  
 **Hesoe Prime** of the ***Rigel*** sector is invaded by Illuminate (04:07pm UTC 12th Feb 2025\)  
 **Irulta**'s invasion is successful (06:33pm UTC 12th Feb 2025\)  
@@ -3671,12 +3673,12 @@ DSS deploys to **Erata Prime** of the ***Umlaut*** sector (10:53am UTC 13th Feb 
 **Hort** of the ***Rigel*** sector is invaded by Illuminate (01:04pm UTC 13th Feb 2025\)  
 ***Major Order*** | A2-2-2 Repel 11 Invasions is failed | Objective: Defend (02:34pm UTC 13th Feb 2025\)  
 **Angel’s Venture** of the ***Orion*** sector is annihilated (02:37pm UTC 13th Feb 2025\)  
-**Moradesh** of the ***Celeste*** sector is under threat (02:37pm UTC 13th Feb 2025\)  
-**Ivis** of the ***Celeste*** sector is under threat (02:38pm UTC 13th Feb 2025\)  
-**Nublaria I** of the ***Celeste*** sector is under threat (02:38pm UTC 13th Feb 2025\)  
-**Pilen V** of the ***Altus*** sector is under threat (02:38pm UTC 13th Feb 2025\)  
-**New Haven** of the ***Altus*** sector is under threat (02:39pm UTC 13th Feb 2025\)  
-**Super Earth** of the ***Sol*** sector is under threat (02:39pm UTC 13th Feb 2025\)  
+**Moradesh** of the ***Celeste*** sector is now under threat (02:37pm UTC 13th Feb 2025\)  
+**Ivis** of the ***Celeste*** sector is now under threat (02:38pm UTC 13th Feb 2025\)  
+**Nublaria I** of the ***Celeste*** sector is now under threat (02:38pm UTC 13th Feb 2025\)  
+**Pilen V** of the ***Altus*** sector is now under threat (02:38pm UTC 13th Feb 2025\)  
+**New Haven** of the ***Altus*** sector is now under threat (02:39pm UTC 13th Feb 2025\)  
+**Super Earth** of the ***Sol*** sector is now under threat (02:39pm UTC 13th Feb 2025\)  
 **Meridia** begins to move towards **Super Earth** of the ***Sol*** sector (02:39pm UTC 13th Feb 2025\)  
 DSS deploys to **Darius II** of the ***Borgus*** sector (02:53pm UTC 13th Feb 2025\)  
 **Meridia** moves to X 0.45766047 Y 0.16967677 (03:00pm UTC 13th Feb 2025\)  
@@ -4696,7 +4698,7 @@ DSS deploys to **Alderidge Cove** of the ***Guang*** sector (11:18am UTC 29th Ma
 Dispatch: MAJOR ORDER WON. The underhanded Illuminate scheme to destroy **Super Earth** has been foiled, thanks to the irrepressible might of the Helldivers. The Illuminate-created spacetime aberration known as the **Meridian** Singularity has been de-energized to the point where **Super Earth** is now safely out of its accurately-predicted path. Our citizens can celebrate a hard-earned victory: **Super Earth** is safe. (03:42pm UTC 29th Mar 2025\)  
 **Pilen V** of the ***Altus*** sector is no longer under threat (03:44pm UTC 29th Mar 2025\)  
 **Super Earth** of the ***Sol*** sector is no longer under threat (03:53pm UTC 29th Mar 2025\)  
-**Pilen V** of the ***Altus*** sector is under threat (03:55pm UTC 29th Mar 2025\)  
+**Pilen V** of the ***Altus*** sector is now under threat (03:55pm UTC 29th Mar 2025\)  
 **Ingmar** defense is failed (04:18pm UTC 29th Mar 2025\)  
 ↳ **Ingmar** liberation campaign starts (04:18pm UTC 29th Mar 2025\)  
 **Seasse** of the ***Omega*** sector is invaded by Illuminate (04:29pm UTC 29th Mar 2025\)  
@@ -6026,7 +6028,7 @@ Day \#479 9:00am 31st May 2025
 DSS deploys to **Terrek** of the ***Orion*** sector (04:20pm UTC 31st May 2025\)  
 DSS deploys to **Gaellivare** of the ***Talus*** sector (12:20am UTC 1st Jun 2025\)
 
-#### June 2025 | Day 480 \- Now
+#### June 2025 | Day 480 \- 509
 
 Day \#480 9:00am 1st Jun 2025  
 **Terrek** is liberated (02:38pm UTC 1st Jun 2025\)
@@ -6249,13 +6251,13 @@ DSS deploys to **Inari** of the ***Korpus*** sector (08:31pm UTC 12th Jun 2025\)
 **Alta V** Region 1 Undervatten Settlement has fallen to Humans (08:34am UTC 13th Jun 2025\)
 
 Day \#492 9:00am 13th Jun 2025  
-**Heze Bay** of the ***Hanzo*** sector is under threat (02:32pm UTC 13th Jun 2025\)  
+**Heze Bay** of the ***Hanzo*** sector is now under threat (02:32pm UTC 13th Jun 2025\)  
 Dispatch: SATELLITES SABOTAGED. A deep-space satellite near **Super Earth** has failed. The Illuminate appear to have planted interference devices during the Battle for **Super Earth**. A number of planets in close proximity to Illuminate-occupied planets are no longer observable. Communication has been cut off, and FTL travel to them is impossible. Analysts assess the likelihood of anti-Democratic activity on those planets to be Very High. A task force is actively working to restore system integrity. (02:32pm UTC 13th Jun 2025\)  
-**Alaraph** of the ***Akira*** sector is under threat (02:40pm UTC 13th Jun 2025\)  
-**Alert III** of the ***Hanzo*** sector is under threat (02:40pm UTC 13th Jun 2025\)  
-**Alamak VII** of the ***Hanzo*** sector is under threat (02:44pm UTC 13th Jun 2025\)  
-**Herthon Secundus** of the ***Ferris*** sector is under threat (02:51pm UTC 13th Jun 2025\)  
-**Karlia** of the ***Omega*** sector is under threat (03:02pm UTC 13th Jun 2025\)  
+**Alaraph** of the ***Akira*** sector is now under threat (02:40pm UTC 13th Jun 2025\)  
+**Alert III** of the ***Hanzo*** sector is now under threat (02:40pm UTC 13th Jun 2025\)  
+**Alamak VII** of the ***Hanzo*** sector is now under threat (02:44pm UTC 13th Jun 2025\)  
+**Herthon Secundus** of the ***Ferris*** sector is now under threat (02:51pm UTC 13th Jun 2025\)  
+**Karlia** of the ***Omega*** sector is now under threat (03:02pm UTC 13th Jun 2025\)  
 **Alta V** Region 0 Porte Liberté Town has fallen to Humans (07:18pm UTC 13th Jun 2025\)  
 **Alta V** Region 1 Undervatten Settlement is besieged by Terminids (10:20pm UTC 13th Jun 2025\)  
 **Alta V** Region 1 Undervatten Settlement siege has ended (10:23pm UTC 13th Jun 2025\)  
@@ -6284,7 +6286,7 @@ Day \#494 9:00am 15th Jun 2025
 DSS deploys to **Alta V** of the ***Korpus*** sector (03:47pm UTC 15th Jun 2025\)  
 DSS effect Eagle Storm is activated (08:28pm UTC 15th Jun 2025\)  
 **Alta V** Region 0 Porte Liberté Town is besieged by Humans (11:50pm UTC 15th Jun 2025\)  
-**Alta V** Region 0 Porte Liberté Town has fallen to Humans (06:52am UTC 15th Jun 2025\)
+**Alta V** Region 0 Porte Liberté Town has fallen to Humans (06:52am UTC 16th Jun 2025\)
 
 Day \#495 9:00am 16th Jun 2025  
 **Alta V** is liberated (05:47pm UTC 16th Jun 2025\)  
@@ -6352,10 +6354,10 @@ Dispatch: NEW MAJOR ORDER. The **Super Earth** Satellite Observation Network has
 DSS deploys to **Hydrobius** of the ***Omega*** sector (04:35pm UTC 17th Jun 2025\)  
 **Alamak VII** Region 0 Kesuma Town has fallen to Humans (07:39pm UTC 17th Jun 2025\)  
 DSS deploys to **Alamak VII** of the ***Hanzo*** sector (08:35pm UTC 17th Jun 2025\)  
-**Alamak VII** Region 2 No Compound Settlement is besieged by Humans (07:09am UTC 18th Jun 2025\)  
-**Alamak VII** Region 2 No Compound Settlement has fallen to Humans (07:09am UTC 18th Jun 2025\)
+**Alamak VII** Region 2 No Compound Settlement is besieged by Humans (07:09am UTC 18th Jun 2025\)
 
-Day \#497 9:00am 18th Jun 2025
+Day \#497 9:00am 18th Jun 2025  
+**Alamak VII** Region 2 No Compound Settlement has fallen to Humans (11:14am UTC 18th Jun 2025\)
 
 Day \#498 9:00am 19th Jun 2025  
 DSS effect Heavy Ordnance Distribution is activated (01:18pm UTC 19th Jun 2025\)  
@@ -6384,7 +6386,152 @@ Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldiver
 DSS deploys to **Zea Rugosia** of the ***Ferris*** sector (08:39pm UTC 22nd Jun 2025\)  
 DSS effect Orbital Blockade stops (03:20am UTC 23rd Jun 2025\)
 
-Day \#502 9:00am 23rd Jun 2025
+Day \#502 9:00am 23rd Jun 2025  
+**Zea Rugosia** defense is failed (01:41pm UTC 23rd Jun 2025\)  
+↳ **Zea Rugosia** liberation campaign starts (01:41pm UTC 23rd Jun 2025\)  
+Dispatch: STRATEGIC OPPORTUNITY. Long-distance surveys of currently-infested Terminid planets has identified larger-than-usual free E-710 quantities in the upper geological strata. Liberating these planets would allow acquisition of these E-710 reservoirs, reducing the required kill count for the current Major Order by 1,000,000,000 Terminids for each Terminid planet liberated. (02:00pm UTC 23rd Jun 2025\)  
+DSS deploys to **Krakatwo** of the ***Celeste*** sector (04:40pm UTC 23rd Jun 2025\)  
+**Krakatwo** is liberated (11:20pm UTC 23rd Jun 2025\)  
+DSS deploys to **Alairt III** of the ***Hanzo*** sector (11:20pm UTC 23rd Jun 2025\)  
+DSS deploys to **Nublaria I** of the ***Celeste*** sector (12:40am UTC 24th Jun 2025\)
+
+Day \#503 9:00am 24th Jun 2025  
+DSS effect Eagle Storm is activated (02:12pm UTC 24th Jun 2025\)  
+Dispatch: M-105 Stalwart stratagem availability has ended. (07:28pm UTC 24th Jun 2025\)  
+**Nublaria I** is liberated (11:22pm UTC 24th Jun 2025\)  
+Assault Division: ***Predator Strain*** U5F is routed (11:22pm UTC 24th Jun 2025\)  
+DSS deploys to **Alairt III** of the ***Hanzo*** sector (11:23pm UTC 24th Jun 2025\)  
+**Ain-5** of the ***Hanzo*** sector is attacked by Illuminate (01:37am UTC 25th Jun 2025\)  
+DSS deploys to **Ain-5** of the ***Hanzo*** sector (08:41am UTC 25th Jun 2025\)
+
+Day \#504 9:00am 25th Jun 2025  
+**Terrek** of the ***Orion*** sector is attacked by Terminids (10:50am UTC 25th Jun 2025\)  
+DSS effect Eagle Storm stops (02:12pm UTC 25th Jun 2025\)  
+***Major Order*** | A2-6-5 Kill 290m Illuminate and Kill 2.9b Terminids is won | Objective: Eradicate (09:47pm UTC 26th Jun 2025\)  
+**Terrek** defense is won (10:00pm UTC 25th Jun 2025\)  
+Dispatch: MAJOR ORDER WON. The Helldivers have successfully collected the mandated war restitution. Consult your Galactic Map for more information. (10:19pm UTC 25th Jun 2025\)  
+**Ain-5** defense is failed (07:09am UTC 26th Jun 2025\)  
+↳ **Ain-5** liberation campaign starts (07:09am UTC 26th Jun 2025\)  
+DSS deploys to **Slif** of the ***Celeste*** sector (08:41am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6A deploys to **Choohe** (08:44am UTC 26th Jun 2025\)
+
+Day \#505 9:00am 26th Jun 2025  
+Assault Division: ***Jet Brigade*** U6A divides into 3 groups \[U6A, U6B, U6C\] (09:04am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B deploys to **Matar Bay** (09:04am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C deploys to **Menkent** (09:04am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6A leaves **Choohe** (09:06am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6A merges with ***Jet Brigade*** U6B on **Matar Bay** (09:06am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B leaves **Matar Bay** (09:33am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C leaves **Menkent** (09:33am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B deploys to **Marfark** (09:34am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C deploys to **Vernen Wells** (09:34am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B leaves **Marfark** (10:03am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C leaves **Vernen Wells** (10:03am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C deploys to **Aesir Pass** (10:04am UTC 26th Jun 2025\)  
+**Bekvam III** of the ***Nanos*** sector is attacked by Automatons (10:04am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B deploys to **Bekvam III** (10:04am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C leaves **Aesir Pass** (10:33am UTC 26th Jun 2025\)  
+**Curia** of the ***Marspira*** sector is attacked by Automatons (10:34am UTC 26th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C deploys to **Curia** (10:04am UTC 26th Jun 2025\)  
+***Major Order*** | A2-6-6 Repel 4 Automaton Attacks is issued | Objective: Defend (10:59am UTC 26th Jun 2025\)  
+Dispatch: NEW MAJOR ORDER. ALERT: A large-scale, coordinated Automaton offensive has launched without warning. The Helldivers are to deploy to all systems under attack, and defend all affected planets. Consult your Galactic Map for more information. (10:59am UTC 26th Jun 2025\)  
+DSS deploys to **Vernen Wells** of the ***Hydra*** sector (12:41pm UTC 26th Jun 2025\)  
+DSS deploys to **Curia** of the ***Marspira*** sector (04:42pm UTC 26th Jun 2025\)
+
+Day \#506 9:00am 27th Jun 2025  
+**Bekvam III** defense is failed (10:05am UTC 27th Jun 2025\)  
+↳ **Bekvam III** liberation campaign starts (10:05am UTC 27th Jun 2025\)  
+↳ **Charon Prime** liberation campaign ends (10:05am UTC 27th Jun 2025\)  
+↳ **Marfark** liberation campaign ends (10:05am UTC 27th Jun 2025\)  
+**Curia** defense is failed (10:35am UTC 27th Jun 2025\)  
+↳ **Curia** liberation campaign starts (10:35am UTC 27th Jun 2025\)  
+↳ **Aesir Pass** liberation campaign ends (10:35am UTC 27th Jun 2025\)  
+**Borea** \- **Gunvald** warp link is added (10:37am UTC 27th Jun 2025\)  
+**Curia** \- **Borea** warp link is added (10:37am UTC 27th Jun 2025\)  
+**Oslo Station** \- **Gunvald** warp link is added (10:37am UTC 27th Jun 2025\)  
+**Oslo Station** \- **Duma Tyr** warp link is added (10:37am UTC 27th Jun 2025\)  
+**Dolph** \- **Oslo Station** warp link is added (10:37am UTC 27th Jun 2025\)  
+**Duma Tyr** \- **Borea** warp link is added (10:37am UTC 27th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B leaves **Bekvam III** (10:38am UTC 27th Jun 2025\)  
+**Duma Tyr** of the ***Nanos*** sector is attacked by Automatons (10:39am UTC 27th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B deploys to **Duma Tyr** (10:39am UTC 27th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C leaves **Curia** (10:39am UTC 27th Jun 2025\)  
+**Borea** of the ***Sagan*** sector is attacked by Automatons (10:40am UTC 27th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6C deploys to **Borea** (10:40am UTC 27th Jun 2025\)  
+Dispatch: PATRIOTIC ANNOUNCEMENT. High Command has commissioned a special uniform item for all Helldivers, in recognition of their unyielding efforts to ensure the never-ending prosperity of **Super Earth**. A new cape will soon be available fleetwide. (12:18pm UTC 27th Jun 2025\)  
+DSS deploys to **Borea** of the ***Sagan*** sector (04:42pm UTC 27th Jun 2025\)  
+**Borea** defense is won (06:45am UTC 28th Jun 2025\)  
+↳ ***Sagan*** sector is fully under Human control (06:45am UTC 28th Jun 2025\)  
+DSS deploys to **Duma Tyr** of the ***Nanos*** sector (06:45am UTC 28th Jun 2025\)
+
+Day \#507 9:00am 28th Jun 2025  
+**Duma Tyr** defense is failed (10:39am UTC 28th Jun 2025\)  
+↳ **Duma Tyr** liberation campaign starts (10:39am UTC 28th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B leaves **Duma Tyr** (04:05pm UTC 28th Jun 2025\)  
+**Oslo Station** of the ***Sagan*** sector is attacked by Automatons (04:06pm UTC 28th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B deploys to **Oslo Station** (04:06pm UTC 28th Jun 2025\)  
+**Wezen** of the ***Ymir*** sector is attacked by Automatons (04:08pm UTC 28th Jun 2025\)  
+Dispatch: THREAT ANALYSIS UPDATE. The Automaton offensive continues. Field reports corroborate earlier intelligence: the rebuilt ***Jet Brigade*** have mastered propulsion of their heavy units. The enemy aims to stretch our defensive perimeter to its breaking point. Thin their ranks, deny their unconventional tactics, and turn this enemy back into the scrap they came from. (07:07pm UTC 28th Jun 2025\)  
+Dispatch: FORCE AUGMENTATION. To better counter the **Jet Brigade**’s newest capabilities, High Command has authorized the AIRBURST ROCKET LAUNCHER to be made available fleetwide for the next 24 hours. (07:35pm UTC 28th Jun 2025\)  
+DSS deploys to **Oslo Station** of the ***Sagan*** sector (08:43pm UTC 28th Jun 2025\)
+
+Day \#508 9:00am 29th Jun 2025  
+**Oslo Station** defense is failed (04:07pm UTC 29th Jun 2025\)  
+↳ **Oslo Station** liberation campaign starts (04:07pm UTC 29th Jun 2025\)  
+**Wezen** defense is failed (04:09pm UTC 29th Jun 2025\)  
+↳ **Wezen** liberation campaign starts (04:09pm UTC 29th Jun 2025\)  
+↳ **Vega Bay** liberation campaign ends (04:09pm UTC 29th Jun 2025\)  
+↳ ***Ymir*** sector is fully under Automaton control (04:09pm UTC 29th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B leaves **Oslo Station** (04:59pm UTC 29th Jun 2025\)  
+**Gunvald** of the ***Sagan*** sector is attacked by Automatons (05:01pm UTC 29th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B deploys to **Gunvald** (05:01pm UTC 29th Jun 2025\)  
+**Varylia 5** of the ***Trigon*** sector is attacked by Automatons (05:04pm UTC 29th Jun 2025\)  
+Dispatch: AIRBURST ROCKET LAUNCHER stratagem availability has now ended. (07:36pm UTC 29th Jun 2025\)  
+DSS deploys to **Gunvald** of the ***Sagan*** sector (12:43am UTC 30th Jun 2025\)  
+**Ustotu** of the ***Trigon*** sector is attacked by Automatons (04:07am UTC 30th Jun 2025\)  
+**Gunvald** defense is won (04:28am UTC 30th Jun 2025\)  
+Assault Division: ***Jet Brigade*** U6B is routed (04:28am UTC 30th Jun 2025\)  
+DSS deploys to **Varylia 5** of the ***Trigon*** sector (04:28am UTC 30th Jun 2025\)
+
+Day \#509 9:00am 30th Jun 2025  
+**Mintoria** of the ***Gellert*** sector is attacked by Automatons (01:33pm UTC 30th Jun 2025\)  
+**Varylia 5** defense is won (02:29pm UTC 30th Jun 2025\)  
+DSS deploys to **Ustotu** of the ***Trigon*** sector (02:30pm UTC 30th Jun 2025\)  
+DSS effect Heavy Ordnance Distribution is activated (05:45pm UTC 30th Jun 2025\)  
+**Ustotu** defense is won (12:28am UTC 1st Jul 2025\)  
+↳ ***Major Order*** | A2-6-6 Repel 4 Automaton Attacks is won | Objective: Defend (12:28am UTC 1st Jul 2025\)  
+DSS deploys to **Mintoria** of the ***Gellert*** sector (12:29am UTC 1st Jul 2025\)  
+Dispatch: MAJOR ORDER WON. The latest Automaton offensive—led by the newly-augmented ***Jet Brigade***—has been decisively repelled by the Helldivers. Consult your Galactic Map for more information. (01:07am UTC 1st Jul 2025\)
+
+#### July 2025 | Day 510 \- Now
+
+Day \#510 9:00am 1st Jul 2025  
+**Senge 23** of the ***Omega*** sector is attacked by Illuminate (11:00am UTC 1st Jul 2025\)  
+**Mintoria** defense is failed (01:34pm UTC 1st Jul 2025\)  
+↳ **Blistica** liberation campaign ends (01:34pm UTC 1st Jul 2025\)  
+↳ **Zefia** liberation campaign ends (01:34pm UTC 1st Jul 2025\)  
+DSS deploys to **Senge 23** of the ***Omega*** sector (01:34pm UTC 1st Jul 2025\)  
+DSS effect Heavy Ordnance Distribution stops (05:46pm UTC 1st Jul 2025\)  
+DSS effect Orbital Blockade is activated (09:18pm UTC 1st Jul 2025\)
+
+Day \#511 9:00am 2nd Jul 2025\)  
+**Senge 23** defense is failed (11:01am UTC 2nd Jul 2025\)  
+↳ **Senge 23** liberation campaign starts (11:01am UTC 2nd Jul 2025\)  
+**Genesis Prime** of the ***Rictus*** sector is attacked by Illuminate (11:22am UTC 2nd Jul 2025\)  
+**Genesis Prime** Region 0 Mallstrip Nodes Town is besieged by Humans (11:22am UTC 2nd Jul 2025\)  
+DSS deploys to **Curia** of the ***Marspira*** sector (12:45pm UTC 2nd Jul 2025\)  
+DSS deploys to **Genesis Prime** of the ***Rictus*** sector (04:45pm UTC 2nd Jul 2025\)  
+DSS deploys to **Curia** of the ***Marspira*** sector (08:45pm UTC 2nd Jul 2025\)  
+DSS effect Orbital Blockade stops (09:18pm UTC 2nd Jul 2025\)  
+**Genesis Prime** Region 1 Birth City is besieged by Humans (09:57pm UTC 2nd Jul 2025\)
+
+Day \#512 9:00am 3rd Jul 2025  
+↳ **Genesis Prime** defense is failed (11:23am UTC 3rd Jul 2025\)  
+**Genesis Prime** liberation campaign starts (11:23am UTC 3rd Jul 2025\)  
+**Genesis Prime** Region 0 Mallstrip Nodes Town is besieged by Humans (11:23am UTC 3rd Jul 2025\)  
+DSS effect Eagle Storm is activated (12:26pm UTC 3rd Jul 2025\)  
+***Major Order*** | A2-7-1 Zegema Paradise Xbox Training Facility is issued | Objective: Liberate/Sample (02:48pm UTC 3rd Jul 2025\)  
+Dispatch: NEW MAJOR ORDER. High Command has authorized construction of a new, state-of-the-art Helldiver training facility on **ZEGEMA PARADISE**. To support the creation of this facility, Helldivers are ordered to liberate the specified Terminid planets to enable follow-on acquisition of live specimens by SEAF units, and to secure 50,000,000 Terminid Samples to sustain breeding efforts for future training. (02:48pm UTC 3rd Jul 2025\)
 
 #### Day Zero
 
@@ -7008,26 +7155,26 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-107 Major Orders: 79 wins, 27 losses, 1 pending, (74.5%)  
+109 Major Orders: 81 wins, 27 losses, 1 pending, (75%)  
 30 Liberate MOs: 21 wins, 9 losses, (70%)  
 26 Control MOs: 25 wins, 1 loss, (96.2%)  
-13 Defend MOs: 9 wins, 4 losses, (69.2%)  
-12 Eradicate MOs: 6 wins, 5 losses, 1 pending, (54.5%)  
+14 Defend MOs: 10 wins, 4 losses, (71.4%)  
+12 Eradicate MOs: 7 wins, 5 losses, (58.3%)  
 1 Sample MO: 1 win, 0 losses, (100%)  
 3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
 1 Extraction MO: 0 wins, 1 loss, (0%)  
-21 Combo MOs: 16 wins, 5 losses, (76.2%)  
+22 Combo MOs: 16 wins, 5 losses, 1 pending, (76.2%)  
 ↳ 11 Eradicate Tasks: 9 wins, 2 losses, (81.8%)  
-↳ 11 Liberate Tasks: 10 wins, 1 loss, (90.9%)  
+↳ 13 Liberate Tasks: 10 wins, 1 loss, 2 pending, (90.9%)  
 ↳ 13 Defend Tasks: 10 wins, 3 losses, (76.9%)  
 ↳ 18 Control Tasks: 17 wins, 1 loss, (94.4%)  
-↳ 3 Sample Tasks: 3 wins, 0 losses, (100%)  
+↳ 4 Sample Tasks: 3 wins, 0 losses, 1 pending, (100%)  
 ↳ 1 Operation Task: 0 wins, 1 loss, (0%)
 
 ##### Terminid Front MOs
 
-38 Terminid MOs: 35 wins, 3 losses, (92.1%)  
+39 Terminid MOs: 35 wins, 3 losses, 1 pending, (92.1%)  
 12 Liberate MOs: 10 wins, 2 losses, (83.3%)  
 10 Control MOs: 10 wins, 0 losses, (100%)  
 3 Defend MOs: 3 wins, 0 losses, (100%)  
@@ -7036,20 +7183,20 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 0 Conquest MOs: 0 wins, 0 losses, (???)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
 0 Extraction MOs: 0 wins, 0 losses, (???)  
-6 Combo MOs: 6 wins, 0 losses, (100%)  
+7 Combo MOs: 6 wins, 0 losses, 1 pending, (100%)  
 ↳ 4 Eradicate Tasks: 4 wins, 0 losses, (100%)  
-↳ 3 Liberate Tasks: 3 win, 0 losses, (100%)  
+↳ 5 Liberate Tasks: 3 win, 0 losses, 2 pending, (100%)  
 ↳ 3 Defend Tasks: 3 wins, 0 losses, (100%)  
 ↳ 12 Control Tasks: 12 wins, 0 losses, (100%)  
-↳ 3 Sample Tasks: 3 wins, 0 losses, (100%)  
+↳ 4 Sample Tasks: 3 wins, 0 losses, 1 pending, (100%)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
 ##### Automaton Front MOs
 
-35 Automaton MOs: 26 wins, 9 losses, (74.3%)  
+36 Automaton MOs: 27 wins, 9 losses, (75%)  
 14 Liberate MOs: 10 wins, 4 losses, (71.4%)  
 10 Control MOs: 10 wins, 0 losses, (100%)  
-4 Defend MOs: 2 wins, 2 losses, (50%)  
+5 Defend MOs: 3 wins, 2 losses, (60%)  
 2 Eradicate MOs: 1 win, 1 loss, (50%)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
 0 Conquest MOs: 0 wins, 0 losses, (???)  
@@ -7084,11 +7231,11 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Multi-Fronts MOs
 
-21 Multi-Fronts MOs: 10 wins, 10 losses, 1 pending, (50%)  
+21 Multi-Fronts MOs: 11 wins, 10 losses, (52.4%)  
 2 Liberate MOs: 1 win, 1 loss, (50%)  
 4 Control MOs: 3 wins, 1 loss, (75%)  
 1 Defend MO: 1 win, 0 losses, (100%)  
-4 Eradicate MOs: 0 wins, 3 losses, 1 pending, (0%)  
+4 Eradicate MOs: 1 win, 3 losses, (25%)  
 0 Sample MOs: 0 wins, 0 losses, (???)  
 3 Conquest MOs: 1 win, 2 losses, (33.3%)  
 0 Operation MOs: 0 wins, 0 losses, (???)  
