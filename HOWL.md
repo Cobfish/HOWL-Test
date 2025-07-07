@@ -4,7 +4,7 @@ Original Creator: Herald / Cobfish, Helpers: Tau
 
 Tidbit of advice, use Control \+ F for easier access to info with keywords
 
-I will not be updating HOWL from Monday, July 7th to July 21st. I have been long overdue for a break from this project as I have taken less than 7 actual break days where I didn't interact with this community/updated the project since I started it back on June 19th 2024\. Tau will be updating the document to some capability but it will not contain all the extra formatting/proof-checking that I do. Nor will Major Order stats be updated. When I come back from break I will work on it again. \- Herald
+I will not be updating HOWL from Monday, July 7th to July 21st. I have been long overdue for a break from this project as I have taken less than 7 actual break days where I didn't interact with this community/updated the project since I started it back in June last year. Tau will be updating the document to some capability but it will not contain all the extra formatting/proof-checking that I do. Nor will Major Order stats be updated. When I come back from break I will work on it again. \- Herald
 
 [HOWL Projects Link Tree](https://docs.google.com/document/d/1hURxcGFSxEfH71HQz_2QNmNityBdZQ0f50azC6QgKLo/edit?usp=sharing)
 
@@ -5986,6 +5986,7 @@ Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their for
 Dispatch: YORK SUPREME HAS FALLEN. The last and greatest of the Yorks has fallen. (01:35pm UTC 28th May 2025\)  
 Dispatch: SUPER EARTH DEFENSE PROTOCOL RUBY. Only 2 Mega Cities remain standing. High Command is authorized to order the activation of Super Defense Protocol Ruby, emptying all Super Destroyer high-cost reserves. All Helldiver loadouts will be augmented with the Fast Recon Vehicle strategem for **Super Earth** missions. (01:35pm UTC 28th May 2025\)  
 Dispatch: Personnel reserves are severely strained. Reinforcement Budgets are reduced by 2 indefinitely. (01:35pm UTC 28th May 2025\)  
+***Major Order*** | A2-5-5 Kill Automatons For DSS Repairs is won | Objective: Eradicate (04:06pm UTC 28th May 2025\)  
 DSS is activated (04:10pm UTC 28th May 2025\)  
 DSS deploys to **Super Earth** of the ***Sol*** sector (04:10pm UTC 28th May 2025\)  
 Dispatch: DSS OPERATIONAL. The Democracy Space Station has been returned to full operational status. It will be deployed to **Super Earth** immediately. Fleet positioning protocols are in place to defend it from Illuminate attack. The station will also be operating in temporary overdrive, with a new Tactical Action combining the effects of two others: Eagle Blockade. (04:10pm UTC 28th May 2025\)  
@@ -6530,8 +6531,30 @@ Day \#512 9:00am 3rd Jul 2025
 **Genesis Prime** liberation campaign starts (11:23am UTC 3rd Jul 2025\)  
 **Genesis Prime** Region 0 Mallstrip Nodes Town is besieged by Humans (11:23am UTC 3rd Jul 2025\)  
 DSS effect Eagle Storm is activated (12:26pm UTC 3rd Jul 2025\)  
-***Major Order*** | A2-7-1 Zegema Paradise Xbox Training Facility is issued | Objective: Liberate/Sample (02:48pm UTC 3rd Jul 2025\)  
-Dispatch: NEW MAJOR ORDER. High Command has authorized construction of a new, state-of-the-art Helldiver training facility on **ZEGEMA PARADISE**. To support the creation of this facility, Helldivers are ordered to liberate the specified Terminid planets to enable follow-on acquisition of live specimens by SEAF units, and to secure 50,000,000 Terminid Samples to sustain breeding efforts for future training. (02:48pm UTC 3rd Jul 2025\)
+***Major Order*** | A2-7-1 Zegema Paradise Training Facility is issued | Objective: Liberate/Sample (02:48pm UTC 3rd Jul 2025\)  
+Dispatch: NEW MAJOR ORDER. High Command has authorized construction of a new, state-of-the-art Helldiver training facility on **ZEGEMA PARADISE**. To support the creation of this facility, Helldivers are ordered to liberate the specified Terminid planets to enable follow-on acquisition of live specimens by SEAF units, and to secure 50,000,000 Terminid Samples to sustain breeding efforts for future training. (02:48pm UTC 3rd Jul 2025\)  
+DSS deploys to **Gar Haren** of the ***Jin Xi*** sector (08:46pm UTC 3rd Jul 2025\)  
+**Zosma** of the ***Gellert*** sector is attacked by Automatons (09:30pm UTC 3rd Jul 2025\)
+
+Day \#513 9:00am 4th Jul 2025  
+DSS effect Eagle Storm stops (12:26pm UTC 4th Jul 2025\)  
+**Gar Haren** is liberated (08:19pm UTC 4th Jul 2025\)  
+↳ **Gatria** liberation campaign starts (08:19pm UTC 4th Jul 2025\)  
+↳ **Phact Bay** liberation campaign starts (08:19pm UTC 4th Jul 2025\)  
+**Gatria** Region 0 Altonburg Settlement is besieged by Humans (08:19pm UTC 4th Jul 2025\)  
+**Phact Bay** Region 0 Old Dove Town is besieged by Humans (08:19pm UTC 4th Jul 2025\)  
+DSS deploys to **Curia** of the ***Marspira*** sector (08:19pm UTC 4th Jul 2025\)  
+**Zosma** defense is failed (09:31pm UTC 4th Jul 2025\)  
+↳ **Zzaniah Prime** liberation campaign ends (09:31pm UTC 4th Jul 2025\)  
+DSS deploys to **Gatria** of the ***Jin Xi*** sector (12:46am UTC 5th Jul 2025\)  
+**Gatria** Region 0 Altonburg Settlement has fallen to Humans (02:28am UTC 5th Jul 2025\)
+
+Day \#514 9:00am 5th Jul 2025  
+**Gatria** Region 1 Ersatz City is besieged by Humans (04:20am UTC 6th Jul 2025\)
+
+Day \#515 9:00am 6th Jul 2025
+
+Day \#516 9:00am 7th Jul 2025
 
 #### Day Zero
 
