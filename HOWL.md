@@ -8359,7 +8359,7 @@ DSS deploys to **Erata Prime** of the ***Umlaut*** sector (08:30am UTC 21st Oct 
 
 Day \#622 9:00am 21st Oct 2025  
 ***Major Order*** | A2-10-3 Secure Ground Around **Hellmire** is issued | Objective: Liberate/Control (12:33pm UTC 21st Oct 2025\)  
-Dispatch: NEW MAJOR ORDER. Following weeks of preparation, SEAF forces stand at the brink of liberating the Terminid Hive World, Oshaune. The offensive will launch from Gloom Base Alpha on **Hellmire**. The Helldivers are ordered to prepare for the impending offensive by liberating **ERATA PRIME** and **ESTANU** to better protect **Hellmire** from Terminid attacks upon it. (12:34pm UTC 21st Oct 2025\)  
+Dispatch: NEW MAJOR ORDER. Following weeks of preparation, SEAF forces stand at the brink of liberating the Terminid Hive World, **Oshaune**. The offensive will launch from Gloom Base Alpha on **Hellmire**. The Helldivers are ordered to prepare for the impending offensive by liberating **ERATA PRIME** and **ESTANU** to better protect **Hellmire** from Terminid attacks upon it. (12:34pm UTC 21st Oct 2025\)  
 Assault Division: ***Spore Burst Strain*** U6A divides into 2 groups \[U6A, U6C\] (02:57pm UTC 21st Oct 2025\)  
 Assault Division: ***Spore Burst Strain*** U6C deploys to **Estanu** (02:57pm UTC 21st Oct 2025\)  
 **Erata Prime** Region 2 Old Chemland Town has fallen to Humans (04:15pm UTC 21st Oct 2025\)  
@@ -8519,12 +8519,12 @@ Day \#628 9:00am 27th Oct 2025
 **Termadon** \- **Stor Tha Prime** warp link is added (12:18pm UTC 27th Oct 2025\)  
 DSS effect Orbital Blockade stops (04:38pm UTC 27th Oct 2025\)  
 DSS deploys to **Hesoe Prime** of the ***Rigel*** sector (06:39pm UTC 27th Oct 2025\)  
-Assault Division: ***Hive Lords*** U1A leaves Oshaune (08:31am UTC 27th Oct 2025\)
+Assault Division: ***Hive Lords*** U1A leaves **Oshaune** (08:31am UTC 27th Oct 2025\)
 
 Day \#629 9:00am 28th Oct 2025  
 **Hesoe Prime** defense is failed (10:43am UTC 28th Oct 2025\)  
 ↳ **Hesoe Prime** liberation campaign starts (10:43am UTC 28th Oct 2025\)  
-***Major Order*** | A2-10-5 Liberate Hive World Oshaune is issued | Objective: Liberate (12:10pm UTC 28th Oct 2025\)  
+***Major Order*** | A2-10-5 Liberate Hive World **Oshaune** is issued | Objective: Liberate (12:10pm UTC 28th Oct 2025\)  
 Dispatch: NEW MAJOR ORDER. The time has come to liberate the Hive World. All Helldivers are ordered to deploy to **OSHAUNE**. Do not relent until it is purged. (12:11pm UTC 28th Oct 2025\)  
 DSS deploys to **Oshaune** of the ***Mirin*** sector (02:39pm UTC 28th Oct 2025\)  
 Dispatch: DSS DEPLOYED TO **OSHAUNE**. In an effective exercise of Managed Democracy, the Helldivers have elected to deploy the DSS to **OSHAUNE**. The onboard Atmospheric Autoclave has begun sterilizing Gloom spores on the planet, weakening Terminid resistance. (02:41pm UTC 28th Oct 2025\)  
@@ -8536,7 +8536,7 @@ Assault Division: ***Rupture Strain*** U3A deploys to **Bore Rock** (12:02pm UTC
 Assault Division: ***Spore Burst Strain*** U6A leaves **Fori Prime** (12:02pm UTC 29th Oct 2025\)  
 **Terrek** of the ***Orion*** sector is attacked by Lvl 18 Terminids (12:03pm UTC 29th Oct 2025\)  
 Assault Division: ***Rupture Strain*** U3A divides into 2 groups \[U3A, U3B\] (12:03pm UTC 29th Oct 2025\)  
-Assault Division: ***Rupture Strain*** U3A deploys to **Terrek** (12:03pm UTC 29th Oct 2025\)  
+Assault Division: ***Rupture Strain*** U3B deploys to **Terrek** (12:03pm UTC 29th Oct 2025\)  
 Assault Division: ***Rupture Strain*** U3C deploys to **Fori Prime** (12:03pm UTC 29th Oct 2025\)  
 **Gacrux** of the ***Jin Xi*** sector is attacked by Lvl 18 Terminids (12:05pm UTC 29th Oct 2025\)  
 Assault Division: ***Rupture Strain*** U3C divides into 2 groups \[U3C, U3D\] (12:05pm UTC 29th Oct 2025\)  
@@ -8606,6 +8606,59 @@ Dispatch: DSS STATUS CRITICAL. The anti-spore polymer shielding on the DSS is cr
 DSS effect Eagle Storm is activated (01:58am UTC 2nd Nov 2025\)  
 DSS deploys to Karlia (02:43am UTC 2nd Nov 2025\)  
 Dispatch: DSS WITHDRAWN. The Democracy Space Station has conducted an emergency warp to KARLIA to avert catastrophic system failure. It will remain out of commission until Gloom spores are fully cleansed from the station. (02:43am UTC 2nd Nov 2025\)
+
+Day \#634 9:00am 2nd Nov 2025  
+DSS deploys to **Oshaune** of the ***Mirin*** sector (02:42pm UTC 2nd Nov 2025\)  
+Dispatch: DSS CLEANSED. The DSS has been cleansed from gloom spores and is ready for re-deployment to **OSHAUNE**. (02:44pm UTC 2th Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3B leaves **Terrek** (09:20pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3B merges with ***Rupture Strain*** U3A on **Bore Rock** (09:20pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3D leaves **Gacrux** (09:20pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3D merges with **Rupture Strain** U3C on **Fori Prime** (09:20pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3E leaves **Crimsica** (09:20pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3E merges with ***Rupture Strain*** U3C on **Fori Prime** (09:20pm UTC 2nd Nov 2025\)  
+Dispatch: **OSHAUNE** ALMOST LIBERATED. **OSHAUNE** is nearly liberated. Remaining Terminid resistance is expected to be fierce. The infestation runs deep. Do not relent. All forces are directed to push on **OSHAUNE**. (09:23pm UTC 2nd Nov 2025\)  
+Dispatch: IMPALER RAMPAGE. Significantly higher Impaler numbers have been observed on **OSHAUNE**. (10:27pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3A leaves **Bore Rock** (10:44pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3C leaves **Fori Prime** (10:44pm UTC 2nd Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3C merges with ***Rupture Strain*** U3F on **Oshaune** (10:44pm UTC 2nd Nov 2025\)  
+Dispatch: STRATAGEM AUTHORIZED ON **OSHAUNE**. Terminid resistance on **OSHAUNE** has been extremely high, as expected for the infested Hive World. The offensive is in danger of failing. Operational momentum must be regained. High Command has authorized the use of the Recoilless Rifle Stratagem on **OSHAUNE** for the next 24 hours. (11:41pm UTC 2nd Nov 2025\)  
+DSS effect Eagle Storm stops (02:00am UTC 3rd Nov 2025\)  
+DSS effect Orbital Blockade is activated (02:39am UTC 3rd Nov 2025\)
+
+Day \#635 9:00am 3rd Nov 2025  
+Dispatch: Warp Pack TEMPORARILY AVAILABLE. High Command has authorized the Warp Pack Stratagem for all **Oshaune** deployments for the next 24 hours. The limited window of availability is all that can be afforded, due to our previous failure to liberate **OASIS**. (09:16am UTC 3rd Nov 2025\)  
+Dispatch: HIVE WORLD NEARING LIBERATION. The liberation of **Oshaune** is nearly complete. A significant spike in Terminid activity, both on the planet itself and from all reaches of the Gloom, has been observed. This is to be expected; the Terminid swarm senses its impending doom. This is the final stage of the operation. Push forward. Finish the mission. (02:17pm UTC 3rd Nov 2025\)  
+**Zagon Prime**'s max health is changed to 2m (08:56pm UTC 3rd Nov 2025\)  
+**Omicron**'s max health is changed to 3m (08:56pm UTC 3rd Nov 2025\)  
+**Zagon Prime**'s max health is changed to 1m (08:57pm UTC 3rd Nov 2025\)  
+**Omicron**'s max health is changed to 1m (08:57pm UTC 3rd Nov 2025\)  
+NOTE: Starting at 08:57pm UTC the planet health of **Omicron** and **Zagon Prime** begins to switch between two values periodically. This is still ongoing currently (08:57pm UTC 3rd Nov 2025\)  
+Dispatch: ARSENAL AUGMENTATION ENDED. The temporary additional use of the Recoilless Rifle Stratagem has ended. (11:36pm UTC 3rd Nov 2025\)  
+**Oshaune** is liberated (01:03am UTC 4th Nov 2025\)  
+Assault Division: ***Rupture Strain*** U3F is routed (01:03am UTC 4th Nov 2025\)  
+Assault Division: ***Hive Lords*** U2A is routed (01:03am UTC 4th Nov 2025\)  
+Assault Division: ***Dragonroaches*** U1A is routed (01:03am UTC 4th Nov 2025\)  
+Major Order | A2-10-5 Liberate Hive World **Oshaune** is won | Objective: Liberate (01:03am UTC 4th Nov 2025\)  
+DSS deploys to **Fenmire** of the ***Marspira*** sector (01:04am UTC 4th Nov 2025\)  
+Dispatch: MAJOR ORDER WON. A great victory has been won. Through fortitude and ingenuity, the haze of the Gloom has been pierced. The first great hurdle towards dispersing its maleficence has been cleared. Hive World **OSHAUNE** has been liberated. Consult your Galactic Map for more information. (01:05am UTC 4th Nov 2025\)  
+**Oshaune** is no longer enveloped by the Gloom (01:06am UTC 4th Nov 2025\)  
+**Fori Prime** is no longer enveloped by the Gloom (01:06am UTC 4th Nov 2025\)  
+Assault Division: ***Dragonroaches*** U1C leaves Fori Prime (01:06am UTC 4th Nov 2025\)  
+**Oshaune** of the ***Mirin*** sector is established as a **E-711 Extraction Facility** POI (01:07am UTC 4th Nov 2025\)  
+**Navi VII** is no longer enveloped by the Gloom (01:07am UTC 4th Nov 2025\)  
+**Navi VII** is no longer unobservable (01:08am UTC 4th Nov 2025\)  
+**Azur Secundus** is no longer enveloped by the Gloom (01:08am UTC 4th Nov 2025\)  
+**Azur Secundus** is no longer unobservable (01:08am UTC 4th Nov 2025\)  
+**Overgoe Prime** is no longer enveloped by the Gloom (01:09am UTC 4th Nov 2025\)  
+**Partion** is no longer enveloped by the Gloom (01:11am UTC 4th Nov 2025\)  
+**Bore Rock** is no longer enveloped by the Gloom (01:12am UTC 4th Nov 2025\)  
+**Erata Prime** is no longer enveloped by the Gloom (01:12am UTC 4th Nov 2025\)  
+**Estanu** is no longer enveloped by the Gloom (01:13am UTC 4th Nov 2025\)  
+**Navi VII** is heavily enveloped by the Gloom (01:15am UTC 4th Nov 2025\)  
+**Navi VII** is now unobservable due to the Gloom (01:15am UTC 4th Nov 2025\)  
+DSS effect Orbital Blockade stops (02:40am UTC 4th Nov 2025\)
+
+Day \#636 9:00am 4th Nov 2025
 
 #### Day Zero
 
@@ -9229,8 +9282,8 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-138 Major/Minor Orders: 104 wins, 33 losses, 1 pending, (75.9%)  
-38 Liberate MOs: 24 wins, 12 losses, 1 pending, (66.7%)  
+138 Major/Minor Orders: 105 wins, 33 losses, (76.1%)  
+37 Liberate MOs: 25 wins, 12 losses, (67.6%)  
 31 Control MOs: 28 wins, 3 losses, (90.3%)  
 15 Defend MOs: 11 wins, 4 losses, (73.3%)  
 20 Eradicate MOs: 15 wins, 5 losses, (75%)  
@@ -9248,8 +9301,8 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 
 ##### Terminid Front MOs
 
-52 Terminid MOs: 47 wins, 4 losses, 1 pending, (92.2%)  
-15 Liberate MOs: 12 wins, 2 losses, 1 pending, (85.7%)  
+52 Terminid MOs: 48 wins, 4 losses, (92.3%)  
+15 Liberate MOs: 13 wins, 2 losses, (86.7%)  
 11 Control MOs: 11 wins, 0 losses, (100%)  
 4 Defend MOs: 4 wins, 0 losses, (100%)  
 9 Eradicate MOs: 8 wins, 1 loss, (88.9%)  
