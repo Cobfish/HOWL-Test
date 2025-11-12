@@ -6015,13 +6015,13 @@ Dispatch: MEGACITY STATUS REPORT. The coordinated defensive efforts at Equality-
 
 Day \#477 9:00am 29th May 2025  
 **Fort Union** of the ***Orion*** sector is attacked by Lvl 6 Terminids (09:00am UTC 29th May 2025\)  
-***Major Order*** | A2-5-7 Defend **Fort Union** Satellites is issued | Objective: Defend (09:02am UTC 29th May 2025\)  
+***Strategic Opportunity*** | A2-5-7 Defend **Fort Union** Satellites is issued | Objective: Defend (09:02am UTC 29th May 2025\)  
 Dispatch: STRATEGIC OPPORTUNITY. A former satellite technician on **Fort Union** has successfully developed malware capable of disabling Illuminate technology. Long-range satellites on the planet are rapidly being outfitted to transmit the code to Illuminate spacecraft. Successful transmission could deal significant damage to the Illuminate Fleet. However, the planet is under threat of Terminid investation. The planet must be defended in order for the plan to succeed. (09:03am UTC 29th May 2025\)  
 Dispatch: OFFENSIVE SHIFT. Intel indicates the Illuminate have shifted their forces to focus offensive efforts on Prosperity City. (12:12pm UTC 29th May 2025\)  
 Dispatch: PRESIDENT KIA. The President of **Super Earth** has been killed in action by the Illuminate during the siege of Prosperity City. The President died heroically, defending the Presidential Security bunker with only a pistol against waves of Illuminate foes. Presidential authority has been placed in the Minister of Defense. (09:57pm UTC 29th May 2025\)  
 **NOTE:** This dispatch was initially sent as “during the fall of Prosperity City,” but later revised to say “during the siege of Prosperity City” instead of for unknown reasons (09:57pm UTC 29th May 2025\)  
 **Fort Union** defense is won (10:02pm UTC 29th May 2025\)  
-***Major Order*** | A2-5-7 Defend **Fort Union** Satellites is won | Objective: Defend (10:02pm UTC 29th May 2025\)  
+***Strategic Opportunity*** | A2-5-7 Defend **Fort Union** Satellites is won | Objective: Defend (10:02pm UTC 29th May 2025\)  
 Dispatch: MALWARE TRANSMITTED. Satellites on **FORT UNION** have successfully transmitted civilian-created malware to the Illuminate Fleet, resulting in the destruction of multiple large spacecraft. The Illuminate Fleet has suffered 5% damage as a result. The unnamed technician who developed the code has been given a field promotion to Command of the 405th Cyberwarfare Detachment. (10:24pm UTC 29th May 2025\)  
 Dispatch: ILLUMINATE NEARING DEFEAT. The Illuminate are taking heavy losses. Intel reports their Fleet Strength is rapidly dwindling. They will soon be forced to abandon the assault. These are the battle's final hours. The enemy will push with the entirety of their strength. Hold the line. (10:42pm UTC 29th May 2025\)
 
@@ -6072,15 +6072,15 @@ Dispatch: NEW MAJOR ORDER. Distress calls have been raised from multiple planets
 Day \#483 9:00am 4th Jun 2025  
 **Bekvam III** of the ***Nanos*** sector is attacked by Lvl 13 Automatons (11:18am UTC 4th Jun 2025\)  
 Dispatch: COMMEMORATIVE CAPE IN-PROGRESS. A commemorative cape, designed to honor the service and victory of those who fought to defend **Super Earth** against the Illuminate invasion, has entered production. It will be delivered in the coming weeks. (02:44pm UTC 4th Jun 2025\)  
-DSS effect Eagle Blockade stops (04:14pm UTC 4th Jun 2025\)
-
-Day \#484 9:00am 5th Jun 2025  
+DSS effect Eagle Blockade stops (04:14pm UTC 4th Jun 2025\)  
 DSS deploys to **Bekvam III** of the ***Nanos*** sector (12:23am UTC 5th Jun 2025\)  
 **Zosma** defense is won (12:40am UTC 5th Jun 2025\)  
 Assault Division: ***Incineration Corps*** U3B is routed (12:40am UTC 5th Jun 2025\)  
 **Tarsh** of the ***Marspira*** sector is attacked by Lvl 15 Automatons (07:43am UTC 5th Jun 2025\)  
 **Bekvam III** defense is won (08:33am UTC 5th Jun 2025\)  
-DSS deploys to **Tarsh** of the ***Marspira*** sector (08:33am UTC 5th Jun 2025\)  
+DSS deploys to **Tarsh** of the ***Marspira*** sector (08:33am UTC 5th Jun 2025\)
+
+Day \#484 9:00am 5th Jun 2025  
 **Tarsh** defense is won (12:49am UTC 6th Jun 2025\)  
 ↳ ***Marspira*** sector is fully under Human control (12:49am UTC 6th Jun 2025\)  
 ↳ ***Major Order*** | A2-6-1 Defend Against 5 Automaton Attacks is won | Objective: Defend (12:49am UTC 6th Jun 2025\)  
@@ -6784,7 +6784,7 @@ DSS deploys to **Claorell** of the ***Tanis*** sector (04:52pm UTC 15th Jul 2025
 **Oasis** Region 0 Respite City is besieged by Humans (07:28am UTC 16th Jul 2025\)  
 **Claorell** defense is won (07:45am UTC 16th Jul 2025\)  
 DSS deploys to **Julheim** of the ***Nanos*** sector (07:45am UTC 16th Jul 2025\)  
-***Major Order*** | A2-7-4 Strategic Opportunity is issued | Objective: Control (07:59am UTC 16th Jul 2025\)  
+***Strategic Opportunity*** | A2-7-4 Defend Oasis is issued | Objective: Control (07:59am UTC 16th Jul 2025\)  
 Dispatch: STRATEGIC OPPORTUNITY. MINDEF Cyberwarfare has identified a critical vulnerability in the Automaton network. Specialists on **OASIS** are actively deconstructing firewall bypass nodes at over 120 WPM—but they need more time. And the Illuminate have just launched an invasion of the planet. If the Helldivers can repel the Illuminate assault, the cyber specialists may be able to secure intel of high value against the current Automaton invasion. (08:00am UTC 16th Jul 2025\)  
 DSS deploys to **Oasis** of the ***Rictus*** sector (08:53am UTC 16th Jul 2025\)
 
@@ -6801,7 +6801,7 @@ Day \#525 9:00am 16th Jul 2025
 **Oasis** defense is failed (07:29am UTC 17th Jul 2025\)  
 ↳ **Oasis** liberation campaign starts (07:29am UTC 17th Jul 2025\)  
 **Tarsh** Region 1 Freedom’s Torch Settlement is besieged by Humans (07:56am UTC 17th Jul 2025\)  
-***Major Order*** | A2-7-4 Strategic Opportunity is failed | Objective: Control (07:58am UTC 17th Jul 2025\)  
+***Strategic Opportunity*** | A2-7-4 Defend Oasis is failed | Objective: Control (07:58am UTC 17th Jul 2025\)  
 Dispatch: OASIS FALLEN. OASIS has fallen to the Illuminate, forcing the evacuation of cyberwarfare specialists and the annulment of their critical work to circumvent the Automaton defense grid. (08:03am UTC 17th Jul 2025\)  
 **Gaellivare** of the ***Talus*** sector is attacked by Lvl 40 Automatons (08:10am UTC 17th Jul 2025\)  
 **Gaellivare** Region 1 Malmberget Megacity is besieged by Humans (08:10am UTC 17th Jul 2025\)  
@@ -6867,7 +6867,7 @@ Dispatch:  MAJOR ORDER FAILED. **Super Earth** cities lie in ruins. Millions of 
 ***Major Order*** | A2-7-5 Kill Enemies for Propaganda is issued | Objective: Eradicate (01:00pm UTC 22nd Jul 2025\)  
 Dispatch: NEW MAJOR ORDER. A public relations campaign is being launched to remind our citizens that they are protected by the Galaxy's greatest fighting force. The Helldivers are ordered to kill the enemies of Freedom that arise most frequently in citizen nightmares. Consult your Galactic Map for more information. (01:01pm UTC 22nd Jul 2025\)  
 **Fort Union** Region 4 Greatfort Megacity is renamed to New Hope City (01:01pm UTC 22nd Jul 2025\)  
-**Fort Sanctuary** Region 0 Unnamed Megacity is renamed to New Yearning City  (01:01pm UTC 22nd Jul 2025\)  
+**Fort Sanctuary** Region 0 Unnamed Megacity is renamed to New Yearning City (01:01pm UTC 22nd Jul 2025\)  
 **Emeria** Region 0 Unnamed Megacity is renamed to New Aspiration City (01:01pm UTC 22nd Jul 2025\)  
 DSS effect Orbital Blockade stops (11:22pm UTC 22nd Jul 2025\)  
 DSS effect Heavy Ordnance Distribution is activated (06:21am UTC 23rd Jul 2025\)  
@@ -6905,7 +6905,7 @@ DSS deploys to **Claorell** of the ***Tanis*** sector (09:00am UTC 25th Jul 2025
 ↳ **Alaraph** liberation campaign ends (01:37pm UTC 25th Jul 2025\)  
 **Fori Prime** liberation campaign starts (03:51pm UTC 25th Jul 2025\)  
 **Fori Prime** is no longer unobservable (03:55pm UTC 25th Jul 2025\)  
-***Major Order*** | A2-7-6 Kill Sporeburst Warriors On **Fori Prime** is issued | Objective: Eradicate (03:56pm UTC 25th Jul 2025\)  
+***Minor Order*** | A2-7-6 Kill Sporeburst Warriors On **Fori Prime** is issued | Objective: Eradicate (03:56pm UTC 25th Jul 2025\)  
 Dispatch: STRATEGIC OPPORTUNITY. In support of the ongoing public relations campaign, High Command has ordered an short-term expedition to **FORI PRIME** within the outskirts of the Gloom, to exterminate 5,000,000 Spore Burst Warriors using the Stalwart. This optional augmentation to the public relations campaign could further boost citizen morale to yet-unforseen heights. (03:56pm UTC 25th Jul 2025\)  
 Dispatch: The M-105 Stalwart stratagem is temporarily available to all Helldivers. (03:57pm UTC 25th Jul 2025\)  
 Dispatch: IMPALER RAMPAGE. Significantly higher Impaler numbers have been observed on **FORI PRIME**. (05:53pm UTC 25th Jul 2025\)
@@ -6914,7 +6914,7 @@ Day \#535 9:00am 26th Jul 2025
 Dispatch: M-105 Stalwart stratagem availability has ended. (04:02pm UTC 26th Jul 2025\)  
 Dispatch: ARSENAL AUGMENTATION. Righteous and furious extermination of Terminid Shriekers by the Helldivers has spurred our citizens to new heights of patriotic generosity. As a result, High Command has authorized the temporary addition of the Autocannon Stratagem to all Helldiver loadouts for the next 24 hours. (04:04pm UTC 26th Jul 2025\)  
 **Claorell** Region 0 MAJOSYRI City has fallen to Humans (03:29am UTC 27th Jul 2025\)  
-***Major Order*** | A2-7-6 Kill Sporeburst Warriors on **Fori Prime** is won | Objective: Eradicate (06:27am UTC 27th Jul 2025\)  
+***Minor Order*** | A2-7-6 Kill Sporeburst Warriors on **Fori Prime** is won | Objective: Eradicate (06:27am UTC 27th Jul 2025\)  
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have successfully exterminated 5,000,000 Spore Burst Warriors on **FORI PRIME** through effective employment of the Stalwart. A spike in citizen donations to the War Fund has made possible the short-term addition of the Orbital Railcannon Strike Stratagem to all Helldiver arsenals for the remainder of the current order. (06:31am UTC 27th Jul 2025\)
 
 Day \#536 9:00am 27th Jul 2025  
@@ -7067,7 +7067,7 @@ Dispatch: ARSENAL AUGMENTATION. High Command has authorized the fleetwide use of
 
 Day \#547 9:00am 7th Aug 2025  
 DSS effect Eagle Storm is activated (09:03am UTC 7th Aug 2025\)  
-***Major Order*** | A2-8-2 **Charbal-VII** Database is issued | Objective: Liberate (11:07am UTC 7th Aug 2025\)  
+***Strategic Opportunity*** | A2-8-2 **Charbal-VII** Database is issued | Objective: Liberate (11:07am UTC 7th Aug 2025\)  
 Dispatch: NEW STRATEGIC OPPORTUNITY. Intercepted Automaton messages have identified a secure database on **CHARBAL-VII**. This presents a rare opportunity to discover enemy plans; if captured, it could provide critical data on upcoming enemy troop movements. (11:09am UTC 7th Aug 2025\)  
 DSS deploys to **Charbal-VII** of the ***Andromeda*** sector (05:12pm UTC 7th Aug 2025\)  
 Dispatch: ARSENAL BOOST. High Command has authorized high-volume use of the Orbital Railcannon Stratagem in the ***Nanos*** Sector. For operations in that sector, the mandated waiting period between salvos has been lowered by 150 seconds for the next 96 hours. (08:28am UTC 8th Aug 2025\)
@@ -7083,7 +7083,7 @@ Assault Division: ***Spore Burst Strain*** U1J merges with Assault Division: ***
 DSS effect Orbital Blockade is activated (11:16am UTC 8th Aug 2025\)
 
 Day \#549 9:00am 9th Aug 2025  
-***Major Order*** | A2-8-2 **Charbal-VII** Database is failed | Objective: Liberate (11:08am UTC 9th Aug 2025\)  
+***Strategic Opportunity*** | A2-8-2 **Charbal-VII** Database is failed | Objective: Liberate (11:08am UTC 9th Aug 2025\)  
 Dispatch: AUTOMATON SECURE DATA MOVED. The Automatons appear to have discovered our attempts to liberate the secure database on **CHARBAL-VII**. Intel reports the database has been shut down, with all secret data moved off-planet. Liberating the planet is no longer expected to provide a significant benefit to military intelligence. (11:12am UTC 9th Aug 2025\)  
 DSS effect Orbital Blockade stops (11:19am UTC 9th Aug 2025\)  
 DSS deploys to **Julheim** of the ***Nanos*** sector (01:15pm UTC 9th Aug 2025\)  
@@ -7121,7 +7121,7 @@ Day \#553 9:00am 13th Aug 2025
 ***Major Order*** | A2-8-3 **Tyranny Park 2** Construction is issued | Objective: Liberate/Eradicate/Samples (09:01am UTC 12th Aug 2025\)  
 Dispatch: NEW MAJOR ORDER. The **Super Earth** Government has authorized the construction of **Tyranny Park 2**, a massive recreational and education facility showcasing the most dire threats posed to Managed Democracy. Helldiver aid is needed for this important endeavor. Consult your Galactic Map for more information. (09:02am UTC 13th Aug 2025\)  
 DSS effect Heavy Ordnance Distribution stops (09:38am UTC 13th Aug 2025\)  
-***Major Order*** | A2-8-4 **Crimsica** E-710 Farm Construction is issued | Objective: Liberate (01:01pm UTC 13th Aug 2025\)  
+***Strategic Opportunity*** | A2-8-4 **Crimsica** E-710 Farm Construction is issued | Objective: Liberate (01:01pm UTC 13th Aug 2025\)  
 Dispatch: NEW STRATEGIC OPPORTUNITY. The Helldivers are ordered to liberate **CRIMSICA** in order to enable the establishment of a new E-710 farm there. Consult your Galactic Map for more information. (01:01pm UTC 13th Aug 2025\)  
 DSS deploys to **Bore Rock** of the ***Falstaff*** sector (01:19pm UTC 13th Aug 2025\)  
 DSS deploys to **Crimsica** of the ***Draco*** sector (05:18pm UTC 13th Aug 2025\)  
@@ -7148,9 +7148,9 @@ Assault Division: ***Spore Burst Strain*** U1B leaves **Overgoe Prime** (12:13pm
 **Crimsica** is liberated (01:27pm UTC 15th Aug 2025\)  
 ↳ **Estanu** liberation campaign starts (01:27pm UTC 15th Aug 2025\)  
 DSS deploys to **Acamar IV** of the ***Jin Xi*** sector (01:27pm UTC 15th Aug 2025\)  
-***Major Order*** | A2-8-4 **Crimsica** E-710 Farm Construction is won | Objective: Liberate (01:27pm UTC 15th Aug 2025\)  
+***Strategic Opportunity*** | A2-8-4 **Crimsica** E-710 Farm Construction is won | Objective: Liberate (01:27pm UTC 15th Aug 2025\)  
 Dispatch: STRATEGIC OPPORTUNITY SEIZED. **CRIMSICA** has been liberated from the Terminids. Construction on a new and much more secure E-710 farm has already begun, along with a fleet of new Super Destroyers. Once complete, this fleet expansion will mean that more Helldivers can spread Managed Democracy simultaneously. The strongest fighting force in the Galaxy will soon be even stronger. (01:29pm UTC 15th Aug 2025\)  
-***Major Order*** | A2-8-5 Tyranny Park Expansion is issued | Objective: Eradicate (02:11pm UTC 15th Aug 2025\)  
+***Minor Order*** | A2-8-5 Tyranny Park Expansion is issued | Objective: Eradicate (02:11pm UTC 15th Aug 2025\)  
 Dispatch: **TYRANNY PARK 2** EXPANSION ANNOUNCED. The first expansion for **Tyranny Park 2** is already being planned. "The Forbidden Gloom" will host terrifying Gloom-mutated Terminids for dissection, firing ranges, and family-friendly stunt shows. Helldivers: neutralize 50,000,000 **Predator Strain** and 100,000,000 Spore Burst Terminids to enable xenozoologists to safely acquire their suitably fearsome larvae. Success will temporarily bestow the Orbital Napalm Barrage Stratagem to all Helldivers. (02:15pm UTC 15th Aug 2025\)  
 **Bore Rock** is liberated (05:24am UTC 16th Aug 2025\)  
 ↳ **Esker** liberation campaign starts (05:24am UTC 16th Aug 2025\)
@@ -7163,7 +7163,7 @@ DSS effect Eagle Storm is activated (01:34pm UTC 16th Aug 2025\)
 **Acamar IV** defense is won (08:36pm UTC 16th Aug 2025\)
 
 DSS deploys to **Pandion-XXIV** of the ***Jin Xi*** sector (08:37pm UTC 16th Aug 2025\)  
-***Major Order*** | A2-8-5 Tyranny Park Expansion is won | Objective: Eradicate (02:11am UTC 17th Aug 2025\)  
+***Minor Order*** | A2-8-5 Tyranny Park Expansion is won | Objective: Eradicate (02:11am UTC 17th Aug 2025\)  
 Dispatch: **TYRANNY PARK 2** EXPANSION SECURED. Helldivers have successfully neutralized all designated Gloom-mutated Terminids. A surge of **Tyranny Park 2** ticket pre-sales has followed the announcement of "The Forbidden Gloom" expansion zone. As such, **Tyranny Park 2** has sponsored the Orbital Napalm Barrage stratagem to be available fleetwide for the next 48 hours. (02:17am UTC 17th Aug 2025\)  
 Assault Division: ***Predator Strain*** U5B is routed (02:17am UTC 17th Aug 2025\)
 
@@ -7251,7 +7251,7 @@ DSS effect Heavy Ordnance Distribution is activated (07:27am UTC 22nd Aug 2025\)
 ↳ **Martale** liberation campaign ends (08:33am UTC 22nd Aug 2025\)  
 ↳ ***Andromeda*** sector is fully under Automaton control (08:33am UTC 22nd Aug 2025\)  
 **Parsh** of the ***Rictus*** sector is attacked by Lvl 40 Illuminate (08:33am UTC 22nd Aug 2025\)  
-**Parsh** Region 0 UNNAMED City is besieged by Humans (08:33am UTC 22nd Aug 2025\)  
+**Parsh** Region 0 Porugu City is besieged by Humans (08:33am UTC 22nd Aug 2025\)  
 Dispatch: LOW-ORBIT INTERDICTION. Illuminate assault forces have deployed heavy low-orbit anti-air patrols to interdict space-to-ground aircraft. Extraction time on missions against the Illuminate will take an additional 150 seconds for the next 48 hours. (08:56am UTC 22nd Aug 2025\)
 
 Day \#562 9:00am 22nd Aug 2025  
@@ -7292,9 +7292,9 @@ Day \#563 9:00am 23rd Aug 2025
 **Adhara** Region 1 Strength City is now present (09:23am UTC 23rd Aug 2025\)  
 **Emeria** \- **Borea** warp link is added (09:23am UTC 23rd Aug 2025\)  
 **Emeria** \- **Barabos** warp link is added (09:23am UTC 23rd Aug 2025\)  
-**Regnus** Region 0 UNNAMED Town is now present (09:28am UTC 23rd Aug 2025\)  
-**Regnus** Region 1 UNNAMED Town is now present (09:28am UTC 23rd Aug 2025\)  
-**Regnus** Region 2 UNNAMED City is now present (09:28am UTC 23rd Aug 2025\)  
+**Regnus** Region 0 People’s Hand Town is now present (09:28am UTC 23rd Aug 2025\)  
+**Regnus** Region 1 Topsoil Town is now present (09:28am UTC 23rd Aug 2025\)  
+**Regnus** Region 2 Human Will City is now present (09:28am UTC 23rd Aug 2025\)  
 **Adhara** of the ***Gallux*** sector is attacked by Lvl 20 Illuminate (11:19am UTC 23rd Aug 2025\)  
 **Adhara** Region 1 Strength City is besieged by Humans (11:19am UTC 23rd Aug 2025\)  
 **Veld** Region 0 Cle Elum Rediviva Town has fallen to Humans (11:29am UTC 23rd Aug 2025\)  
@@ -7362,7 +7362,7 @@ DSS deploys to **Curia** of the ***Marspira*** sector (05:28pm UTC 24th Aug 2025
 ↳ **Achernar Secundus** liberation campaign ends (06:22pm UTC 24th Aug 2025\)  
 ↳ ***Borgus*** sector is fully under Terminid control (06:22pm UTC 24th Aug 2025\)  
 Dispatch: IMPALER RAMPAGE OVER. Quantities of Impaler Terminids on **URSICA XI** have normalized. (07:46pm UTC 24th Aug 2025\)  
-**Adhara** Region 0 UNNAMED Settlement is besieged by Humans (09:54pm UTC 24th Aug 2025\)  
+**Adhara** Region 0 Traitor’s End Settlement is besieged by Humans (09:54pm UTC 24th Aug 2025\)  
 **Fenmire** Region 2 Saorsa Glen Megacity is besieged by Humans (11:45pm UTC 24th Aug 2025\)  
 **Myrium** Region 2 Antboot City is besieged by Humans (12:17am UTC 25th Aug 2025\)  
 **Kerth Secundus** Region 1 Blestrail Town is besieged by Humans (01:23am UTC 25th Aug 2025\)  
@@ -7812,7 +7812,7 @@ Dispatch: GLOOM SPREAD TO **GACRUX**. **GACRUX** has become infested by Terminid
 **Acamar IV** Region 1 Eridani City is besieged by Humans (07:20am UTC 11th Sep 2025\)  
 Assault Division: ***Rupture Strain*** U1F divides into 2 groups \[U1F, U1G\] (07:20am UTC 11th Sep 2025\)  
 Assault Division: ***Rupture Strain*** U1G deploys to **Acamar IV** (07:20am UTC 11th Sep 2025\)  
-Minor Order | A2-9-3 Liberate **Gacrux** is issued | Objective: Liberate (07:36am UTC 11th Sep 2025\)  
+***Minor Order*** | A2-9-3 Liberate **Gacrux** is issued | Objective: Liberate (07:36am UTC 11th Sep 2025\)  
 Dispatch: NEW STRATEGIC IMPERATIVE. **GACRUX** has become infested by the Terminids, and the planet's system is now infused with low levels of Gloom spores. Left uncleansed, it is believed the Gloom will grow in density. Swift action is critical; the planet must be re-liberated before the Gloom can grow. The more intense the Gloom becomes, the more difficult liberation of the planet will become. (07:40am UTC 11th Sep 2025\)
 
 Day \#582 9:00am 11th Sep 2025  
@@ -7836,7 +7836,7 @@ Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupie
 Assault Division: ***Rupture Strain*** U1F is routed (08:34pm UTC 12th Sep 2025\)  
 **Gacrux** is no longer enveloped by the Gloom (08:34pm UTC 12th Sep 2025\)  
 DSS deploys to **Terrek** of the Orion sector (08:34pm UTC 12th Sep 2025\)  
-Minor Order | A2-9-3 Liberate **Gacrux** is won | Objective: Liberate (08:34pm UTC 12th Sep 2025\)  
+***Minor Order*** | A2-9-3 Liberate **Gacrux** is won | Objective: Liberate (08:34pm UTC 12th Sep 2025\)  
 Dispatch: STRATEGIC IMPERATIVE MET. **GACRUX** has been reclaimed swiftly. Gloom levels surrounding the planet are already beginning to subside. The planet is safe, for now. But now that the Gloom is growing, it is unlikely the last that will come under threat of envelopment. (08:35pm UTC 12th Sep 2025\)  
 Dispatch: STRATAGEM GRANTED. The Flamethrower Stratagem has been authorized for immediate use, for the next 48 hours. (08:49pm UTC 12th Sep 2025\)  
 **Hellmire** of the ***Mirin*** sector is attacked by Lvl 18 Terminids (08:54pm UTC 12th Sep 2025\)  
@@ -7928,7 +7928,7 @@ Dispatch: TERMINID ***RUPTURE STRAIN*** RECEDING. Frontline units have reported 
 DSS deploys to **Seyshel Beach** of the ***Cancri*** sector (12:06am UTC 18th Sep 2025\)  
 DSS deploys to **Zefia** of the ***Tanis*** sector (05:49am UTC 18th Sep 2025\)  
 Dispatch: **CLASA** LIBERATED. **CLASA** has been liberated. The Helldivers are one step closer to liberating **MINTORIA**. (06:18am UTC 18th Sep 2025\)  
-***Minor Order*** | A2-9-5 Liberate **Varylia 5** or **Choepessa IV** is issued | Objective: Liberate (08:08am UTC 18th Sep 2025\)  
+***Strategic Opportunity*** | A2-9-5 Liberate **Varylia 5** or **Choepessa IV** is issued | Objective: Liberate (08:08am UTC 18th Sep 2025\)  
 Dispatch: NEW STRATEGIC OPPORTUNITY. The jolly workhands of our weapons manufacturers are eager to help strike back at the Gloom. However, no currently available materiel can be spared to facilitate their proposed increase in productivity. **Valyria 5** is home to the original Emancipator Exosuit factory. Underground storage bunkers on the planet may still contain Exosuit parts. The surface of **Choepessa IV** remains bestrewn with exploded and unexploded ordnance from the first Galactic War, which could be repurposed into Orbital munitions. The Helldivers are ordered to liberate one of these two planets, in order to secure materials for our indefatigable working heroes’ extracurricular initiative. (08:08am UTC 18th Sep 2025\)
 
 Day \#589 9:00am 18th Sep 2025  
@@ -7966,7 +7966,7 @@ Dispatch: **MINTORIA** HAS BEEN LIBERATED. Subsurface habitat technologies from 
 **NOTE**: The defense campaign was accidentally set to expire in 22 years instead of 24 hours. To correct this, the defense ended as a defeat, was returned to human control and a new campaign was started with the correct time (10:48pm UTC 20th Sep 2025\)  
 **Choepessa IV** Region 2 Ydinkeskusta Megacity is besieged by Humans (02:29am UTC 21st Sep 2025\)  
 DSS deploys to **Hellmire** of the ***Mirin*** sector (05:51am UTC 21st Sep 2025\)  
-***Minor Order*** | A2-9-5 Liberate **Varylia 5** or **Choepessa IV** is failed | Objective: Liberate (08:08am UTC 21st Sep 2025\)  
+***Strategic Opportunity*** | A2-9-5 Liberate **Varylia 5** or **Choepessa IV** is failed | Objective: Liberate (08:08am UTC 21st Sep 2025\)  
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the weapons manufacturers' extracurricular armament initiative. These workers‘ hands will remain tragically idle while off the clock, and weapons production will proceed according to schedule. (08:17am UTC 21st Sep 2025\)
 
 Day \#592 9:00am 21st Sep 2025  
@@ -8029,7 +8029,7 @@ DSS deploys to **Seyshel Beach** of the ***Cancri*** sector (11:56pm UTC 25th Se
 DSS deploys to **Alaraph** of the ***Akira*** sector (05:54am UTC 26th Sep 2025\)
 
 Day \#597 9:00am 26th Sep 2025  
-***Minor Order*** | A2-9-7 Liberate **Varylia 5** or **Oasis** is issued | Objective: Liberate (10:05am UTC 26th Sep 2025\)  
+***Strategic Opportunity*** | A2-9-7 Liberate **Varylia 5** or **Oasis** is issued | Objective: Liberate (10:05am UTC 26th Sep 2025\)  
 Dispatch: NEW STRATEGIC OPPORTUNITY. As the DSS must be augmented to strike at the Gloom, so must our arsenal. Old weapon materials remain on **VARYLIA 5**, ready for seizing. The stout-hearted citizens of the Jolly Weapons Workhands’ Extracurricular Initiative are eager to convert these materials to materiel; liberating this planet will grant Helldivers additional Exosuit. Additionally, signs that the Illuminate are storing Dark Fluid on **OASIS** make this planet a prime target as well; if the stockpiles can be seized, they can be used to create additional Warp Packs. Only one of these initiatives can be prioritized. (10:05am UTC 26th Sep 2025\)  
 **Choepessa IV** Region 1 Kalasatama City is besieged by Humans (12:18pm UTC 26th Sep 2025\)  
 **Alaraph** is liberated (05:42am UTC 27th Sep 2025\)  
@@ -8047,7 +8047,7 @@ DSS deploys to **Hydrobius** of the ***Omega*** sector (09:54am UTC 27th Sep 202
 
 Day \#599 9:00am 28th Sep 2025  
 **Hydrobius** Region 0 Generatorsville City has fallen to Humans (12:41am UTC 28th Sep 2025\)  
-***Minor Order*** | A2-9-7 Liberate **Varylia 5** or **Oasis** is failed | Objective: Liberate (10:05am UTC 28th Sep 2025\)  
+***Strategic Opportunity*** | A2-9-7 Liberate **Varylia 5** or **Oasis** is failed | Objective: Liberate (10:05am UTC 28th Sep 2025\)  
 Dispatch: STRATEGIC OPPORTUNITY LOST. No additional materials could be procured for the Jolly Weapons Workhands’ Extracurricular Initiative. Weapons production will proceed according to schedule, without beneficial increases in scope. (10:12am UTC 28th Sep 2025\)  
 Dispatch: MERIDIA RE-OPENED FOR OBSERVATION. The Meridian Singularity has been re-opened for patriotic observation. All Helldivers are authorized to visit the former planet to contemplate the immense loss inflicted upon our society by the enemies of Freedom, and the imperative for merciless Justice thereby implied. (02:56pm UTC 28th Sep 2025\)  
 **Hellmire** of the ***Mirin*** sector is attacked by Lvl 11 Terminids (05:58pm UTC 28th Sep 2025\)  
@@ -8447,6 +8447,7 @@ Day \#628 9:00am 27th Oct 2025
 **Diluvia** \- **Irulta** warp link is added (10:23am UTC 27th Oct 2025\)  
 **Parsh** \- **Grafmere** warp link is removed (10:23am UTC 27th Oct 2025\)  
 **Reaf** \- **Parsh** warp link is added (10:23am UTC 27th Oct 2025\)  
+**Parsh** is not accessible despite connecting to the liberated world of **Reaf** (10:23am UTC 27th Oct 2025\)  
 **Reaf** \- **Irulta** warp link is added (10:23am UTC 27th Oct 2025\)  
 **Reaf** \- **Outpost 32** warp link is added (10:23am UTC 27th Oct 2025\)  
 **Irulta** \- **Diluvia** warp link is added (10:23am UTC 27th Oct 2025\)  
@@ -8632,7 +8633,7 @@ Dispatch: HIVE WORLD NEARING LIBERATION. The liberation of **Oshaune** is nearly
 **Omicron**'s max health is changed to 3m (08:56pm UTC 3rd Nov 2025\)  
 **Zagon Prime**'s max health is changed to 1m (08:57pm UTC 3rd Nov 2025\)  
 **Omicron**'s max health is changed to 1m (08:57pm UTC 3rd Nov 2025\)  
-NOTE: Starting at 08:57pm UTC the planet health of **Omicron** and **Zagon Prime** begins to switch between two values periodically. This is still ongoing currently (08:57pm UTC 3rd Nov 2025\)  
+NOTE: Starting at 08:57pm UTC the planet health of **Omicron** and **Zagon Prime** begins to switch between two values periodically. This ends at 10:44am UTC on 5th Nov. (08:57pm UTC 3rd Nov 2025\)  
 Dispatch: ARSENAL AUGMENTATION ENDED. The temporary additional use of the Recoilless Rifle Stratagem has ended. (11:36pm UTC 3rd Nov 2025\)  
 **Oshaune** is liberated (01:03am UTC 4th Nov 2025\)  
 Assault Division: ***Rupture Strain*** U3F is routed (01:03am UTC 4th Nov 2025\)  
@@ -8659,6 +8660,103 @@ Assault Division: ***Dragonroaches*** U1C leaves Fori Prime (01:06am UTC 4th Nov
 DSS effect Orbital Blockade stops (02:40am UTC 4th Nov 2025\)
 
 Day \#636 9:00am 4th Nov 2025
+
+Day \#637 9:00am 5th Nov 2025  
+**Fenmire** Region 2 Saorsa Glen Megacity has fallen to Humans (10:03am UTC 5th Nov 2025\)  
+**Fenmire** Region 0 Brawfermland Town is besieged by Humans (10:03am UTC 5th Nov 2025\)  
+**Zagon Prime**'s max health is changed to 2m (10:44am UTC 5th Nov 2025\)  
+**Omicron**'s max health is changed to 3m (10:44am UTC 5th Nov 2025\)  
+**Shete** of the ***Xi Tauri*** sector is attacked by Lvl 26 Illuminate (01:06pm UTC 5th Nov 2025\)  
+**Shete** Region 0 Holl City is besieged by Humans (01:06pm UTC 5th Nov 2025\)  
+DSS deploys to **Shete** of the ***Xi Tauri*** sector (06:45pm UTC 5th Nov 2025\)  
+**Fenmire** Region 0 Brawfermland Town has fallen to Humans (10:43pm UTC 5th Nov 2025\)  
+**Fenmire** Region 1 New Aberdeen Megacity is besieged by Humans (10:43pm UTC 5th Nov 2025\)
+
+Day \#638 9:00am 6th Nov 2025  
+**Alaraph** of the ***Akira*** sector is attacked by Lvl 40 Illuminate (12:44pm UTC 6th Nov 2025\)  
+**Alaraph** Region 0 Permacuris City is besieged by Humans (12:44pm UTC 6th Nov 2025\)  
+Dispatch: WARFRONT DEVELOPMENT. A catastrophic weather event has decimated enemy forces, leading to a significant friendly unit advance on **FENMIRE**. (12:59pm UTC 6th Nov 2025\)  
+**Fenmire** is liberated (01:05pm UTC 6th Nov 2025\)  
+↳ **Curia** liberation campaign starts (01:05pm UTC 6th Nov 2025\)  
+**Barabos** decay rate changes to \-0.5% per hour (01:05pm UTC 6th Nov 2025\)  
+Dispatch: NEW MAJOR ORDER. The reconstruction of York Supreme has been ordered to commence posthaste. **ANDAR** and **ASPEROTH PRIME** contain large, mostly untapped reserves of limestone, iron ore, and gravel. The Helldivers are ordered to hold ANDAR and ASPEROTH PRIME until extraction of sufficient materials is complete. (01:32pm UTC 6th Nov 2025\)  
+***Major Order*** | A2-11-2 Hold **Andar** and **Asperoth Prime** is issued | Objective: Control (01:35pm UTC 6th Nov 2025\)  
+**Hydrobius** of the ***Omega*** sector is attacked by Lvl 25 Illuminate (02:27pm UTC 6th Nov 2025\)  
+**Hydrobius** Region 0 Generatorsville City is besieged by Humans (02:27pm UTC 6th Nov 2025\)  
+DSS deploys to **Alaraph** of the ***Akira*** sector (06:45pm UTC 6th Nov 2025\)  
+DSS deploys to **Shete** of the ***Xi Tauri*** sector (10:45pm UTC 6th Nov 2025\)  
+**Shete** Region 0 Holl City has fallen to Humans (02:04am UTC 7th Nov 2025\)  
+**Shete** defense is won (02:04am UTC 7th Nov 2025\)
+
+Day \#639 9:00am 7th Nov 2025  
+**Alaraph** Region 1 Hangar 6 City is besieged by Humans (11:52am UTC 7th Nov 2025\)  
+**Clasa** of the ***Tanis*** sector is attacked by Lvl 21 Automatons (02:22pm UTC 7th Nov 2025\)  
+**Clasa** Region 2 Voting District F-012357 City is besieged by Humans (02:22pm UTC 7th Nov 2025\)  
+**Alaraph** Region 0 Permacuris City has fallen to Humans (02:52pm UTC 7th Nov 2025\)  
+**Clasa** Region 1 Kodiak Falls Town is besieged by Humans (11:16pm UTC 7th Nov 2025\)  
+**Alaraph** defense is won (01:49am UTC 8th Nov 2025\)  
+↳ ***Akira*** sector is fully under Human control (01:49am UTC 8th Nov 2025\)  
+DSS deploys to **Hydrobius** of the ***Omega*** sector (01:49am UTC 8th Nov 2025\)
+
+Day \#640 9:00am 8th Nov 2025  
+DSS deploys to **Yed Prior** of the ***Tanis*** sector (10:46am UTC 8th Nov 2025\)  
+**Terrek** is liberated (12:32pm UTC 8th Nov 2025\)  
+↳ ***Orion*** sector is fully under Human control (12:32pm UTC 8th Nov 2025\)  
+**Zea Rugosia** of the ***Ferris*** sector is attacked by Lvl 21 Illuminate (12:39pm UTC 8th Nov 2025\)  
+**Zea Rugosia** Region 1 Gene Settlement is besieged by Humans (12:39pm UTC 8th Nov 2025\)  
+**Hydrobius** defense is failed (02:29pm UTC 8th Nov 2025\)  
+↳ **Hydrobius** liberation campaign starts (02:29pm UTC 8th Nov 2025\)  
+↳ **Senge 23** liberation campaign ends (02:29pm UTC 8th Nov 2025\)  
+***Strategic Opportunity*** | A2-11-3 Liberate **Barabos** is issued | Objective: Liberate (03:22pm UTC 8th Nov 2025\)  
+Dispatch: NEW STRATEGIC OPPORTUNITY. The last remaining rainforests on **Super Earth** were a tragic casualty of the Illuminate invasion. The Ministry of Prosperity has launched a restoration operation, to preserve and conserve the natural beauty of the galaxy. The native flora of **BARABOS** is similar to those of the lost rainforests. The Helldivers are ordered to liberate **BARABOS** from the enemy, so its plant life can be carefully uprooted and re-planted on **Super Earth**. (04:34pm UTC 8th Nov 2025\)  
+**Clasa** Region 0 Sycamore Gardens Settlement is besieged by Humans (04:34pm UTC 8th Nov 2025\)  
+**Karlia** of the ***Omega*** sector is attacked by Lvl 30 Illuminate (07:00pm UTC 8th Nov 2025\)  
+**Karlia** Region 0 Adnan City is besieged by Humans (07:00pm UTC 8th Nov 2025\)  
+DSS deploys to **Barabos** of the ***Marspira*** sector (10:46pm UTC 8th Nov 2025\)  
+DSS effect Orbital Blockade is activated (11:11pm UTC 8th Nov 2025\)  
+**Barabos** is liberated (05:28am UTC 9th Nov 2025\)  
+***Strategic Opportunity*** | A2-11-3 Liberate **Barabos** is won | Objective: Liberate (05:28am UTC 9th Nov 2025\)  
+DSS deploys to **Karlia** of the ***Omega*** sector (05:28am UTC 9th Nov 2025\)  
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. **BARABOS** has been liberated. Ministry of Prosperity conservationists are hard at work uprooting cultivars and plant material to re-seed one **Super Earth**'s destroyed rainforests. Soon, **Super Earth**'s natural beauty will be restored, thanks to the ecological protection efforts of the Helldivers. (06:10am UTC 9th Nov 2025\)  
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Orbital Napalm Barrage Stratagem for the next 24 hours. (06:16am UTC 9th Nov 2025\)  
+**Zea Rugosia** Region 0 New Cob Town is besieged by Humans (07:18am UTC 9th Nov 2025\)
+
+Day \#641 9:00am 9th Nov 2025  
+**Clasa** defense is failed (02:23pm UTC 9th Nov 2025\)  
+↳ **Class** liberation campaign starts (02:23pm UTC 9th Nov 2025\)  
+DSS effect Orbital Blockade stops (11:11pm UTC 9th Nov 2025\)  
+**Karlia** Region 0 Adnan City has fallen to Humans (11:18pm UTC 9th Nov 2025\)  
+**Zea Rugosia** Region 2 Starpass City is besieged by Humans (02:04am UTC 10th Nov 2025\)  
+**Karlia** defense is won (03:28am UTC 10th Nov 2025\)  
+DSS deploys to **Zea Rugosia** of the ***Ferris*** sector (03:29am UTC 10th Nov 2025\)  
+Dispatch: ARSENAL AUGMENTATION ENDED. Orbital Napalm Barrage Stratagem availability has now ended. (06:16am UTC 10th Nov 2025\)
+
+Day \#642 9:00am 10th Nov 2025  
+**Zea Rugosia** Region 1 Gene Settlement has fallen to Humans (11:21am UTC 10th Nov 2025\)  
+**Zea Rugosia** defense is failed (12:40pm UTC 10th Nov 2025\)  
+↳ **Zea Rugosia** liberation campaign starts (12:40pm UTC 10th Nov 2025\)  
+↳ **Haldus** liberation campaign ends (12:40pm UTC 10th Nov 2025\)  
+↳ **Afoyay Bay** liberation campaign ends (12:40pm UTC 10th Nov 2025\)  
+DSS effect Eagle Storm is activated (12:48pm UTC 10th Nov 2025\)  
+**Shete** of the ***Xi Tauri*** sector is attacked by Lvl 32 Illuminate (02:00pm UTC 10th Nov 2025\)  
+**Shete** Region 0 Holl City is besieged by Humans (02:00pm UTC 10th Nov 2025\)  
+DSS deploys to **Shete** of the ***Xi Tauri*** sector (06:47pm UTC 10th Nov 2025\)
+
+Day \#643 9:00am 11th Nov 2025  
+**Shete** Region 0 Holl City has fallen to Humans (10:27am UTC 11th Nov 2025\)  
+**Alaraph** of the ***Akira*** sector is attacked by Lvl 34 Illuminates (12:03pm UTC 11th Nov 2025\)  
+**Alaraph** Region 1 Hangar 6 City is besieged by Humans (12:03pm UTC 11th Nov 2025\)  
+DSS effect Orbital Blockade stops (12:38pm UTC 11th Nov 2025\)  
+DSS effect Heavy Ordnance Distribution is activated (03:43pm UTC 11th Nov 2025\)  
+**Shete** defense is won (04:51pm UTC 11th Nov 2025\)  
+↳ ***Xi Tauri*** sector is fully under Human control (04:51pm UTC 11th Nov 2025\)  
+DSS deploys to **Alaraph** of the ***Akira*** sector (04:51pm UTC 11th Nov 2025\)  
+**Alaraph** Region 1 Hangar 6 City has fallen to Humans (04:13am UTC 12th Nov 2025\)
+
+Day \#644 9:00am 12th Nov 2025  
+**Alaraph** defense is won (10:09am UTC 12th Nov 2025\)  
+↳ ***Akira*** sector is fully under Human control (10:09am UTC 12th Nov 2025\)  
+DSS deploys to **Curia** of the ***Marspira*** sector (10:10am UTC 12th Nov 2025\)
 
 #### Day Zero
 
@@ -9278,20 +9376,20 @@ Day Zero | **This Was The Starting Game-State At Launch**
 
 See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveomega.github.io/helldiversplanettable/) to view the up to date statistics on defenses, liberations, and insta-flips.
 
-#### Major/Minor Order Data
+#### Major/Minor Order/Strategic Opportunities Data
 
 Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-138 Major/Minor Orders: 105 wins, 33 losses, (76.1%)  
-37 Liberate MOs: 25 wins, 12 losses, (67.6%)  
-31 Control MOs: 28 wins, 3 losses, (90.3%)  
-15 Defend MOs: 11 wins, 4 losses, (73.3%)  
-20 Eradicate MOs: 15 wins, 5 losses, (75%)  
-1 Sample MO: 1 win, 0 losses, (100%)  
-3 Conquest MOs: 1 win, 2 losses, (33.3%)  
-0 Operation MOs: 0 wins, 0 losses, (???)  
-1 Extraction MO: 0 wins, 1 loss, (0%)  
-30 Combo MOs: 24 wins, 6 losses, (79.3%)  
+140 Total MSO/S: 106 wins, 33 losses, 1 pending, (76.3%)  
+38 Liberate M/SOs: 26 wins, 12 losses, (68.4%)  
+32 Control M/SOs: 28 wins, 3 losses, 1 pending, (90.3%)  
+15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
+20 Eradicate M/SOs: 15 wins, 5 losses, (75%)  
+1 Sample M/SO: 1 win, 0 losses, (100%)  
+3 Conquest M/SOs: 1 win, 2 losses, (33.3%)  
+0 Operation M/SOs: 0 wins, 0 losses, (???)  
+1 Extraction M/SO: 0 wins, 1 loss, (0%)  
+30 Combo M/SOs: 24 wins, 6 losses, (79.3%)  
 ↳ 15 Eradicate Tasks: 13 wins, 2 losses, (86.7%)  
 ↳ 25 Liberate Tasks: 24 wins, 1 loss, (96%)  
 ↳ 13 Defend Tasks: 10 wins, 3 losses, (76.9%)  
@@ -9299,18 +9397,18 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 ↳ 9 Sample Tasks: 7 wins, 2 losses, (77.8%)  
 ↳ 2 Operation Tasks: 1 win, 1 loss, (50%)
 
-##### Terminid Front MOs
+##### Terminid Front M/SOs
 
-52 Terminid MOs: 48 wins, 4 losses, (92.3%)  
-15 Liberate MOs: 13 wins, 2 losses, (86.7%)  
-11 Control MOs: 11 wins, 0 losses, (100%)  
-4 Defend MOs: 4 wins, 0 losses, (100%)  
-9 Eradicate MOs: 8 wins, 1 loss, (88.9%)  
-1 Sample MO: 1 win, 0 losses, (100%)  
-0 Conquest MOs: 0 wins, 0 losses, (???)  
-0 Operation MOs: 0 wins, 0 losses, (???)  
-0 Extraction MOs: 0 wins, 0 losses, (???)  
-11 Combo MOs: 10 wins, 1 loss, (90.9%)  
+52 Terminid M/SOs: 48 wins, 4 losses, (92.3%)  
+15 Liberate M/SOs: 13 wins, 2 losses, (86.7%)  
+11 Control M/SOs: 11 wins, 0 losses, (100%)  
+4 Defend M/SOs: 4 wins, 0 losses, (100%)  
+9 Eradicate M/SOs: 8 wins, 1 loss, (88.9%)  
+1 Sample M/SO: 1 win, 0 losses, (100%)  
+0 Conquest M/SOs: 0 wins, 0 losses, (???)  
+0 Operation M/SOs: 0 wins, 0 losses, (???)  
+0 Extraction M/SOs: 0 wins, 0 losses, (???)  
+11 Combo M/SOs: 10 wins, 1 loss, (90.9%)  
 ↳ 7 Eradicate Tasks: 7 wins, 0 losses, (100%)  
 ↳ 8 Liberate Tasks: 8 wins, 0 losses, (100%)  
 ↳ 3 Defend Tasks: 3 wins, 0 losses, (100%)  
@@ -9318,18 +9416,18 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 ↳ 9 Sample Tasks: 7 wins, 2 losses, (77.8%)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
-##### Automaton Front MOs
+##### Automaton Front M/SOs
 
-44 Automaton MOs: 32 wins, 12 losses, (72.7%)  
-17 Liberate MOs: 11 wins, 6 losses, (64.7%)  
-12 Control MOs: 11 wins, 1 loss, (91.7%)  
-5 Defend MOs: 3 wins, 2 losses, (60%)  
-3 Eradicate MOs: 2 wins, 1 loss, (66.7%)  
-0 Sample MOs: 0 wins, 0 losses, (???)  
-0 Conquest MOs: 0 wins, 0 losses, (???)  
-0 Operation MOs: 0 wins, 0 losses, (???)  
-0 Extraction MOs: 0 wins, 0 losses, (???)  
-7 Combo MOs: 5 wins, 2 losses, (71.4%)  
+45 Automaton M/SOs: 33 wins, 12 losses, (73.3%)  
+18 Liberate M/SOs: 12 wins, 6 losses, (66.7%)  
+12 Control M/SOs: 11 wins, 1 loss, (91.7%)  
+5 Defend M/SOs: 3 wins, 2 losses, (60%)  
+3 Eradicate M/SOs: 2 wins, 1 loss, (66.7%)  
+0 Sample M/SOs: 0 wins, 0 losses, (???)  
+0 Conquest M/SOs: 0 wins, 0 losses, (???)  
+0 Operation M/SOs: 0 wins, 0 losses, (???)  
+0 Extraction M/SOs: 0 wins, 0 losses, (???)  
+7 Combo M/SOs: 5 wins, 2 losses, (71.4%)  
 ↳ 3 Eradicate Tasks: 2 wins, 1 loss, (66.7%)  
 ↳ 9 Liberate Tasks: 8 wins, 1 loss, (88.9%)  
 ↳ 3 Defend Tasks: 3 wins, 0 losses, (100%)  
@@ -9337,18 +9435,18 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 ↳ 0 Sample Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
-##### Illuminate Front MOs
+##### Illuminate Front M/SOs
 
-16 Illuminate MOs: 10 wins, 6 losses, (62.5%)  
-3 Liberate MOs: 0 wins, 2 losses, (0%)  
-4 Control MOs: 3 wins, 1 loss, (75%)  
-5 Defend MOs: 3 wins, 2 losses, (60%)  
-2 Eradicate MOs: 2 wins, 0 losses, (100%)  
-0 Sample MOs: 0 wins, 0 losses, (???)  
-0 Conquest MOs: 0 wins, 0 losses, (???)  
-0 Operation MOs: 0 wins, 0 losses, (???)  
-1 Extraction MO: 0 wins, 1 loss, (0%)  
-1 Combo MO: 1 win, 0 losses, (100%)  
+17 Illuminate M/SOs: 10 wins, 6 losses, 1 pending, (62.5%)  
+3 Liberate M/SOs: 0 wins, 2 losses, (0%)  
+5 Control M/SOs: 3 wins, 1 loss, 1 pending, (75%)  
+5 Defend M/SOs: 3 wins, 2 losses, (60%)  
+2 Eradicate M/SOs: 2 wins, 0 losses, (100%)  
+0 Sample M/SOs: 0 wins, 0 losses, (???)  
+0 Conquest M/SOs: 0 wins, 0 losses, (???)  
+0 Operation M/SOs: 0 wins, 0 losses, (???)  
+1 Extraction M/SO: 0 wins, 1 loss, (0%)  
+1 Combo M/SO: 1 win, 0 losses, (100%)  
 ↳ 3 Eradicate Tasks: 3 wins, 0 losses, (100%)  
 ↳ 0 Liberate Tasks: 0 wins, 0 losses, (???)  
 ↳ 2 Defend Tasks: 2 wins, 0 losses, (100%)  
@@ -9356,18 +9454,18 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 ↳ 0 Sample Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
-##### Multi-Fronts MOs
+##### Multi-Fronts M/SOs
 
-26 Multi-Fronts MOs: 15 wins, 11 losses, (57.7%)  
-3 Liberate MOs: 1 win, 2 losses, (33.3%)  
-4 Control MOs: 3 wins, 1 loss, (75%)  
-1 Defend MO: 1 win, 0 losses, (100%)  
-6 Eradicate MOs: 3 wins, 3 losses, (50%)  
-0 Sample MOs: 0 wins, 0 losses, (???)  
-3 Conquest MOs: 1 win, 2 losses, (33.3%)  
-0 Operation MOs: 0 wins, 0 losses, (???)  
-0 Extraction MOs: 0 wins, 0 losses, (???)  
-9 Combo MOs: 6 wins, 3 losses, (66.7%)  
+26 Multi-Fronts M/SOs: 15 wins, 11 losses, (57.7%)  
+3 Liberate M/SOs: 1 win, 2 losses, (33.3%)  
+4 Control M/SOs: 3 wins, 1 loss, (75%)  
+1 Defend M/SO: 1 win, 0 losses, (100%)  
+6 Eradicate M/SOs: 3 wins, 3 losses, (50%)  
+0 Sample M/SOs: 0 wins, 0 losses, (???)  
+3 Conquest M/SOs: 1 win, 2 losses, (33.3%)  
+0 Operation M/SOs: 0 wins, 0 losses, (???)  
+0 Extraction M/SOs: 0 wins, 0 losses, (???)  
+9 Combo M/SOs: 6 wins, 3 losses, (66.7%)  
 ↳ 2 Eradicate Tasks: 1 win, 1 loss, (50%)  
 ↳ 8 Liberate Tasks: 8 wins, 0 losses, (100%)  
 ↳ 5 Defend Tasks: 2 wins, 3 losses, (40%)  
