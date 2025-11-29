@@ -8645,7 +8645,7 @@ Dispatch: ARSENAL AUGMENTATION ENDED. The temporary additional use of the Recoil
 Assault Division: ***Rupture Strain*** U3F is routed (01:03am UTC 4th Nov 2025\)  
 Assault Division: ***Hive Lords*** U2A is routed (01:03am UTC 4th Nov 2025\)  
 Assault Division: ***Dragonroaches*** U1A is routed (01:03am UTC 4th Nov 2025\)  
-Major Order | A2-10-6 Liberate Hive World **Oshaune** is won | Objective: Liberate (01:03am UTC 4th Nov 2025\)  
+***Major Order*** | A2-10-6 Liberate Hive World **Oshaune** is won | Objective: Liberate (01:03am UTC 4th Nov 2025\)  
 DSS deploys to **Fenmire** of the ***Marspira*** sector (01:04am UTC 4th Nov 2025\)  
 Dispatch: MAJOR ORDER WON. A great victory has been won. Through fortitude and ingenuity, the haze of the Gloom has been pierced. The first great hurdle towards dispersing its maleficence has been cleared. Hive World **OSHAUNE** has been liberated. Consult your Galactic Map for more information. (01:05am UTC 4th Nov 2025\)  
 **Oshaune** is no longer enveloped by the Gloom (01:06am UTC 4th Nov 2025\)  
@@ -8916,7 +8916,99 @@ Assault Division: ***Incineration Corps*** U6B leaves **Matar Bay** (08:29pm UTC
 **Marfark** of the ***Andromeda*** sector is attacked by Lvl 22 Automatons (08:32pm UTC 22nd Nov 2025\)  
 Assault Division: ***Incineration Corps*** U6B deploys to **Marfark** (08:32pm UTC 22nd Nov 2025\)  
 **Irulta** Region 0 Recon Heights Settlement has fallen to Humans (10:09pm UTC 22nd Nov 2025\)  
-**Irulta** Region 2 Voter's Fallow City is besieged by Humans (12:34am UTC 23rd Nov 2025\)
+**Irulta** Region 2 Voter's Fallow City is besieged by Humans (12:34am UTC 23rd Nov 2025\)  
+DSS effect Heavy Ordnance Distribution stops (02:23am UTC 23rd Nov 2025\)  
+DSS deploys to **Lesath** of the ***Lacaille*** sector (02:58am UTC 23rd Nov 2025\)  
+**Irulta** Region 1 Silo A Town is besieged by Humans (04:14am UTC 23rd Nov 2025\)
+
+Day \#655 9:00am 23rd Nov 2025  
+**Lesath** Region 1 Morskie Oko Town has fallen to Humans (10:31am UTC 23rd Nov 2025\)  
+**Lesath** Region 0 Serenity Summit Town is besieged by Humans (01:34pm UTC 23rd Nov 2025\)  
+Dispatch: ARSENAL AUGMENTATION ENDED. Orbital Walking Barrage Stratagem availability has now ended. (04:22pm UTC 23rd Nov 2025\)  
+DSS effect Orbital Blockade is activated (06:20pm UTC 23rd Nov 2025\)  
+**Acamar IV** of the ***Jin Xi*** sector is attacked by Lvl 35 Terminids (08:09pm UTC 23rd Nov 2025\)  
+**Acamar IV** Region 0 Democracy Always Settlement is besieged by Humans (08:09pm UTC 23rd Nov 2025\)  
+**Marfark** defense is failed (08:33pm UTC 23rd Nov 2025\)  
+↳ **Marfark** liberation campaign starts (08:33pm UTC 23rd Nov 2025\)  
+↳ **Martale** liberation campaign ends (08:33pm UTC 23rd Nov 2025\)  
+↳ **Matar Bay** liberation campaign ends (08:33pm UTC 23rd Nov 2025\)  
+**Lesath** Region 2 Crystal Slopes City is besieged by Humans (11:47pm UTC 23rd Nov 2025\)  
+**Lesath** Region 0 Serenity Summit Town has fallen to Humans (12:48am UTC 24th Nov 2025\)  
+**Irulta** defense is failed (01:40am UTC 24th Nov 2025\)  
+↳ **Irulta** liberation campaign starts (01:40am UTC 24th Nov 2025\)  
+**Lesath** Region 3 Bucu's Rest Megacity is besieged by Humans (04:06am UTC 24th Nov 2025\)  
+**Acamar IV** Region 0 Democracy Always Settlement has fallen to Humans (04:29am UTC 24th Nov 2025\)
+
+Day \#656 9:00am 24th Nov 2025  
+**Inari** of the ***Korpus*** sector is attacked by Lvl 18 Terminids (10:30am UTC 24th Nov 2025\)  
+**Acamar IV** Region 1 Eridani City is besieged by Humans (12:35pm UTC 24th Nov 2025\)  
+DSS effect Orbital Blockade stops (06:21pm UTC 24th Nov 2025\)  
+Assault Division: ***Incineration Corps*** U6A leaves **Lesath** (07:31pm UTC 24th Nov 2025\)  
+**Lesath** defense is failed (07:33pm UTC 24th Nov 2025\)  
+↳ **Lesath** liberation campaign starts (07:33pm UTC 24th Nov 2025\)  
+↳ **Penta** liberation campaign ends (07:32pm UTC 24th Nov 2025\)  
+↳ **Chort Bay** liberation campaign ends (07:32pm UTC 24th Nov 2025\)  
+↳ **Menkent** liberation campaign ends (07:32pm UTC 24th Nov 2025\)  
+↳ ***Lacaille*** sector is fully under Automaton control (07:33pm UTC 24th Nov 2025\)  
+Assault Division: ***Incineration Corps*** U6A deploys to **Lesath** (07:36pm UTC 24th Nov 2025\)  
+**New Stockholm** of the ***Hanzo*** sector is attacked by Lvl 14 Illuminate (10:32pm UTC 24th Nov 2025\)  
+DSS deploys to **Acamar IV** of the ***Jin Xi*** sector (10:59pm UTC 24th Nov 2025\)
+
+Day \#657 9:00am 25th Nov 2025  
+Assault Division: ***Incineration Corps*** U6B leaves **Marfark** (09:51am UTC 25th Nov 2025\)  
+**Bekvam III** of the ***Nanos*** sector is attacked by Lvl 40 Automatons (09:52am UTC 25th Nov 2025\)  
+**Bekvam III** Region 0 Convenience Town is besieged by Humans (09:52am UTC 25th Nov 2025\)  
+Assault Division: ***Incineration Corps*** U6B deploys to **Bekvam III** (09:52am UTC 25th Nov 2025\)  
+**Inari** defense is failed (10:31am UTC 25th Nov 2025\)  
+↳ **Inari** liberation campaign starts (10:31am UTC 25th Nov 2025\)  
+↳ **Ursica XI** liberation campaign ends (10:31am UTC 25th Nov 2025\)  
+**Herthon Secundus** of the ***Ferris*** sector is attacked by Lvl 24 Illuminate (03:44pm UTC 25th Nov 2025\)  
+**Herthon Secundus** Region 2 Consensus City is besieged by Humans (03:44pm UTC 25th Nov 2025\)  
+**Acamar IV** defense is won (06:26pm UTC 25th Nov 2025\)  
+DSS deploys to **Bekvam III** of the ***Nanos*** sector (06:26pm UTC 25th Nov 2025\)  
+**New Stockholm** defense is failed (10:34pm UTC 25th Nov 2025\)  
+↳ **New Stockholm** liberation campaign starts (10:34pm UTC 25th Nov 2025\)  
+**Herthon Secundus** Region 0 Penscewt Town is besieged by Humans (10:58pm UTC 25th Nov 2025\)  
+**Bekvam III** Region 0 Convenience Town has fallen to Humans (03:36am UTC 26th Nov 2025\)
+
+Day \#658 9:00am 26th Nov 2025  
+DSS effect Eagle Storm is activated (09:08am UTC 26th Nov 2025\)  
+**Iro** of the ***Rictus*** sector is attacked by Lvl 10 Illuminate (08:48pm UTC 26th Nov 2025\)  
+**Herthon Secundus** Region 1 Eagle's Likeness Town is besieged by Humans (02:31am UTC 27th Nov 2025\)  
+DSS deploys to **Iro** of the ***Rictus*** sector (07:01am UTC 27th Nov 2025\)
+
+Day \#659 9:00am 27th Nov 2025  
+DSS effect Eagle Storm stops (09:09am UTC 27th Nov 2025\)  
+**Bekvam III** defense is won (12:29pm UTC 27th Nov 2025\)  
+Assault Division: ***Incineration Corps*** U6B is routed (12:29pm UTC 27th Nov 2025\)  
+Assault Division: ***Incineration Corps*** U6A leaves **Lesath** (03:11pm UTC 27th Nov 2025\)  
+**Gaellivare** of the ***Talus*** sector is attacked by Lvl 16 Automatons (03:13pm UTC 27th Nov 2025\)  
+**Gaellivare** Region 1 Malmberget Megacity is besieged by Humans (03:13pm UTC 27th Nov 2025\)  
+Assault Division: ***Incineration Corps*** U6A deploys to **Gaellivare** (03:13pm UTC 27th Nov 2025\)  
+**Herthon Secundus** defense is failed (03:45pm UTC 27th Nov 2025\)  
+**Herthon Secundus** liberation campaign starts (03:45pm UTC 27th Nov 2025\)  
+↳ **Ain-5** liberation campaign ends (03:44pm UTC 27th Nov 2025\)  
+↳ **Zea Rugosia** liberation campaign ends (03:45pm UTC 27th Nov 2025\)  
+***Major Order*** | A2-11-6 Defend 8 and Hold **Turing** is failed | Objective: Defend/Control (04:05pm UTC 27th Nov 2025\)  
+Dispatch: MAJOR ORDER FAILED. The enemy has gained ground on multiple fronts. Forces have been pulled back in retreat as all 3 factions push forward. Fierce, stalwart Helldiver resistance forestalled catastrophe, but the losses are nevertheless significant. Consult the Galactic Map for more information. (04:12pm UTC 27th Nov 2025\)  
+***Major Order*** | A2-11-7 Liberate Afoyay Bay and Gain Ground is issued | Objective: Conquest/Liberate (05:25pm UTC 27th Nov 2025\)  
+Dispatch: NEW MAJOR ORDER. The Government of Super Earth has declared a new war: The War on Dissidence. SEAF units have been deployed in force to cities across the Federation. Our enemies are expected to attempt to exploit this vulnerability; the Helldivers must hold the line. Additionally, High Command has ordered the construction of the Center for the Containment of Dissidence on **AFOYAY BAY**. The Helldivers are additionally ordered to liberate **AFOYAY BAY**. (05:26pm UTC 27th Nov 2025\)  
+**Iro** defense is failed (10:57pm UTC 27th Nov 2025\)  
+↳ **Valmox** liberation campaign ends (10:57pm UTC 27th Nov 2025\)  
+↳ **Grafmere** liberation campaign ends (10:57pm UTC 27th Nov 2025\)  
+↳ **Rictus** sector is fully under Illuminate control (10:57pm UTC 27th Nov 2025\)  
+DSS deploys to ***Gaellivare*** of the **Talus** sector (10:57pm UTC 27th Nov 2025\)  
+DSS deploys to **New Stockholm** of the ***Hanzo*** sector (07:01am UTC 28th Nov 2025\)  
+Dispatch: AMMO RATIONING. Helldivers will be issued 25% less ammunition on deployment for the near future, in order to support the maintenance of law and order as dissident apprehension continues. (08:58am UTC 28th Nov 2025\)
+
+Day \#660 9:00am 28th Nov 2025  
+**Gaellivare** Region 0 Váhtjer Settlement is besieged by Humans (02:13pm UTC 28th Nov 2025\)  
+Dispatch: STIM RATIONING. Ongoing nonlethal operations to maintain citizen safety during the War on Dissidence has led to a shortage of medical supplies. Helldiver stim rations will be reduced by 1% for the next 24 hours. (09:38pm UTC 28th Nov 2025\)  
+**Gaellivare** defense is won (12:26am UTC 29th Nov 2025\)  
+Assault Division: ***Incineration Corps*** U6A is routed (12:26am UTC 29th Nov 2025\)
+
+Day \#661 9:00am 29th Nov 2025  
+Dispatch: Orbital Smoke Strike COOLDOWN INCREASE. Nonlethal armaments are in dire need across the Federation as SEAF forces work to maintain law and order while the dissident crackdown continues. Orbital Smoke Strike cooldown will be temporarily increased by 30 seconds. (09:37am UTC 29th Nov 2025\)
 
 #### Day Zero
 
@@ -9538,9 +9630,9 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 #### Major/Minor Order/Strategic Opportunities Data
 
-Since Combo MOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
+Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-143 Total MSO/S: 109 wins, 33 losses, 1 pending, (76.8%)  
+144 Total MSO/S: 109 wins, 34 losses, 1 pending, (76.2%)  
 38 Liberate M/SOs: 26 wins, 12 losses, (68.4%)  
 32 Control M/SOs: 29 wins, 3 losses, (90.6%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
@@ -9549,12 +9641,13 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 3 Conquest M/SOs: 1 win, 2 losses, (33.3%)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
 1 Extraction M/SO: 0 wins, 1 loss, (0%)  
-32 Combo M/SOs: 25 wins, 6 losses, 1 pending, (80.6%)  
+33 Combo M/SOs: 25 wins, 7 losses, 1 pending, (78.1%)  
 ↳ 15 Eradicate Tasks: 13 wins, 2 losses, (86.7%)  
-↳ 25 Liberate Tasks: 24 wins, 1 loss, (96%)  
-↳ 14 Defend Tasks: 10 wins, 3 losses, 1 pending, (76.9%)  
-↳ 32 Control Tasks: 30 wins, 1 loss, 1 pending, (96.8%)  
+↳ 26 Liberate Tasks: 24 wins, 1 loss, 1 pending, (96%)  
+↳ 14 Defend Tasks: 10 wins, 4 losses, (71.4%)  
+↳ 32 Control Tasks: 31 wins, 1 loss, (96.9%)  
 ↳ 11 Sample Tasks: 9 wins, 2 losses, (81.8%)  
+↳ 1 Conquest Task: 0 wins, 0 losses, 1 pending, (???)  
 ↳ 2 Operation Tasks: 1 win, 1 loss, (50%)
 
 ##### Terminid Front M/SOs
@@ -9574,6 +9667,7 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 ↳ 3 Defend Tasks: 3 wins, 0 losses, (100%)  
 ↳ 16 Control Tasks: 16 wins, 0 losses, (100%)  
 ↳ 9 Sample Tasks: 7 wins, 2 losses, (77.8%)  
+↳ 0 Conquest Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
 ##### Automaton Front M/SOs
@@ -9593,6 +9687,7 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 ↳ 3 Defend Tasks: 3 wins, 0 losses, (100%)  
 ↳ 4 Control Tasks: 4 wins, 0 losses, (100%)  
 ↳ 0 Sample Tasks: 0 wins, 0 losses, (???)  
+↳ 0 Conquest Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
 ##### Illuminate Front M/SOs
@@ -9612,11 +9707,12 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 ↳ 2 Defend Tasks: 2 wins, 0 losses, (100%)  
 ↳ 0 Control Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Sample Tasks: 0 wins, 0 losses, (???)  
+↳ 0 Conquest Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
 ##### Multi-Fronts M/SOs
 
-28 Multi-Fronts M/SOs: 16 wins, 11 losses, 1 pending, (59.3%)  
+29 Multi-Fronts M/SOs: 16 wins, 12 losses, 1 pending, (57.1%)  
 3 Liberate M/SOs: 1 win, 2 losses, (33.3%)  
 4 Control M/SOs: 3 wins, 1 loss, (75%)  
 1 Defend M/SO: 1 win, 0 losses, (100%)  
@@ -9625,10 +9721,11 @@ Since Combo MOs use multiple objectives, the combined completion for individual 
 3 Conquest M/SOs: 1 win, 2 losses, (33.3%)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
 0 Extraction M/SOs: 0 wins, 0 losses, (???)  
-11 Combo M/SOs: 7 wins, 3 losses, 1 pending, (70%)  
+12 Combo M/SOs: 7 wins, 4 losses, 1 pending, (63.6%)  
 ↳ 2 Eradicate Tasks: 1 win, 1 loss, (50%)  
-↳ 8 Liberate Tasks: 8 wins, 0 losses, (100%)  
-↳ 6 Defend Tasks: 2 wins, 3 losses, 1 pending, (40%)  
-↳ 12 Control Tasks: 10 wins, 1 loss, 1 pending, (90.9%)  
+↳ 9 Liberate Tasks: 8 wins, 0 losses, 1 pending, (100%)  
+↳ 6 Defend Tasks: 2 wins, 4 losses, (33.3%)  
+↳ 12 Control Tasks: 11 wins, 1 loss, (91.6%)  
 ↳ 2 Sample Tasks: 2 wins, 0 losses, (100%)  
+↳ 1 Conquest Task: 0 wins, 0 losses, 1 pending, (???)  
 ↳ 2 Operation Tasks: 1 win, 1 loss, (50%)
