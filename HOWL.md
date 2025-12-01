@@ -8599,7 +8599,7 @@ Dispatch: DSS GLOOM SHIELDING DEGRADING. The spore-resistance polymer shielding 
 **Crimsica** defense is failed (08:09am UTC 1st Nov 2025\)  
 ↳ **Crimsica** liberation campaign starts (08:09am UTC 1st Nov 2025\)
 
-#### November 2025 | Day 633 \- Now
+#### November 2025 | Day 633 \- 662
 
 Day \#633 9:00am 1st Nov 2025  
 DSS effect Heavy Ordnance Distribution stops (01:15pm UTC 1st Nov 2025\)  
@@ -9008,7 +9008,33 @@ Dispatch: STIM RATIONING. Ongoing nonlethal operations to maintain citizen safet
 Assault Division: ***Incineration Corps*** U6A is routed (12:26am UTC 29th Nov 2025\)
 
 Day \#661 9:00am 29th Nov 2025  
-Dispatch: Orbital Smoke Strike COOLDOWN INCREASE. Nonlethal armaments are in dire need across the Federation as SEAF forces work to maintain law and order while the dissident crackdown continues. Orbital Smoke Strike cooldown will be temporarily increased by 30 seconds. (09:37am UTC 29th Nov 2025\)
+Dispatch: Orbital Smoke Strike COOLDOWN INCREASE. Nonlethal armaments are in dire need across the Federation as SEAF forces work to maintain law and order while the dissident crackdown continues. Orbital Smoke Strike cooldown will be temporarily increased by 30 seconds. (09:37am UTC 29th Nov 2025\)  
+**New Stockholm** is liberated (08:49pm UTC 29th Nov 2025\)  
+↳ **Iro** liberation campaign starts (08:49pm UTC 29th Nov 2025\)  
+↳ **Ain-5** liberation campaign starts (08:49pm UTC 29th Nov 2025\)  
+DSS deploys to **Terrek** of the ***Orion*** sector (08:49pm UTC 29th Nov 2025\)  
+Dispatch: FRV COOLDOWN INCREASE. FRV Stratagem cooldowns will be temporarily increased by 60 seconds in order to support SEAF operations to maintain order within Super Earth cities. (09:57pm UTC 29th Nov 2025\)  
+DSS deploys to **Ain-5** of the ***Hanzo*** sector (03:02am UTC 30th Nov 2025\)
+
+Day \#662 9:00am 30th Nov 2025  
+**Terrek** is liberated (10:38am UTC 30th Nov 2025\)  
+↳ ***Orion*** sector is fully under Human control (10:38am UTC 30th Nov 2025\)  
+**Elysian Meadows** of the ***Guang*** sector is attacked by Lvl 10 Illuminates (06:23pm UTC 30th Nov 2025\)  
+Dispatch: EAGLE REARM COOLDOWN INCREASE. Eagle fighters are being deployed to conduct flyovers over **Super Earth** cities to reassure loyal citizens of their safety during this tumultuous time. Eagle Rearm cooldowns will be increased by 60 seconds for the near future. (08:37pm UTC 30th Nov 2025\)  
+DSS deploys to **Elysian Meadows** of the ***Guang*** sector (11:03pm UTC 30th Nov 2025\)  
+DSS deploys to **Ain-5** of the ***Hanzo*** sector (03:03am UTC 1st Dec 2025\)  
+DSS effect Orbital Blockade is activated (03:53am UTC 1st Dec 2025\)
+
+#### December 2025 | Day 663 \- Now
+
+Day \#663 9:00am 1st Dec 2025  
+**Ain-5** is liberated (10:21am UTC 1st Dec 2025\)  
+↳ **Afoyay Bay** liberation campaign starts (10:21am UTC 1st Dec 2025\)  
+DSS deploys to **Elysian Meadows** of the ***Guang*** sector (10:21am UTC 1st Dec 2025\)  
+Dispatch: EXOSUIT COOLDOWN INCREASE. Exosuits will be deployed to **Super Earth** city streets as a display of safety and security. As a result, Exosuit Stratagem cooldowns will be increased by 150 seconds until the end of the current dissident apprehension operation. (01:50pm UTC 1st Dec 2025\)  
+DSS deploys to **Afoyay Bay** of the ***Gallux*** sector (03:03pm UTC 1st Dec 2025\)  
+**Shete** of the ***Xi Tauri*** sector is attacked by Lvl 18 Illuminates (04:15pm UTC 1st Dec 2025\)  
+**Shete** Region 0 Holl City is besieged by Humans (04:15pm UTC 1st Dec 2025\)
 
 #### Day Zero
 
