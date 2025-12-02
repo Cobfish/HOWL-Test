@@ -9034,7 +9034,11 @@ DSS deploys to **Elysian Meadows** of the ***Guang*** sector (10:21am UTC 1st De
 Dispatch: EXOSUIT COOLDOWN INCREASE. Exosuits will be deployed to **Super Earth** city streets as a display of safety and security. As a result, Exosuit Stratagem cooldowns will be increased by 150 seconds until the end of the current dissident apprehension operation. (01:50pm UTC 1st Dec 2025\)  
 DSS deploys to **Afoyay Bay** of the ***Gallux*** sector (03:03pm UTC 1st Dec 2025\)  
 **Shete** of the ***Xi Tauri*** sector is attacked by Lvl 18 Illuminates (04:15pm UTC 1st Dec 2025\)  
-**Shete** Region 0 Holl City is besieged by Humans (04:15pm UTC 1st Dec 2025\)
+**Shete** Region 0 Holl City is besieged by Humans (04:15pm UTC 1st Dec 2025\)  
+**Elysian Meadows** defense is failed (06:24pm UTC 1st Dec 2025\)  
+↳ **Elysian Meadows** liberation campaign starts (06:24pm UTC 1st Dec 2025\)  
+**Zzaniah Prime** of the ***Gellert*** sector is attacked by Lvl 13 Automatons (08:05pm UTC 1st Dec 2025\)  
+DSS effect Orbital Blockade stops (03:53am UTC 2nd Dec 2025\)
 
 #### Day Zero
 
