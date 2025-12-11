@@ -9183,13 +9183,18 @@ DSS effect Orbital Blockade stops (12:09am UTC 10th Dec 2025\)
 
 Day \#702 9:00am 10th Dec 2025  
 **Crimsica** Region 0 Lil'Ome Settlement has fallen to Humans (09:38am UTC 10th Dec 2025\)  
-Dispatch: COMMEMORATIVE CAPE. In recognition of the Helldivers' historic liberation of the Hive World Oshaune, a source of tyrannical Gloom spores that terrorized loyal citizens, High Command has generously bequeathed them a commemorative cape to wear into future battles. The cape is available to don immediately. (10:01am UTC 10th Dec 2025\)  
-Assault Division: ***Incineration Corps*** U7A leaves **K** (09:00pm UTC 10th Dec 2025\)  
-Assault Division: ***Incineration Corps*** U7B leaves **Mox** (09:00pm UTC 10th Dec 2025\)
+Dispatch: COMMEMORATIVE CAPE. In recognition of the Helldivers' historic liberation of the Hive World Oshaune, a source of tyrannical Gloom spores that terrorized loyal citizens, High Command has generously bequeathed them a commemorative cape to wear into future battles. The cape is available to don immediately. (10:01am UTC 10th Dec 2025\)
 
 Day \#703 9:00am 11th Dec 2025  
 ***Major Order*** | A2-12-2 Liberate 3 Magma Worlds is failed | Objective: Liberate (10:14am UTC 11th Dec 2025\)  
-Dispatch: MAJOR ORDER FAILED. The operation to wrest control of the targeted Automaton planets have failed. Though some of their industry has been annexed, their exploitation and thievery continues largely unobstructed. The facilities that were liberated contain disturbing revelations. Helldivers are advised to steel themselves before consulting their Galactic Map for more information. (10:16am UTC 11th Dec 2025\)
+Dispatch: MAJOR ORDER FAILED. The operation to wrest control of the targeted Automaton planets have failed. Though some of their industry has been annexed, their exploitation and thievery continues largely unobstructed. The facilities that were liberated contain disturbing revelations. Helldivers are advised to steel themselves before consulting their Galactic Map for more information. (10:16am UTC 11th Dec 2025\)  
+***Major Order*** | A2-12-3 Hold Afoyay Bay and 3 Magma Worlds is issued | Objective: Control (12:16pm UTC 11th Dec 2025\)  
+Dispatch: NEW MAJOR ORDER. High Command has initiated Operation Free Space by ordering construction of Pandora Base on **Afoyay Bay**. This top-secret foundry will develop next-generation Galactic defense technologies central to Operation Free Space. Hold **Afoyay Bay** to secure the endeavor and its workforce, supplied by the **Center for the Confinement of Dissidence**, and liberate and hold Magma Planets, to stabilize essential supply lines. (12:16pm UTC 11th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7A leaves **K** (03:05am UTC 11th Dec 2025\)  
+**Varylia 5** of the ***Trigon*** sector is attacked by Lvl 28 Automatons (03:07pm UTC 11th Dec 2025\)  
+**Varylia 5** Region 0 Sequim City is besieged by Humans (03:07pm UTC 11th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7A deploys to **K** (03:07pm UTC 11th Dec 2025\)  
+**New Stockholm** of the ***Hanzo*** sector is attacked by Lvl 14 Illuminate (04:21pm UTC 11th Dec 2025\)
 
 #### Day Zero
 
@@ -9813,9 +9818,9 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-146 Total M/SOs: 110 wins, 36 losses, (75.3%)  
+147 Total M/SOs: 110 wins, 36 losses, 1 pending, (75.3%)  
 40 Liberate M/SOs: 26 wins, 14 losses, (65%)  
-32 Control M/SOs: 29 wins, 3 losses, (90.6%)  
+33 Control M/SOs: 29 wins, 3 losses, 1 pending, (90.6%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
 21 Eradicate M/SOs: 16 wins, 5 losses, (76.2%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
@@ -9853,9 +9858,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Automaton Front M/SOs
 
-46 Automaton M/SOs: 33 wins, 13 losses, (71.7%)  
+47 Automaton M/SOs: 33 wins, 13 losses, 1 pending, (71.7%)  
 19 Liberate M/SOs: 12 wins, 7 losses, (63.2%)  
-12 Control M/SOs: 11 wins, 1 loss, (91.7%)  
+13 Control M/SOs: 11 wins, 1 loss, 1 pending, (91.7%)  
 5 Defend M/SOs: 3 wins, 2 losses, (60%)  
 3 Eradicate M/SOs: 2 wins, 1 loss, (66.7%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
