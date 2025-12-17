@@ -9139,7 +9139,7 @@ Day \#669 9:00am 7th Dec 2025
 DSS deploys to **Choepessa IV** of the ***Trigon*** sector (05:18pm UTC 7th Dec 2025\)  
 DSS deploys to **K** of the ***Trigon*** sector (11:08pm UTC 7th Dec 2025\)
 
-Day \#700 9:00am 8th Dec 2025  
+Day \#670 9:00am 8th Dec 2025  
 Dispatch: STRATEGIC ALERT. The Automaton ***Incineration Corps*** has been reported on **MERAK**. (11:00am UTC 8th Dec 2025\)  
 Assault Division: ***Incineration Corps*** U7A deploys to **Merak** (11:00am UTC 8th Dec 2025\)  
 Dispatch: STRATEGIC ALERT. The Automaton ***Incineration Corps*** has been reported on **AURORA BAY**. (11:01am UTC 8th Dec 2025\)  
@@ -9176,16 +9176,16 @@ Assault Division: ***Incineration Corps*** U7A leaves **Choepessa IV** (08:00pm 
 Assault Division: ***Incineration Corps*** U7A deploys to **K** (08:03pm UTC 8th Dec 2025\)  
 DSS effect Orbital Blockade is activated (12:08am UTC 9th Dec 2025\)
 
-Day \#701 9:00am 9th Dec 2025  
+Day \#671 9:00am 9th Dec 2025  
 Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Eagle Napalm Airstrike Stratagem for the next 96 hours. (12:57pm UTC 9th Dec 2025\)  
 Dispatch: STRATAGEM GRANTED. The Flamethrower Stratagem has been authorized for immediate use, for the next 24 hours. (09:17pm UTC 9th Dec 2025\)  
 DSS effect Orbital Blockade stops (12:09am UTC 10th Dec 2025\)
 
-Day \#702 9:00am 10th Dec 2025  
+Day \#672 9:00am 10th Dec 2025  
 **Crimsica** Region 0 Lil'Ome Settlement has fallen to Humans (09:38am UTC 10th Dec 2025\)  
 Dispatch: COMMEMORATIVE CAPE. In recognition of the Helldivers' historic liberation of the Hive World Oshaune, a source of tyrannical Gloom spores that terrorized loyal citizens, High Command has generously bequeathed them a commemorative cape to wear into future battles. The cape is available to don immediately. (10:01am UTC 10th Dec 2025\)
 
-Day \#703 9:00am 11th Dec 2025  
+Day \#673 9:00am 11th Dec 2025  
 ***Major Order*** | A2-12-2 Liberate 3 Magma Worlds is failed | Objective: Liberate (10:14am UTC 11th Dec 2025\)  
 Dispatch: MAJOR ORDER FAILED. The operation to wrest control of the targeted Automaton planets have failed. Though some of their industry has been annexed, their exploitation and thievery continues largely unobstructed. The facilities that were liberated contain disturbing revelations. Helldivers are advised to steel themselves before consulting their Galactic Map for more information. (10:16am UTC 11th Dec 2025\)  
 ***Major Order*** | A2-12-3 Hold Afoyay Bay and 3 Magma Worlds is issued | Objective: Control (12:16pm UTC 11th Dec 2025\)  
@@ -9194,7 +9194,95 @@ Assault Division: ***Incineration Corps*** U7A leaves **K** (03:05am UTC 11th De
 **Varylia 5** of the ***Trigon*** sector is attacked by Lvl 28 Automatons (03:07pm UTC 11th Dec 2025\)  
 **Varylia 5** Region 0 Sequim City is besieged by Humans (03:07pm UTC 11th Dec 2025\)  
 Assault Division: ***Incineration Corps*** U7A deploys to **K** (03:07pm UTC 11th Dec 2025\)  
-**New Stockholm** of the ***Hanzo*** sector is attacked by Lvl 14 Illuminate (04:21pm UTC 11th Dec 2025\)
+**New Stockholm** of the ***Hanzo*** sector is attacked by Lvl 14 Illuminate (04:21pm UTC 11th Dec 2025\)  
+DSS effect Eagle Storm is activated (06:03am UTC 12th Dec 2025\)
+
+Day \#674 9:00am 12th Dec 2025  
+**New Stockholm** defense is failed (04:22pm UTC 12th Dec 2025\)  
+↳ **New Stockholm** liberation campaign starts (04:22pm UTC 12th Dec 2025\)  
+↳ **Iro** liberation campaign ends (04:21pm UTC 12th Dec 2025\)  
+**K** is liberated (06:31pm UTC 12th Dec 2025\)  
+↳ **Varylia 5** defense is auto-won via gambit (06:31pm UTC 12th Dec 2025\)  
+DSS deploys to **Mox** of the ***Trigon*** sector (06:31pm UTC 12th Dec 2025\)  
+Assault Division: ***Hive Lords*** U3A deploys to **Omicron** (09:40pm UTC 12th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2A deploys to **Omicron** (09:40pm UTC 12th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U5A deploys to **Bore Rock** (09:41pm UTC 12th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2B deploys to **Esker** (09:43pm UTC 12th Dec 2025\)  
+**Omicron** is no longer unobservable (09:46pm UTC 12th Dec 2025\)  
+**Omicron** liberation campaign starts (09:47pm UTC 12th Dec 2025\)  
+Dispatch: NEW HIVE WORLD. Gloom outflow analysis from **Oshaune** has identified another Terminid Hive World. Hive Worlds are nests of Tyranny, producers of Gloom spores, and of valuable E-711. In order to protect our citizens from the threat of the Gloom, and ensure the uninterrupted extraction of E-711, High Command has authorized Helldiver operations on **Omicron**, effective immediately. (09:55pm UTC 13th Dec 2025\)  
+DSS effect Eagle Storm stops (06:03am UTC 13th Dec 2025\)
+
+Day \#675 9:00am 13th Dec 2025  
+DSS effect Heavy Ordnance Distribution is activated (12:29pm UTC 13th Dec 2025\)  
+Dispatch: ARSENAL AUGMENTATION ENDED. Eagle Napalm Airstrike Stratagem availability has now ended. (01:04pm UTC 13th Dec 2025\)  
+The Second Galactic War is paused (07:15pm UTC 13th Dec 2025\)  
+**NOTE**: This is the fifth time in history that the Second Galactic War has been ‘paused’. All planet hps, timers, defense timers, etc are static and no longer actively progressing. Later the same day at 08:14pm, the war begins again. The incident lasted 59 minutes (07:15pm UTC 13th Dec 2025\)  
+The Second Galactic War is no longer paused (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Mox** (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2B leaves **Esker** (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U5A leaves **Bore Rock** (08:14pm UTC 13th Dec 2025\)  
+**Terrek** of the ***Orion*** sector is attacked by Terminids (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U5A deploys to **Terrek** (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2B deploys to **Bore Rock** (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Predator Strain*** U8A deploys to **Bore Rock** (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Vega Bay** (08:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Vega Bay** (09:13pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Wasat** (09:13pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Wasat** (10:13pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Meissa** (10:13pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Meissa** (11:14pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Matar Bay** (11:15pm UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Matar Bay** (12:13am UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Martale** (12:15am UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Martale** (01:13am UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Charon Prime** (01:15am UTC 13th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Charon Prime** (02:13am UTC 14th Dec 2025\)  
+**Charbal-VII** of the ***Andromeda*** sector is attacked by Lvl 14 Automatons (02:15am UTC 14th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Charbal-VII** (02:15am UTC 14th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Charbal-VII** (03:13am UTC 14th Dec 2025\)
+
+Day \#676 9:00am 14th Dec 2025  
+Assault Division: ***Incineration Corps*** U7B deploys to **Charbal-VII** (10:34am UTC 14th Dec 2025\)  
+DSS effect Heavy Ordnance Distribution stops (12:30pm UTC 14th Dec 2025\)  
+**Erata Prime** of the ***Umlaut*** sector is attacked by Lvl 29 Terminids (03:39pm UTC 14th Dec 2025\)  
+**Erata Prime** Region 0 New Da Nang Town is besieged by Humans (03:39pm UTC 14th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2B divides into 2 groups \[U2B, U2C\] (03:40pm UTC 14th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2C deploys to **Erata Prime** (03:39pm UTC 14th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2B leaves **Bore Rock** (03:40pm UTC 14th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2B merges with ***Dragonroaches*** U2C on **Erata Prime** (03:40pm UTC 14th Dec 2025\)  
+**Terrek** defense is failed (07:36pm UTC 14th Dec 2025\)  
+↳ **Terrek** liberation campaign starts (07:36pm UTC 14th Dec 2025\)  
+**Charbal-VII** defense is failed (02:15am UTC 15th Dec 2025\)  
+↳ **Charbal-VII** liberation campaign starts (02:15am UTC 15th Dec 2025\)  
+↳ ***Andromeda*** sector is fully under Automaton control (02:15am UTC 15th Dec 2025\)
+
+Day \#677 9:00am 15th Dec 2025  
+**Erata Prime** Region 1 Pham's Site Settlement is besieged by Humans (01:19pm UTC 15th Dec 2025\)  
+**Erata Prime** Region 2 Old Chemland Town is besieged by Humans (03:45pm UTC 15th Dec 2025\)  
+**Erata Prime** Region 0 New Da Nang Town has fallen to Humans (04:38pm UTC 15th Dec 2025\)  
+**Cirrus** of the ***Orion*** sector is attacked by Lvl 14 Terminids (07:59pm UTC 15th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U5A leaves **Terrek** (07:59pm UTC 15th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U5A deploys to **Cirrus** (07:59pm UTC 15th Dec 2025\)  
+Assault Division: ***Predator Strain*** U8A leaves **Bore Rock** (07:59pm UTC 15th Dec 2025\)  
+Assault Division: ***Predator Strain*** U8A deploys to **Terrek** (07:59pm UTC 15th Dec 2025\)  
+**Erata Prime** Region 1 Pham's Site Settlement has fallen to Humans (05:13am UTC 16th Dec 2025\)
+
+Day \#678 9:00am 16th Dec 2025  
+**Erata Prime** defense is won (02:27pm UTC 16th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U2C is routed (02:27pm UTC 16th Dec 2025\)  
+**Cirrus** defense is failed (08:00pm UTC 16th Dec 2025\)  
+↳ **Cirrus** liberation campaign starts (08:00pm UTC 16th Dec 2025\)  
+**Heeth** of the ***Orion*** sector is attacked by Lvl 21 Terminids (08:03pm UTC 16th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U5A leaves **Cirrus** (08:03pm UTC 16th Dec 2025\)  
+Assault Division: ***Predator Strain*** U8A leaves **Terrek** (08:03pm UTC 16th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U5A deploys to **Heeth** (08:04pm UTC 16th Dec 2025\)  
+Assault Division: ***Predator Strain*** U8A deploys to **Cirrus** (08:04pm UTC 16th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B leaves **Charbal-VII** (08:06pm UTC 16th Dec 2025\)  
+**Julheim** of the ***Nanos*** sector is attacked by Lvl 31 Automatons (08:07pm UTC 16th Dec 2025\)  
+**Julheim** Region 0 Frostown Megacity is besieged by Humans (08:07pm UTC 16th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B deploys to **Julheim** (08:07pm UTC 16th Dec 2025\)  
+DSS effect Orbital Blockade is activated (11:56pm UTC 16th Dec 2025\)
 
 #### Day Zero
 
