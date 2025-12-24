@@ -4,6 +4,9 @@ Original Creator: Herald / Cobfish / Arpón, Helpers: Tau
 
 Tidbit of advice, use Control \+ F for easier access to info with keywords
 
+For an incomplete legend of event lines (I’m slowly working on it when motivation allows) you can reference this document  
+[HOWL Legend](https://docs.google.com/document/d/1IofllZKXnRiJNzsUHuam_V2t5uE98VevSJYCPiRIsUY/edit?usp=sharing)
+
 [HOWL Projects Link Tree](https://docs.google.com/document/d/1hURxcGFSxEfH71HQz_2QNmNityBdZQ0f50azC6QgKLo/edit?usp=sharing)
 
 ### Second Galactic War Timeline
@@ -9188,7 +9191,7 @@ Dispatch: COMMEMORATIVE CAPE. In recognition of the Helldivers' historic liberat
 Day \#673 9:00am 11th Dec 2025  
 ***Major Order*** | A2-12-2 Liberate 3 Magma Worlds is failed | Objective: Liberate (10:14am UTC 11th Dec 2025\)  
 Dispatch: MAJOR ORDER FAILED. The operation to wrest control of the targeted Automaton planets have failed. Though some of their industry has been annexed, their exploitation and thievery continues largely unobstructed. The facilities that were liberated contain disturbing revelations. Helldivers are advised to steel themselves before consulting their Galactic Map for more information. (10:16am UTC 11th Dec 2025\)  
-***Major Order*** | A2-12-3 Hold Afoyay Bay and 3 Magma Worlds is issued | Objective: Control (12:16pm UTC 11th Dec 2025\)  
+***Major Order*** | A2-12-3 Hold **Afoyay Bay** and 3 Magma Worlds is issued | Objective: Control (12:16pm UTC 11th Dec 2025\)  
 Dispatch: NEW MAJOR ORDER. High Command has initiated Operation Free Space by ordering construction of Pandora Base on **Afoyay Bay**. This top-secret foundry will develop next-generation Galactic defense technologies central to Operation Free Space. Hold **Afoyay Bay** to secure the endeavor and its workforce, supplied by the **Center for the Confinement of Dissidence**, and liberate and hold Magma Planets, to stabilize essential supply lines. (12:16pm UTC 11th Dec 2025\)  
 Assault Division: ***Incineration Corps*** U7A leaves **K** (03:05am UTC 11th Dec 2025\)  
 **Varylia 5** of the ***Trigon*** sector is attacked by Lvl 28 Automatons (03:07pm UTC 11th Dec 2025\)  
@@ -9282,7 +9285,74 @@ Assault Division: ***Incineration Corps*** U7B leaves **Charbal-VII** (08:06pm U
 **Julheim** of the ***Nanos*** sector is attacked by Lvl 31 Automatons (08:07pm UTC 16th Dec 2025\)  
 **Julheim** Region 0 Frostown Megacity is besieged by Humans (08:07pm UTC 16th Dec 2025\)  
 Assault Division: ***Incineration Corps*** U7B deploys to **Julheim** (08:07pm UTC 16th Dec 2025\)  
-DSS effect Orbital Blockade is activated (11:56pm UTC 16th Dec 2025\)
+DSS effect Orbital Blockade is activated (11:56pm UTC 16th Dec 2025\)  
+**Mox** is liberated (07:41am UTC 17th Dec 2025\)  
+↳ **Vega Bay** liberation campaign starts (07:41am UTC 17th Dec 2025\)  
+**Vega Bay** Region 1 Giri Town is besieged by Humans (07:41am UTC 17th Dec 2025\)  
+DSS deploys to **Heeth** of the ***Orion*** sector (07:42am UTC 17th Dec 2025\)
+
+Day \#679 9:00am 17th Dec 2025  
+**Heeth** defense is failed (08:04pm UTC 17th Dec 2025\)  
+↳ **Heeth** liberation campaign starts (08:04pm UTC 17th Dec 2025\)  
+DSS deploys to **Julheim** of the ***Nanos*** sector (11:14pm UTC 17th Dec 2025\)  
+DSS effect Orbital Blockade stops (11:57pm UTC 17th Dec 2025\)
+
+Day \#680 9:00am 18th Dec 2025  
+**Heeth** is classified as a Recon campaign (09:59am UTC 18th Dec 2025\)  
+**Marfark** is classified as a Recon campaign (09:59am UTC 18th Dec 2025\)  
+**New Stockholm** is classified as a Recon campaign (09:59am UTC 18th Dec 2025\)  
+***Major Order*** | A2-12-4 Festival of Reckoning 2025 is issued | Objective: Conquest (09:59pm UTC 18th Dec 2025\)  
+***Minor Order*** | A2-12-5 Kill Enemies on a Recon Campaign is issued | Objective: Eradicate (09:59pm UTC 18th Dec 2025\)  
+Dispatch: HOLIDAY NOTICE. The Festival of Reckoning starts today; the season of love, moral superiority, and gratuitous patriotic expenditure. During these 14 days of joyous retribution, Helldivers must liberate more planets than are lost. High Command has prepared a procession of surprises to aid the seasonal war effort. (09:59am UTC 18th Dec 2025\)  
+Dispatch: NEW STRATEGIC OPPORTUNITY. A portion of this year’s Reckoning Fund has been allocated for Experimental Stratagem Testing. Three enemy-held planets have been specially chosen for weapons testing: **MARFARK**, **NEW STOCKHOLM**, and **HEETH**. On these planets, the ORBITAL 120MM HE BARRAGE has been experimentally modified to the Orbital 120MM HE/EMS Barrage. The Helldivers are ordered to reach the targeted kill count on any one of the chosen planets. (10:00am UTC 18th Dec 2025\)  
+***Major Order*** | A2-12-3 Hold **Afoyay Bay** and 3 Magma Worlds is won | Objective: Control (12:18pm UTC 18th Dec 2025\)  
+Dispatch: MAJOR ORDER WON. Construction of Pandora Base has begun. High Command has declassified the ultimate objective of Operation Free Space: the Star of Peace. This glorious upgrade will augment the Democracy Space Station into a beacon capable of projecting Liberty’s light across entire planetary systems. Consult the Galactic Map for more information. (12:20pm UTC 18th Dec 2025\)  
+DSS deploys to **Heeth** of the ***Orion*** sector (03:15pm UTC 18th Dec 2025\)  
+**Julheim** defense is failed (08:08pm UTC 18th Dec 2025\)  
+↳ **Julheim** liberation campaign starts (08:08pm UTC 18th Dec 2025\)  
+DSS deploys to **Terrek** of the ***Orion*** sector (07:15am UTC 19th Dec 2025\)
+
+Day \#681 9:00am 19th Dec 2025  
+Dispatch: ARSENAL AUGMENTATION. To aid in the spread of holiday cheer, all Helldiver deployments will be augmented with the HOVER PACK for the next 48 hours. (09:59pm UTC 19th Dec 2025\)  
+**Terrek** is liberated (08:19pm UTC 19th Dec 2025\)  
+DSS deploys to **Cirrus** of the ***Orion*** sector (08:19pm UTC 19th Dec 2025\)
+
+Day \#682 9:00am 20th Dec 2025  
+Dispatch: FESTIVAL OF RECKONING UPDATE. While the Helldivers celebrate away from home, High Command provides the following update of domestic celebrations in the hope of giving them a feeling of being back at home: this year’s annual Dissident Execution Parade went off without a hitch. Citizens cheered a record-high of 8,701 executions over the course of 7.5 hours, closed by a rousing rendition of “All I Want for The Festival of Reckoning is Vengeance” by the Hydrofall Prime Children’s Choir. (09:59am UTC 20th Dec 2025\)  
+Assault Division: ***Predator Strain*** U9A deploys to **Esker** (08:51pm UTC 20th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U3A deploys to **Nivel 43** (08:52pm UTC 20th Dec 2025\)  
+***Minor Order*** | A2-12-5 Kill Enemies on a Recon Campaign is won | Objective: Eradicate (12:23am UTC 21st Dec 2025\)  
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have supported the advancement of science and the entertainment of citizens young and old, killing 400,000,000 of the enemy on **HEETH**. Fun and merriment was had by all viewing the joyous dismemberment and electrocution of Freedom’s enemies, delivered by the experimental Orbital 120MM HE/EMS Barrage. (12:25am UTC 20th Dec 2025\)  
+**Cirrus** is liberated (03:58am UTC 21st Dec 2025\)  
+DSS deploys to **Duma Tyr** of the ***Nanos*** sector (03:58am UTC 21st Dec 2025\)  
+DSS effect Eagle Storm is activated (04:46am UTC 21st Dec 2025\)
+
+Day \#683 9:00am 21st Dec 2025  
+Dispatch: ARSENAL AUGMENTATION. To engender a spirit of righteous reckoning, all Helldiver deployments will be augmented with the ORBITAL LASER for the next 24 hours. (09:59am UTC 21st Dec 2025\)  
+**Duma Tyr** is liberated (12:59am UTC 22nd Dec 2025\)  
+**Tarsh** decay rate changes to \-1.0% per hour (12:59am UTC 22nd Dec 2025\)  
+DSS deploys to **Julheim** of the ***Nanos*** sector (12:59am UTC 22nd Dec 2025\)  
+DSS effect Eagle Storm stops (04:47am UTC 22nd Dec 2025\)
+
+Day \#684 9:00am 22nd Dec 2025  
+**Hort** of the ***Rigel*** sector is attacked by Lvl 17 Illuminate (09:28am UTC 22nd Dec 2025\)  
+**Hort** Region 0 On-Earsahou City is besieged by Humans (09:28am UTC 22nd Dec 2025\)  
+Dispatch: ARSENAL AUGMENTATION. To foster a greater sense of peace among citizens, all Helldiver deployments will be augmented with the HEAVY MACHINE GUN for the next 24 hours. (10:00am UTC 22nd Dec 2025\)  
+DSS deploys to **Hort** of the ***Rigel*** sector (03:17pm UTC 22nd Dec 2025\)  
+**Hort** Region 1 Clockstop City is besieged by Humans (10:13pm UTC 22nd Dec 2025\)
+
+Day \#685 9:00am 23rd Dec 2025  
+***Minor Order*** | A2-12-6 Kill Enemies On A Recon Campaign 2 is issued | Objective: Eradicate (10:01am UTC 23rd Dec 2025\)  
+Dispatch: NEW STRATEGIC OPPORTUNITY. As the Festival of Reckoning moves into its second phase, with the official theme of “Gratitude,” our citizens gather to list the gifts of the Federation: Freedom. Managed Choices. Security. It is with this spirit of Gratitude that High Command authorizes the second modified Stratagem for Experimental Testing: the Incendiary Gatling Barrage, available on **HEETH**, **MARFARK**, and **NEW STOCKHOLM**. As before, the Helldivers are encouraged to celebrate the ongoing Festival with unprejudiced enthusiasm, by reaching the targeted kill count on any of the chosen planets. (10:01am UTC 23rd Dec 2025\)  
+**Hort** defense is won (11:29am UTC 23rd Dec 2025\)  
+DSS deploys to **Julheim** of the ***Nanos*** sector (11:30am UTC 23rd Dec 2025\)  
+DSS effect Heavy Ordnance Distribution is activated (07:00am UTC 24th Dec 2025\)
+
+Day \#686 9:00am 24th Dec 2025  
+**Borea** is liberated (09:50am UTC 24th Dec 2025\)  
+↳ ***Sagan*** sector is fully under Human control (09:50am UTC 24th Dec 2025\)  
+Dispatch: ARSENAL AUGMENTATION. That all may dwell happily in the bonds of citizenship, all Helldiver deployments will be augmented with the DE-ESCALATOR and "GUARD DOG" K-9 for the next 48 hours. (10:01am UTC 24th Dec 2025\)  
+**Julheim** Region 0 Frostown Megacity has fallen to Humans (10:04am UTC 24th Dec 2025\)
 
 #### Day Zero
 
@@ -9906,13 +9976,13 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-147 Total M/SOs: 110 wins, 36 losses, 1 pending, (75.3%)  
+150 Total M/SOs: 112 wins, 36 losses, 2 pending, (75.7%)  
 40 Liberate M/SOs: 26 wins, 14 losses, (65%)  
-33 Control M/SOs: 29 wins, 3 losses, 1 pending, (90.6%)  
+33 Control M/SOs: 30 wins, 3 losses, (90.9%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
-21 Eradicate M/SOs: 16 wins, 5 losses, (76.2%)  
+23 Eradicate M/SOs: 17 wins, 5 losses, 1 pending, (77.3%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
-3 Conquest M/SOs: 1 win, 2 losses, (33.3%)  
+4 Conquest M/SOs: 1 win, 2 losses, 1 pending, (33.3%)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
 1 Extraction M/SO: 0 wins, 1 loss, (0%)  
 33 Combo M/SOs: 26 wins, 7 losses, (78.8%)  
@@ -9946,9 +10016,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Automaton Front M/SOs
 
-47 Automaton M/SOs: 33 wins, 13 losses, 1 pending, (71.7%)  
+46 Automaton M/SOs: 33 wins, 13 losses, (71.7%)  
 19 Liberate M/SOs: 12 wins, 7 losses, (63.2%)  
-13 Control M/SOs: 11 wins, 1 loss, 1 pending, (91.7%)  
+12 Control M/SOs: 11 wins, 1 loss, (91.7%)  
 5 Defend M/SOs: 3 wins, 2 losses, (60%)  
 3 Eradicate M/SOs: 2 wins, 1 loss, (66.7%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
@@ -9986,13 +10056,13 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Multi-Fronts M/SOs
 
-29 Multi-Fronts M/SOs: 17 wins, 12 losses, (58.6%)  
+33 Multi-Fronts M/SOs: 19 wins, 12 losses, 2 pending, (61.3%)  
 3 Liberate M/SOs: 1 win, 2 losses, (33.3%)  
-4 Control M/SOs: 3 wins, 1 loss, (75%)  
+5 Control M/SOs: 4 wins, 1 loss, (80%)  
 1 Defend M/SO: 1 win, 0 losses, (100%)  
-6 Eradicate M/SOs: 3 wins, 3 losses, (50%)  
+8 Eradicate M/SOs: 4 wins, 3 losses, 1 pending, (57.1%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
-3 Conquest M/SOs: 1 win, 2 losses, (33.3%)  
+4 Conquest M/SOs: 1 win, 2 losses, 1 pending, (33.3%)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
 0 Extraction M/SOs: 0 wins, 0 losses, (???)  
 12 Combo M/SOs: 8 wins, 4 losses, (66.7%)  
