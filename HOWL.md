@@ -7020,7 +7020,7 @@ DSS deploys to **Achernar Secundus** of the ***Borgus*** sector (01:06am UTC 2nd
 **Crimsica** Region 0 Lil'Ome Settlement is besieged by Humans (06:22am UTC 2nd Aug 2025\)
 
 Day \#542 9:00am 2nd Aug 2025  
-Assault Division: ***Spore Burst Strain*** U1H divides into 2 groups, \[U1H, U1J\] (11:00am UTC 2nd Aug 2025\)  
+Assault Division: ***Spore Burst Strain*** U1H divides into 2 groups \[U1H, U1J\] (11:00am UTC 2nd Aug 2025\)  
 Assault Division: ***Spore Burst Strain*** U1J deploys to **Achird III** (11:00am UTC 2nd Aug 2025\)  
 **Turing** of the ***Umlaut*** sector is attacked by Lvl 43 Terminids (11:58am UTC 2nd Aug 2025\)  
 **Turing** Region 2 Periwinkle Mills City is besieged by Humans (11:58am UTC 2nd Aug 2025\)  
@@ -9030,7 +9030,7 @@ DSS deploys to **Elysian Meadows** of the ***Guang*** sector (11:03pm UTC 30th N
 DSS deploys to **Ain-5** of the ***Hanzo*** sector (03:03am UTC 1st Dec 2025\)  
 DSS effect Orbital Blockade is activated (03:53am UTC 1st Dec 2025\)
 
-#### December 2025 | Day 663 \- Now
+#### December 2025 | Day 663 \- 693
 
 Day \#663 9:00am 1st Dec 2025  
 **Ain-5** is liberated (10:21am UTC 1st Dec 2025\)  
@@ -9352,7 +9352,128 @@ Day \#686 9:00am 24th Dec 2025
 **Borea** is liberated (09:50am UTC 24th Dec 2025\)  
 ↳ ***Sagan*** sector is fully under Human control (09:50am UTC 24th Dec 2025\)  
 Dispatch: ARSENAL AUGMENTATION. That all may dwell happily in the bonds of citizenship, all Helldiver deployments will be augmented with the DE-ESCALATOR and "GUARD DOG" K-9 for the next 48 hours. (10:01am UTC 24th Dec 2025\)  
-**Julheim** Region 0 Frostown Megacity has fallen to Humans (10:04am UTC 24th Dec 2025\)
+**Julheim** Region 0 Frostown Megacity has fallen to Humans (10:04am UTC 24th Dec 2025\)  
+**Julheim** is liberated (08:47pm UTC 24th Dec 2025\)  
+↳ **Nanos** sector is fully under Human control (08:47pm UTC 24th Dec 2025\)  
+Assault Division: ***Incineration Corps*** U7B is routed (08:47pm UTC 24th Dec 2025\)  
+DSS deploys to **Charon Prime** of the ***Andromeda*** sector (08:47pm UTC 24th Dec 2025\)  
+DSS effect Heavy Ordnance Distribution stops (07:00am UTC 25th Dec 2025\)
+
+Day \#687 9:00am 25th Dec 2025  
+Dispatch: FESTIVAL OF RECKONING CAROL. All Helldivers are invited to join in the classic holiday carol "O Come, And Report Them:" O Come, and report them, dissidents and traitors, Inform, inform ye on Treachery\! Come and report them, tell on all your neighbors\! O come let us arrest them; O come let us arrest them; O come let us arrest them, traitors and scum\! (10:02am UTC 25th Dec 2025\)  
+DSS effect Orbital Blockade is activated (11:02am UTC 25th Dec 2025\)
+
+Day \#688 9:00am 26th Dec 2025  
+Dispatch: ARSENAL AUGMENTATION. That this reckoning may be spirited and just, all Helldiver deployments will be augmented with the ORBITAL RAILCANNON STRIKE for the next 24 hours. (10:02am UTC 26th Dec 2025\)  
+DSS effect Orbital Blockade stops (11:03am UTC 26th Dec 2025\)  
+Assault Division: ***Predator Strain*** U9A leaves **Esker** (01:47pm UTC 26th Dec 2025\)  
+Assault Division: ***Predator Strain*** U9A deploys to **Bore Rock** (01:48pm UTC 26th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U3A divides into 2 groups \[U3A, U3B\] (01:48pm UTC 26th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U3B deploys to **Esker** (01:48pm UTC 26th Dec 2025\)  
+Assault Division: ***Rupture Strain*** U6A deploys to **Fori Prime** (01:49pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A deploys to **Aurora Bay** (01:50pm UTC 26th Dec 2025\)  
+**Alamak VII** of the ***Hanzo*** sector is attacked by Lvl 34 Illuminate (01:51pm UTC 26th Dec 2025\)  
+**Alamak VII** Region 3 Filibuster Megacity is besieged by Humans (01:51pm UTC 26th Dec 2025\)  
+**Charon Prime** is liberated (02:33pm UTC 26th Dec 2025\)  
+↳ **Martale** liberation campaign starts (02:33pm UTC 26th Dec 2025\)  
+**Martale** Region 0 Songguo Cun Settlement is besieged by Humans (02:33pm UTC 26th Dec 2025\)  
+DSS deploys to **Crimsica** of the ***Draco*** sector (02:34pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A leaves **Aurora Bay** (02:49pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A deploys to **Choohe** (02:50pm UTC 26th Dec 2025\)  
+DSS deploys to **Alamak VII** of the ***Hanzo*** sector (03:19pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A leaves **Choohe** (03:49pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A deploys to **Menkent** (03:50pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A leaves **Menkent** (04:49pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A deploys to **Vernen Wells** (04:50pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A leaves **Vernen Wells** (05:49pm UTC 26th Dec 2025\)  
+***Minor Order*** | A2-12-6 Kill Enemies On A Recon Campaign 2 is won | Objective: Eradicate (05:53pm UTC 26th Dec 2025\)  
+**Tarsh** of the ***Marspira*** sector is attacked by Lvl 59 Automatons (05:51pm UTC 26th Dec 2025\)  
+**Tarsh** Region 1 Freedom's Torch Settlement is besieged by Humans (05:51pm UTC 26th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A deploys to **Tarsh** (05:51pm UTC 26th Dec 2025\)  
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. Citizens across the Federation celebrate the righteous, joyous deliverance of Justice to our enemies, watching as the Helldivers have reached the targeted kill count on **MARFARK**. The holiday spirit can be seen and felt across the Galaxy, not least in the record-breaking sales of commercial goods. (05:53pm UTC 26th Dec 2025\)  
+**Tarsh** Region 1 Freedom's Torch Settlement has fallen to Humans (09:54pm UTC 26th Dec 2025\)  
+**Alamak VII** Region 0 Kesuma Town is besieged by Humans (11:08pm UTC 26th Dec 2025\)  
+DSS deploys to **Tarsh** of the ***Marspira*** sector (11:19pm UTC 26th Dec 2025\)
+
+Day \#689 9:00am 27th Dec 2025  
+Dispatch: ARSENAL AUGMENTATION. That our enemies may suffer greatly, all Helldiver deployments will be augmented with the Shield Generator Relay for the next 24 hours. (10:03am UTC 27th Dec 2025\)  
+**Tarsh** Region 0 Fortitude Settlement is besieged by Humans (04:44pm UTC 27th Dec 2025\)  
+**Alamak VII** Region 1 Ungu City is besieged by Humans (07:19pm UTC 27th Dec 2025\)  
+**Alamak VII** Region 0 Kesuma Town has fallen to Humans (09:17pm UTC 27th Dec 2025\)  
+**Tarsh** Region 0 Fortitude Settlement has fallen to Humans (11:43pm UTC 27th Dec 2025\)  
+**Alamak VII** Region 2 No Compound Settlement is besieged by Humans (05:46am UTC 28th Dec 2025\)
+
+Day \#690 9:00am 28th Dec 2025  
+***Minor Order*** | A2-12-7 Kill Enemies On A Recon Campaign 3 is issued | Objective: Eradicate (10:03am UTC 28th Dec 2025\)  
+Dispatch: NEW STRATEGIC OPPORTUNITY. As the Festival of Reckoning enters its third and final phase, the theme of “Vengeance” fills the hearts of Super Earth citizens. The Helldivers are ordered to aid in the testing of the final experimental Stratagem: the Smoke-Enhanced Walking Barrage, available for use on MARFARK, HEETH, and NEW STOCKHOLM. The Helldivers are ordered to reach the designated kill count on any one of these planets. (10:03am UTC 28th Dec 2025\)  
+**Alamak VII** defense is failed (01:53pm UTC 28th Dec 2025\)  
+**Alamak VII** liberation campaign starts (01:53pm UTC 28th Dec 2025\)  
+**Alamak VII** Region 0 Kesuma Town is besieged by Humans (01:53pm UTC 28th Dec 2025\)  
+**Tarsh** Region 2 Fearless Hollow Settlement has fallen to Human (02:59pm UTC 28th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A leaves **Tarsh** (05:50pm UTC 28th Dec 2025\)  
+**Tarsh** defense is failed (05:52pm UTC 28th Dec 2025\)  
+↳ **Tarsh** liberation campaign starts (05:52pm UTC 28th Dec 2025\)  
+↳ **Vernen Wells** liberation campaign ends (05:52pm UTC 28th Dec 2025\)  
+**Tarsh** Region 0 Fortitude Settlement is besieged by Humans (05:52pm UTC 28th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A deploys to **Tarsh** (12:26am UTC 29th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U3B leaves **Esker** (12:29am UTC 29th Dec 2025\)  
+Assault Division: ***Dragonroaches*** U3B deploys to **Bore Rock** (12:30am UTC 29th Dec 2025\)  
+**Tarsh** Region 0 Fortitude Settlement has fallen to Humans (01:22am UTC 29th Dec 2025\)
+
+Day \#691 9:00am 29th Dec 2025  
+Dispatch: ARSENAL AUGMENTATION. That we recall those lost through retribution of their murderers, all Helldiver deployments will be augmented with the PORTABLE HELLBOMB for the next 24 hours. (10:04am UTC 29th Dec 2025\)  
+**Curia** of the ***Marspira*** sector is attacked by Lvl 19 Automatons (01:29pm UTC 29th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A leaves **Tarsh** (01:29pm UTC 29th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A deploys to **Curia** (01:30pm UTC 29th Dec 2025\)  
+DSS deploys to **Curia** of the ***Marspira*** sector (07:21pm UTC 29th Dec 2025\)
+
+Day \#692 9:00am 30th Dec 2025  
+Dispatch: Wally indicated to his superiors that several of the other walruses had made concerning comments about the righteousness of Super Earth’s wars. They were arrested, the storm ended, and production continued, just in time. Wally’s bravery had saved the Festival of Reckoning. (10:04am UTC 30th Dec 2025\)  
+Dispatch: A RECKONING STORY. To augment holiday cheer, the Helldivers are reminded of the classic tale of Wally, the White-Nosed Walrus: Wally was ostracized from the other walruses at the weapons factory, because of his odd white nose. He wasn’t included in walrus games. But one day, there was a terrible storm, and the factory shut down. (10:05am UTC 30th Dec 2025\)  
+**Curia** defense is won (12:10pm UTC 30th Dec 2025\)  
+Assault Division: ***Jet Brigade*** U9A is routed (12:10pm UTC 30th Dec 2025\)  
+DSS deploys to **Tarsh** of the ***Marspira*** sector (12:11pm UTC 30th Dec 2025\)  
+DSS effect Eagle Storm is activated (01:59pm UTC 30th Dec 2025\)  
+**Crimsica** Region 1 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch II City has fallen to Humans (11:32pm UTC 30th Dec 2025\)  
+**Tarsh** Region 2 Fearless Hollow Settlement is besieged by Humans (04:10am UTC 31st Dec 2025\)
+
+Day \#693 9:00am 31st Dec 2025  
+Dispatch: ARSENAL AUGMENTATION. That Freedom be cherished and held close, all Helldiver deployments will be augmented with the AIRBURST ROCKET LAUNCHER for the next 24 hours. (10:05am UTC 31st Dec 2025\)  
+**Tarsh** Region 2 Fearless Hollow Settlement has fallen to Humans (10:49am UTC 31st Dec 2025\)  
+**Tarsh** Region 1 Freedom's Torch Settlement is besieged by Humans (11:52am UTC 31st Dec 2025\)  
+DSS effect Eagle Storm stops (01:59pm UTC 31st Dec 2025\)  
+**Tarsh** Region 1 Freedom's Torch Settlement has fallen to Humans (06:14pm UTC 31st Dec 2025\)  
+***Minor Order*** | A2-12-7 Kill Enemies On A Recon Campaign 3 is failed | Objective: Eradicate (11:04pm UTC 31st Dec 2025\)  
+Dispatch: FESTIVAL OF RECKONING GIFT. In the spirit of Generosity, Gratitude, and Vengeance, High Command bequeaths to all Helldivers a seasonal cape to celebrate the end of this year’s Festival of Reckoning. (11:05pm UTC 31st Dec 2025\)  
+Dispatch: STRATEGIC OPPORTUNITY LOST. Though weapons were thoroughly tested, and much fun and merriment was had by all, the failure to reach the targeted kill count on any single planet has left our citizens and weaponry scientists with an unseasonal feeling of disappointment and unfulfillment. (11:05pm UTC 31st Dec 2025\)  
+***Major Order*** | A2-12-4 Festival of Reckoning 2025 is won | Objective: Conquest (11:05pm UTC 31st Dec 2025\)  
+Dispatch: FESTIVAL'S END. The Festival of Reckoning has concluded with resounding success. The Helldivers have achieved a net expansion of Federation territory, gifting Super Earth with the seasonal bloodlust all good children deserve. A Vengeful Festival to each and every one of us. (11:07pm UTC 31st Dec 2025\)  
+**Heeth** is no longer classified as a Recon campaign (12:06am UTC 1st Jan 2025\)  
+**Marfark** is no longer classified as a Recon campaign (12:07am UTC 1st Jan 2025\)
+
+#### January 2026 | Day 694 \- Now
+
+Day \#694 9:00am 1st Jan 2026  
+**Heeth** decay rate changes to \-1.0% decay (10:23am UTC 1st Jan 2026\)  
+**Tarsh** is liberated (02:50pm UTC 1st Jan 2026\)  
+↳ **Vernen Wells** liberation campaign starts (02:50pm UTC 1st Jan 2026\)  
+↳ ***Marspira*** sector is fully under Human control (02:50pm UTC 1st Jan 2026\)  
+**Vernen Wells** Region 2 Anne’s Vigil Town is besieged by Humans (02:50pm UTC 1st Jan 2026\)  
+DSS deploys to **Crimsica** of the ***Draco*** sector (02:50pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Merak** (04:10pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Merak** (06:09pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Penta** (06:10pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Penta** (08:09pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Lesath** (08:10pm UTC 1st Jan 2026\)  
+**Gaellivare** of the ***Talus*** sector is attacked by Lvl 29 Automatons (10:10pm UTC 1st Jan 2026\)  
+**Gaellivare** Region 1 Malmberget Megacity is besieged by Humans (10:10pm UTC 1st Jan 2026\)  
+**Vog-Sojoth** of the ***Tanis*** sector is attacked by Lvl 24 Automatons (10:10pm UTC 1st Jan 2026\)  
+**Vog-Sojoth** Region 0 Haerstvik Town is besieged by Humans (10:10pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Lesath** (10:10pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A divides into 2 groups \[U8A, U8B\] (10:10pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Gaellivare** (10:10pm UTC 1st Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8B deploys to **Vog-Sojoth** (10:10pm UTC 1st Jan 2026\)  
+DSS deploys to **Lesath** of the ***Lacaille*** sector (03:22am UTC 2nd Jan 2026\)
 
 #### Day Zero
 
@@ -9976,13 +10097,13 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-150 Total M/SOs: 112 wins, 36 losses, 2 pending, (75.7%)  
+151 Total M/SOs: 114 wins, 37 losses, (75.5%)  
 40 Liberate M/SOs: 26 wins, 14 losses, (65%)  
 33 Control M/SOs: 30 wins, 3 losses, (90.9%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
-23 Eradicate M/SOs: 17 wins, 5 losses, 1 pending, (77.3%)  
+24 Eradicate M/SOs: 18 wins, 6 losses, (75%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
-4 Conquest M/SOs: 1 win, 2 losses, 1 pending, (33.3%)  
+4 Conquest M/SOs: 2 wins, 2 losses, (50%)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
 1 Extraction M/SO: 0 wins, 1 loss, (0%)  
 33 Combo M/SOs: 26 wins, 7 losses, (78.8%)  
@@ -10056,13 +10177,13 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Multi-Fronts M/SOs
 
-33 Multi-Fronts M/SOs: 19 wins, 12 losses, 2 pending, (61.3%)  
+34 Multi-Fronts M/SOs: 21 wins, 13 losses, (61.8%)  
 3 Liberate M/SOs: 1 win, 2 losses, (33.3%)  
 5 Control M/SOs: 4 wins, 1 loss, (80%)  
 1 Defend M/SO: 1 win, 0 losses, (100%)  
-8 Eradicate M/SOs: 4 wins, 3 losses, 1 pending, (57.1%)  
+9 Eradicate M/SOs: 5 wins, 4 losses, (55.6%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
-4 Conquest M/SOs: 1 win, 2 losses, 1 pending, (33.3%)  
+4 Conquest M/SOs: 2 wins, 2 losses, (50%)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
 0 Extraction M/SOs: 0 wins, 0 losses, (???)  
 12 Combo M/SOs: 8 wins, 4 losses, (66.7%)  
