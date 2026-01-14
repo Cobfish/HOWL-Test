@@ -38,7 +38,7 @@ Day \#7 9:00am 14th Feb 2024
 ↳ ***Orion*** sector is fully under Human control (02:07pm UTC 14th Feb 2024\)  
 ↳ **Meridia** liberation campaign starts (02:07pm UTC 14th Feb 2024\)  
 ↳ **Turing** liberation campaign starts (02:07pm UTC 14th Feb 2024\)  
-↳ ***Major Order*** | A1-2-1 Operation Valiant Enclosure is won | Objective: Liberate (02:07pm UTC 14th Feb 2024\)
+***Major Order*** | A1-2-1 Operation Valiant Enclosure is won | Objective: Liberate (02:07pm UTC 14th Feb 2024\)
 
 Day \#8 9:00am 15th Feb 2024  
 **Mantes** of the ***Xzar*** sector is attacked by Lvl N/A Automatons (12:00pm UTC 15th Feb 2024\)  
@@ -155,7 +155,7 @@ Day \#23 9:00am 1st Mar 2024
 **Turing** of the ***Umlaut*** sector instantly flips to Terminid control (03:51pm UTC 1st Mar 2024\)  
 ↳ **Turing** liberation campaign starts (03:51pm UTC 1st Mar 2024\)  
 **Veld** is liberated (08:28pm UTC 1st Mar 2024\)  
-↳ ***Major Order*** | A1-2-3 Liberate **Veld** Containment is won | Objective: Liberate (08:28pm UTC 1st Mar 2024\)  
+***Major Order*** | A1-2-3 Liberate **Veld** Containment is won | Objective: Liberate (08:28pm UTC 1st Mar 2024\)  
 ***Major Order*** | A1-3-1 Control **Heeth** and **Angel's Venture** is issued | Objective: Control (08:30pm UTC 1st Mar 2024\)  
 **Fenrir III** of the ***Umlaut*** sector instantly flips to Terminid control (09:04pm UTC 1st Mar 2024\)  
 ↳ **Fenrir III** liberation campaign starts (09:04pm UTC 1st Mar 2024\)  
@@ -266,7 +266,7 @@ Day \#30 9:00am 8th Mar 2024
 ↳ **Turing** is still accessible despite being cut off (07:39pm UTC 8th Mar 2024\)  
 **Tien Kwan** is liberated (03:48pm UTC 8th Mar 2024\)  
 ↳ ***Theseus*** sector is fully under Human control (03:48pm UTC 8th Mar 2024\)  
-↳ ***Major Order*** | A1-3-2 Liberate **Tien Kwan** is won | Objective: Liberate (03:48pm UTC 8th Mar 2024\)  
+***Major Order*** | A1-3-2 Liberate **Tien Kwan** is won | Objective: Liberate (03:48pm UTC 8th Mar 2024\)  
 Dispatch: Well done, Helldivers. **Tien Kwan** has been returned to the care of Managed Democracy. The Morgunson Arsenal, and its stockpile of freshly-produced Exosuits, were recovered intact. The EXO-45 PATRIOT EXOSUIT is now available for requisition. (03:51pm UTC 8th Mar 2024\)
 
 Day \#31 9:00am 9th Mar 2024
@@ -307,7 +307,7 @@ Dispatch: **HEETH** DEFENDED. After countless noble and unavoidable sacrifices, 
 Dispatch: **MERIDIA** SECURED. The Terminid Control System is now fully activated on **Meridia**. (07:24pm UTC 15th Mar 2024\)  
 **Erata Prime** is liberated (03:50am UTC 16th Mar 2024\)  
 ↳ ***Umlaut*** sector is fully under Human control (03:50am UTC 16th Mar 2024\)  
-↳ ***Major Order*** | A1-3-3 TCS Activation is won | Objective: Liberate (03:50am UTC 16th Mar 2024\)  
+***Major Order*** | A1-3-3 TCS Activation is won | Objective: Liberate (03:50am UTC 16th Mar 2024\)  
 Dispatch: **ERATA PRIME** SECURED. The Terminid Control System is now fully activated on **Erata Prime**. (07:47am UTC 16th Mar 2024\)  
 Dispatch: The Terminid Control System is fully activated. The Termicide is working as intended, culling millions of Terminids on the Barrier Planets. Our citizens may finally rest easy, knowing their children are forever safe from being eaten alive by fascist insects. (07:47am UTC 16th Mar 2024\)
 
@@ -415,7 +415,7 @@ Dispatch: ARSENAL EXPANSION NOTICE. In order to support the destruction of the A
 Day \#51 9:00am 29th Mar 2024  
 **Troost** is liberated (12:39pm UTC 29th Mar 2024\)  
 ↳ ***Trigon*** sector is fully under Human control (12:39pm UTC 29th Mar 2024\)  
-↳ ***Major Order*** | A1-3-6 Operation Swift Disassembly Phase One is won | Objective: Liberate (12:39pm UTC 29th Mar 2024\)  
+***Major Order*** | A1-3-6 Operation Swift Disassembly Phase One is won | Objective: Liberate (12:39pm UTC 29th Mar 2024\)  
 Dispatch: OP SWIFT DISASSEMBLY, PHASE I—COMPLETED. The Automaton Comms Array on **Troost** has been decommissioned. Strangely, it appears to have been broadcasting outside the Galactic Frontier. Analysts are working to determine more, but much data was already deleted. However, we did discover a transmission containing blueprints for a new Automaton type: aerial gunships. With this advance warning, our hardworking factory laborers have been instructed to accelerate production of our most effective anti-air weaponry. (12:47pm UTC 29th Mar 2024\)  
 **Fori Prime** of the ***Draco*** sector is attacked by Lvl N/A Terminids (12:51pm UTC 29th Mar 2024\)  
 ***Major Order*** | A1-3-7 Operation Swift Disassembly Phase Two is issued | Objective: Liberate (12:53pm UTC 29th Mar 2024\)  
@@ -453,7 +453,7 @@ Dispatch: OP SWIFT DISASSEMBLY, PHASE II—FAILED. The Automatons have retained 
 Dispatch: NEW MAJOR ORDER. Several weeks ago, our citizens watched in horror as **Malevelon Creek** fell to the Automatons. Millions of valiant heroes perished attempting to defend it. For too long, the bots have maintained their illegal occupation, desecrating the memory of the fallen by rapidly depleting the planet's exceptionally rich rhodium deposits. This travesty will be allowed to continue no longer. Take vengeance for the fallen. Honor our heroes. End the theft of valuable minerals. Liberate **Malevelon Creek**. (01:04pm UTC 1st Apr 2024\)  
 **Malevelon Creek** is liberated (05:22pm UTC 1st Apr 2024\)  
 ↳ **Maia** liberation campaign starts (05:22pm UTC 1st Apr 2024\)  
-↳ ***Major Order*** | A1-4-1 Liberate **Malevelon Creek** is won | Objective: Liberate (05:22pm UTC 1st Apr 2024\)  
+***Major Order*** | A1-4-1 Liberate **Malevelon Creek** is won | Objective: Liberate (05:22pm UTC 1st Apr 2024\)  
 Dispatch: **MALEVELON CREEK** LIBERATED. At long last, **Malevelon Creek** is free. The heroes who died in its defense can finally rest in peace, knowing justice has been served, and the planet's rhodium deposits will be mined by the citizens who rightfully own them. Colonists are returning to the ruins of their settlements, pickaxes in hand, hopeful for a prosperous future. For at last, dawn breaks upon a free Creek. (05:32pm UTC 1st Apr 2024\)  
 **Ubanea** of the ***Severin*** sector is attacked by Lvl 8 Automatons (05:33pm UTC 1st Apr 2024\)  
 ***Major Order*** | A1-4-2 Operation Swift Disassembly Phase Three is issued | Objective: Control (05:44pm UTC 1st Apr 2024\)  
@@ -501,7 +501,7 @@ Day \#60 9:00am 7th Apr 2024
 Dispatch: **TIBIT** LIBERATED. The factories on **Tibit** have been destroyed. Now, the enemy will be forced to distribute their existing forces more thinly, lowering their planetary resistance. The Automatons are beginning to crumble. Keep up the attack. (05:23pm UTC 7th Apr 2024\)  
 **Durgen** is liberated (07:22pm UTC 7th Apr 2024\)  
 ↳ ***Severin*** sector is fully under Human control (07:22pm UTC 7th Apr 2024\)  
-↳ ***Major Order*** | A1-4-3 Operation Swift Disassembly Phase Four is won | Objective: Control (07:22pm UTC 7th Apr 2024\)  
+***Major Order*** | A1-4-3 Operation Swift Disassembly Phase Four is won | Objective: Control (07:22pm UTC 7th Apr 2024\)  
 Dispatch: OPERATION SWIFT DISASSEMBLY—SUCCESSFUL. The Automaton threat has been fully eradicated from our galaxy. Our citizens are safe, our heroic fallen avenged. With the bots eradicated and bugs contained, the galaxy is free once more. The supposed threat posed by the so-called "Reclamation" can be considered fully ended. Out of an abundance of caution, SEAF teams will continue to search what remains of the Automaton facilities and servers for any additional intelligence. (07:30pm UTC 7th Apr 2024\)  
 ***Major Order*** | A1-4-4 Liberate **Hellmire**, **Estanu** and **Crimsica** is issued | Objective: Liberate (08:06pm UTC 7th Apr 2024\)  
 Dispatch: NEW MAJOR ORDER. With the Automatons eradicated and Terminids contained, the time has come to work towards a more prosperous future for all citizens. To that end, construction of new, safer, and more efficient E-710 farms will soon commence. On these farms, Terminids will be raised in spacious enclosures and enriched with state-of-the-art nutritional supplements, all under careful supervision. Clear the way for the safe construction of the E-710 farms. (08:06pm UTC 7th Apr 2024\)  
@@ -759,7 +759,7 @@ Day \#77 9:00am 24th Apr 2024
 
 Day \#78 9:00am 25th Apr 2024  
 **Ustotu** defense is won (12:46pm UTC 25th Apr 2024\)  
-↳ ***Major Order*** | A1-4-9 Defense on Two Fronts Defend 10 is won | Objective: Defend (01:43pm UTC 25th Apr 2024\)  
+***Major Order*** | A1-4-9 Defense on Two Fronts Defend 10 is won | Objective: Defend (01:43pm UTC 25th Apr 2024\)  
 Dispatch: MAJOR ORDER WON. Freedom has overcome oppression once more. Even the combined might of the Terminids and Automatons was no match for the fierce and obedient resistance of the Helldivers. Though some ground was lost, our enemies are exhausted, their assault broken upon the immovable shield wall of the Helldivers. The fight is far from over, but the light of Liberty shines bright over the worlds of the Federation today. (01:43pm UTC 25th Apr 2024\)  
 **Estanu** of the ***Draco*** sector is attacked by Lvl 9 Terminids (07:26pm UTC 25th Apr 2024\)
 
@@ -1029,7 +1029,7 @@ Dispatch: STRATEGIC UPDATE. Automaton resistance has faltered, no doubt due to t
 
 Day \#109 9:00am 26th May 2024  
 **Varylia 5** is liberated (02:28pm UTC 26th May 2024\)  
-↳ ***Major Order*** | A1-5-5 Liberate **Varylia 5** is won | Objective: Liberate (02:30pm UTC 26th May 2024\)  
+***Major Order*** | A1-5-5 Liberate **Varylia 5** is won | Objective: Liberate (02:30pm UTC 26th May 2024\)  
 Dispatch: MAJOR ORDER WON. The Automaton Petafactory on **Varylia 5** has been liberated by the Helldivers, thwarting their expansion and allowing production to begin on the EXO-49 EMANCIPATOR EXOSUIT. Consult the Galactic Map on your Super Destroyer for a full briefing. (02:32pm UTC 26th May 2024\)  
 Dispatch: INTEL BRIEF. Spore production on the **Meridia** Supercolony has doubled overnight, indicating continued evolution of the Terminid threat. Increased Terminid outbreaks on nearby planets is highly likely. Helldivers are advised to exercise extreme vigilance in stamping out these outbreaks, lest they spread out of control. (03:00pm UTC 26th May 2024\)  
 **Heeth** of the ***Orion*** sector is attacked by Lvl 12 Terminids (03:03pm UTC 26th May 2024\)  
@@ -1103,10 +1103,10 @@ Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on 
 **Meridia** is liberated (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Meridia** collapses into a black hole (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Meridia** of the ***Umlaut*** sector is established as a ***Meridian*** **Black Hole** POI (07:13pm UTC 2nd Jun 2024\)  
-↳ ***Major Order*** | A1-5-7 Operation Enduring Peace Phase Two is won | Objective: Liberate (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Estanu** liberation campaign starts (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Crimsica** liberation campaign starts (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Fenrir III** defense is auto-won via gambit (07:16pm UTC 2nd Jun 2024\)  
+***Major Order*** | A1-5-7 Operation Enduring Peace Phase Two is won | Objective: Liberate (07:13pm UTC 2nd Jun 2024\)  
 Dispatch: OPERATION "ENDURING PEACE"—SUCCESSFUL. The Supercolony has been destroyed. In its place, a beautiful black hole remains, drawing in every Terminid spore in the system. Congratulations is in order. The Helldivers won a historic victory for Managed Democracy today. Consult the Galactic Map on your ship for more information. (07:22pm UTC 2nd Jun 2024\)  
 **Vega Bay** of the ***Ymir*** sector is attacked by Lvl 8 Automatons (07:37pm UTC 2nd Jun 2024\)
 
@@ -1319,7 +1319,7 @@ Day \#135 9:00am 21st Jun 2024
 **Fori Prime** is liberated (09:12pm UTC 21st Jun 2024\)  
 ↳ ***Draco*** sector is fully under Human control (09:12pm UTC 21st Jun 2024\)  
 ↳ **Oshaune** liberation campaign starts (09:12pm UTC 21st Jun 2024\)  
-↳ ***Major Order*** | A1-6-4 Hive Breaker is won | Objective: Liberate (09:12pm UTC 21st Jun 2024\)  
+***Major Order*** | A1-6-4 Hive Breaker is won | Objective: Liberate (09:12pm UTC 21st Jun 2024\)  
 Dispatch: MAJOR ORDER WON. The Helldivers have successfully achieved a significant reduction in Terminid population levels, proving the efficacy of targeting Terminid Nurseries directly. Many once-infested planets are now ready for our citizens to settle. This is the first step towards Terminid containment and the long-lasting prosperity it will bring our citizens. (09:18pm UTC 21st Jun 2024\)  
 **Ingmar** of the ***Xzar*** sector is attacked by Lvl 6 Automatons (09:19pm UTC 21st Jun 2024\)  
 ***Major Order*** | A1-6-5 ***Xzar*** Lockdown is issued | Objective: Control (09:22pm UTC 21st Jun 2024\)  
@@ -1531,8 +1531,8 @@ Day \#160 9:00am 16th Jul 2024
 
 Day \#161 9:00am 17th Jul 2024  
 **Martale** is liberated (11:14am UTC 17th Jul 2024\)  
-↳ ***Major Order*** | A1-7-3 Sever the ***Andromeda*** Sector is won | Objective: Liberate (11:14am UTC 17th Jul 2024\)  
 ↳ **Charon Prime** liberation campaign starts (11:14am UTC 17th Jul 2024\)  
+***Major Order*** | A1-7-3 Sever the ***Andromeda*** Sector is won | Objective: Liberate (11:14am UTC 17th Jul 2024\)  
 Dispatch: The Automaton Dominion has been fractured by the mighty assault rifle of Freedom. Thanks to the courage and obedience of the Helldivers, a large swath of Automaton-held planets are cut off from **Cyberstan**, disrupting their supplies and communications. This will significantly impact the defenses on those planets, and it will take the Automatons time to recover. Until then, and so long as our barrier holds, the cut-off planets are vulnerable to our just liberation. (11:23am UTC 17th Jul 2024\)
 
 Day \#162 9:00am 18th Jul 2024  
@@ -1707,7 +1707,7 @@ Day \#184 9:00am 9th Aug 2024
 
 Day \#185 9:00am 10th Aug 2024  
 **Bore Rock** is liberated (10:21am UTC 10th Aug 2024\)  
-↳ ***Major Order*** | A1-8-2 Eradicate Terminids on **Socorro III** is won | Objective: Eradicate/Liberate (10:21am UTC 10th Aug 2024\)  
+***Major Order*** | A1-8-2 Eradicate Terminids on **Socorro III** is won | Objective: Eradicate/Liberate (10:21am UTC 10th Aug 2024\)  
 **Erson Sands** is moderately enveloped by the Gloom (10:23am UTC 10th Aug 2024\)  
 **Gemstone Bluffs** is moderately enveloped by the Gloom (10:24am UTC 10th Aug 2024\)  
 **Nabatea Secundus** is lightly enveloped by the Gloom (10:24am UTC 10th Aug 2024\)   
@@ -1884,7 +1884,7 @@ Day \#203 9:00am 28th Aug 2024
 Dispatch: NEW MAJOR ORDER. The Ministry of Defense has finalized preparations to augment Super Destroyers with the capability to fire Orbital Napalm Barrages. However, critical shortages of polystyrene foam and scrap metal has caused production to stall. Liberate the polystyrene stockpile on **Vernen Wells**, and collect enough Automaton scrap metal to jump-start Orbital Napalm Barrage production. (11:06am UTC 28th Aug 2024\)  
 **Marfark** of the ***Andromeda*** sector is attacked by Lvl 5 Automatons (11:10am UTC 28th Aug 2024\)  
 **Marfark** defense is won (02:29am UTC 29th Aug 2024\)  
-***Andromeda*** sector is fully under Human control (02:29am UTC 29th Aug 2024\)
+↳ ***Andromeda*** sector is fully under Human control (02:29am UTC 29th Aug 2024\)
 
 Day \#204 9:00am 29th Aug 2024  
 **Pandion-XXIV** defense is won (09:55am UTC 29th Aug 2024\)  
@@ -2086,7 +2086,7 @@ Day \#233 9:00am 27th Sep 2024
 **Turing** of the ***Umlaut*** sector is attacked by Lvl 22 Terminids (10:51pm UTC 27th Sep 2024\)  
 **Gaellivare** is liberated (01:05am UTC 28th Sep 2024\)  
 ↳ **Imber** liberation campaign starts (01:05am UTC 28th Sep 2024\)  
-↳ ***Major Order*** | A1-9-5 **DSS Construction Site** is won | Objective: Liberate (01:05am UTC 28th Sep 2024\)  
+***Major Order*** | A1-9-5 **DSS Construction Site** is won | Objective: Liberate (01:05am UTC 28th Sep 2024\)  
 **Gaellivare** of the ***Talus*** sector is established as a **DSS Construction Site** POI (01:08am UTC 28th Sep 2024\)  
 DSS Construction Phase One is started (01:08am UTC 28th Sep 2024\)  
 Dispatch: MAJOR ORDER WON. The Helldivers have managed to wrench **Gaellivare** from the Automatons' clutches, securing an ideal construction site for the Democracy Space Station. A DSS Logistics Hub has been set up nearby. To build a weapon of mass liberation of this size, we will need to make significant advancements in three key areas: zero-g materials science, FTL propulsion, and gigastructure staffing. It is imperative that the DSS be completed before our enemies discover its location and attempt to destroy it. Consult your Galactic Map for more information. (01:14am UTC 28th Sep 2024\)  
@@ -2157,7 +2157,7 @@ Day \#243 9:00am 7th Oct 2024
 ↳ **Pandion-XXIV** liberation campaign starts (02:21pm UTC 7th Oct 2024\)  
 **Claorell** is liberated (03:06am UTC 8th Oct 2024\)  
 ↳ **Vog-Sojoth** liberation campaign starts (03:06am UTC 8th Oct 2024\)  
-↳ ***Major Order*** | A1-10-1 **Claorell** Forge Construction is won | Objective: Liberate (03:06am UTC 8th Oct 2024\)  
+***Major Order*** | A1-10-1 **Claorell** Forge Construction is won | Objective: Liberate (03:06am UTC 8th Oct 2024\)  
 **Claorell** of the ***Tanis*** sector is established as a **Deep Mantle Forge Complex** POI (04:52am UTC 8th Oct 2024\)  
 Dispatch: MAJOR ORDER WON. **Claorell** has been liberated from the circuit-operated grip of the Automaton Legion. An extensive network of tunnels penetrating to the depths of the planet have been flushed of all Automaton presence, and filled with eager **Super Earth** miners ready to construct the **Deep Mantle Forge Complex**. (04:53am UTC 8th Oct 2024\)
 
@@ -2272,7 +2272,7 @@ Assault Division: ***Jet Brigade*** U1A deploys to **Marfark** (04:11am UTC 21st
 Day \#257 9:00am 21st Oct 2024  
 Dispatch: SYSTEMS NOTIFICATION. Some Galactic Map users may have observed the apparent presence of enemy forces occupying dozens of planets. This issue was due to an unconcerning software glitch that has since been rectified. This experience may have given rise to some uncomfortable feelings, such as concern, terror, or abject despair. Distressed users are advised to visualize relaxing images, such as: \-a fluttering **Super Earth** flag \-a filled-out ballot \-the inevitable destruction of Freedom's enemies. (06:51pm UTC 21st Oct 2024\)  
 **Marfark** defense is won (03:36am UTC 22nd Oct 2024\)  
-↳ ***Major Order*** | A1-10-4 Stop The ***Jet Brigade*** is won | Objective: Defend (03:36am UTC 22nd Oct 2024\)  
+***Major Order*** | A1-10-4 Stop The ***Jet Brigade*** is won | Objective: Defend (03:36am UTC 22nd Oct 2024\)  
 Dispatch: MAJOR ORDER WON. After countless acts of heroic sacrifice, the advance of the ***Jet Brigade*** has at last been arrested. The Automatons' brutish venture to discover the location of the DSS and it's critical substations has yielded nothing. The tireless defense of the Helldivers has maintained the concealment of our most critical weapon—for now. (07:09am UTC 22nd Oct 2024\)  
 Assault Division: ***Jet Brigade*** U1A is routed (07:17am UTC 22nd Oct 2024\)
 
@@ -2312,7 +2312,7 @@ Day \#261 9:00am 25th Oct 2024
 ↳ **Penta** liberation campaign starts (01:09pm UTC 25th Oct 2024\)  
 ↳ **Chort Bay** liberation campaign starts (01:09pm UTC 25th Oct 2024\)  
 ↳ **Menkent** liberation campaign starts (01:09pm UTC 25th Oct 2024\)  
-↳ ***Major Order*** | A1-10-5 DSS Protection is won | Objective: Defend/Liberate (01:09pm UTC 25th Oct 2024\)  
+***Major Order*** | A1-10-5 DSS Protection is won | Objective: Defend/Liberate (01:09pm UTC 25th Oct 2024\)  
 DSS Construction Phase Two is finished (01:32pm UTC 25th Oct 2024\)  
 DSS Construction Phase Three is started (01:32pm UTC 25th Oct 2024\)  
 Dispatch: MAJOR ORDER WON. **Lesath** has been liberated by the Helldivers, pushing back the Automatons from our most precious asset: the Democracy Space Station. Should the ***Jet Brigade*** resurface, the station will be more well-protected from attack. The DSS is now in the third and final construction phase. Once this stage is complete, it will require only a massive infusion of E-710 to bring online. (01:32pm UTC 25th Oct 2024\)  
@@ -3433,7 +3433,7 @@ DSS effect Heavy Ordnance Distribution stops (09:35am UTC 1st Feb 2025\)
 ↳ ***Omega*** sector is fully under Human control (04:05am UTC 2nd Feb 2025\)  
 **Chort Bay** is liberated (05:16am UTC 2nd Feb 2025\)  
 ↳ **Choohe** liberation campaign starts (05:16am UTC 2nd Feb 2025\)  
-↳ ***Major Order*** | A2-1-5 **Jet Brigade Factories** is won | Objective: Liberate (05:16am UTC 2nd Feb 2025\)  
+***Major Order*** | A2-1-5 **Jet Brigade Factories** is won | Objective: Liberate (05:16am UTC 2nd Feb 2025\)  
 DSS deploys to **Vernen Wells** of the ***Hydra*** sector (06:12am UTC 2nd Feb 2025\)  
 Dispatch: MAJOR ORDER WON. The Automaton **Jet Brigade Factories** on **CHORT BAY** have been destroyed. The Automatons no longer possess the means to rebuild the aerial marauders that destroyed so many lives. (06:43am UTC 2nd Feb 2025\)  
 Assault Division: ***Jet Brigade*** U3A deploys to **Menkent** (06:53am UTC 2nd Feb 2025\)  
@@ -3930,7 +3930,7 @@ DSS deploys to **Myrium** of the ***Morgon*** sector (07:28pm UTC 23rd Feb 2025\
 **Fori Prime** is liberated (02:52am UTC 24th Feb 2025\)  
 ↳ ***Draco*** sector is fully under Human control (02:52am UTC 24th Feb 2025\)  
 ↳ **Oshaune** liberation campaign starts (02:52am UTC 24th Feb 2025\)  
-↳ ***Major Order*** | A2-2-4 **Fori Prime** Gloom Research Expedition is won | Objective: Liberate/Sample/Eradicate (02:52am UTC 24th Feb 2025\)  
+***Major Order*** | A2-2-4 **Fori Prime** Gloom Research Expedition is won | Objective: Liberate/Sample/Eradicate (02:52am UTC 24th Feb 2025\)  
 DSS deploys to **Bashyr** of the ***Gallux*** sector (03:28am UTC 24th Feb 2025\)  
 **Bashyr**'s invasion is repelled (06:26am UTC 24th Feb 2025\)  
 ↳ ***Gallux*** sector is fully under Human control (06:26am UTC 24th Feb 2025\)  
@@ -4635,7 +4635,7 @@ DSS effect Eagle Storm is activated (07:06pm UTC 26th Mar 2025\)
 ↳ **Erson Sands** liberation campaign starts (02:17am UTC 27th Mar 2025\)  
 ↳ **Socorro III** liberation campaign starts (02:17am UTC 27th Mar 2025\)  
 ↳ **Nivel 43** liberation campaign starts (02:17am UTC 27th Mar 2025\)  
-↳ ***Major Order*** | A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds is won | Objective: Liberate (02:17am UTC 27th Mar 2025\)  
+***Major Order*** | A2-3-5 Fuel Penrose Energy Siphon And Liberate Two Worlds is won | Objective: Liberate (02:17am UTC 27th Mar 2025\)  
 Dispatch: MAJOR ORDER WON. The Penrose Energy Siphon has been launched, following the Helldivers' successful efforts to acquire enough E-710 to power the device. The excursion appears to have been successful; our scientists have reported a decrease in the Wormhole's velocity, correlating to a reduction in Dark Energy accumulation. (02:43am UTC 27th Mar 2025\)  
 **Mort** of the ***Xzar*** sector is attacked by Lvl 9 Automatons (02:54am UTC 27th Mar 2025\)  
 **Socorro III** liberation campaign ends (02:59am UTC 27th Mar 2025\)  
@@ -4700,7 +4700,7 @@ DSS deploys to **Alderidge Cove** of the ***Guang*** sector (11:18am UTC 29th Ma
 **Meridia** moves to X 0.30460086 Y 0.120002754 (03:00pm UTC 29th Mar 2025\)  
 **Alderidge Cove**'s invasion is repelled (03:34pm UTC 29th Mar 2025\)  
 ↳ ***Guang*** sector is fully under Human control (03:34pm UTC 29th Mar 2025\)  
-↳ ***Major Order*** | A2-3-6 Repel 6 Illuminate Invasions is won | Objective: Defend (03:34pm UTC 29th Mar 2025\)  
+***Major Order*** | A2-3-6 Repel 6 Illuminate Invasions is won | Objective: Defend (03:34pm UTC 29th Mar 2025\)  
 Dispatch: MAJOR ORDER WON. The underhanded Illuminate scheme to destroy **Super Earth** has been foiled, thanks to the irrepressible might of the Helldivers. The Illuminate-created spacetime aberration known as the ***Meridian*** Singularity has been de-energized to the point where **Super Earth** is now safely out of its accurately-predicted path. Our citizens can celebrate a hard-earned victory: **Super Earth** is safe. (03:42pm UTC 29th Mar 2025\)  
 **Pilen V** of the ***Altus*** sector is no longer under threat (03:44pm UTC 29th Mar 2025\)  
 **Super Earth** of the ***Sol*** sector is no longer under threat (03:53pm UTC 29th Mar 2025\)  
@@ -5064,7 +5064,7 @@ DSS effect Heavy Ordnance Distribution is activated (02:22pm UTC 10th Apr 2025\)
 ↳ ***Quintus*** sector is fully under Human control (03:14am UTC 11th Apr 2025\)  
 **Wezen** is liberated (04:49am UTC 11th Apr 2025\)  
 ↳ **Vega Bay** liberation campaign starts (04:49am UTC 11th Apr 2025\)  
-↳ ***Major Order*** | A2-4-1 DSS Passive Upgrade Choices is won | Objective: Liberate (04:49am UTC 11th Apr 2025\)  
+***Major Order*** | A2-4-1 DSS Passive Upgrade Choices is won | Objective: Liberate (04:49am UTC 11th Apr 2025\)  
 DSS deploys to **Gar Haren** of the ***Jin Xi*** sector (04:49am UTC 11th Apr 2025\)  
 Dispatch: MAJOR ORDER WON. By returning **WEZEN** to the rightful control of **Super Earth** citizens, the Helldivers have secured the resources necessary to augment the Democracy Space Station with an Exosuit Support Bay. Moving forward, the DSS will provide rapid Exosuit replenishment to all Super Destroyers it shares an orbit with, reducing Exosuit Stratagem cooldown by 35% on the orbited planet. (05:19am UTC 11th Apr 2025\)  
 **Meridia** moves to X 0.29180154 Y 0.11672044 (07:00am UTC 11th Apr 2025\)
@@ -5165,7 +5165,7 @@ DSS deploys to **Acamar IV** of the ***Jin Xi*** sector (08:12pm UTC 15th Apr 20
 **Setia**'s invasion is successful (11:28pm UTC 15th Apr 2025\)  
 ↳ ***Omega*** sector is fully under Human control (11:28pm UTC 15th Apr 2025\)  
 **Nivel 43** is liberated (11:38pm UTC 15th Apr 2025\)  
-↳ ***Major Order*** | A2-4-2 **Nivel 43** Gloom Research Expedition is won | Objective: Liberate (11:38pm UTC 15th Apr 2025\)  
+***Major Order*** | A2-4-2 **Nivel 43** Gloom Research Expedition is won | Objective: Liberate (11:38pm UTC 15th Apr 2025\)  
 Assault Division: ***Predator Strain*** U3A is routed (11:38pm UTC 15th Apr 2025\)  
 Assault Division: **Spore Burst Strain** U2A is routed (11:38pm UTC 15th Apr 2025\)  
 Dispatch: MAJOR ORDER WON. Following another successful scientific expedition into the Gloom, secured by the Helldivers, the plan to stop the ***Meridian*** Singularity has now entered its final phase. On **Pilen V**, construction has commenced on the galaxy's first Repulsive Gravity Field Generator. Consult your Galactic Map for more information. (12:27am UTC 16th Apr 2025\)  
@@ -5344,7 +5344,7 @@ DSS deploys to **Erata Prime** of the ***Umlaut*** sector (04:30pm UTC 20th Apr 
 ↳ ***Alstrad*** sector is fully under Human control (05:42pm UTC 20th Apr 2025\)  
 **Meridia** moves to X 0.27812293 Y 0.11798092 (07:00pm UTC 20th Apr 2025)  
 **Erata Prime** defense is won (08:37pm UTC 20th Apr 2025\)  
-↳ ***Major Order*** | A2-4-3 Gloom Surge Defend 9 is won | Objective: Defend (08:37pm UTC 20th Apr 2025\)  
+***Major Order*** | A2-4-3 Gloom Surge Defend 9 is won | Objective: Defend (08:37pm UTC 20th Apr 2025\)  
 **NOTE**: When the **Acamar IV** Gambit for the **Crimsica** and **Turing** defenses was won the counter went from 5 to 8 for unknown reasons. (08:37pm UTC 20th Apr 2025\)  
 Assault Division: ***Predator Strain*** U4L is routed (08:37pm UTC 20th Apr 2025\)  
 DSS deploys to **Fenrir III** of the ***Umlaut*** sector (08:37pm UTC 20th Apr 2025\)  
@@ -6087,7 +6087,7 @@ DSS deploys to **Tarsh** of the ***Marspira*** sector (08:33am UTC 5th Jun 2025\
 Day \#484 9:00am 5th Jun 2025  
 **Tarsh** defense is won (12:49am UTC 6th Jun 2025\)  
 ↳ ***Marspira*** sector is fully under Human control (12:49am UTC 6th Jun 2025\)  
-↳ ***Major Order*** | A2-6-1 Defend Against 5 Automaton Attacks is won | Objective: Defend (12:49am UTC 6th Jun 2025\)  
+***Major Order*** | A2-6-1 Defend Against 5 Automaton Attacks is won | Objective: Defend (12:49am UTC 6th Jun 2025\)  
 DSS deploys to **Vernen Wells** of the ***Hydra*** sector (12:49am UTC 6th Jun 2025\)  
 **Azterra** is liberated (01:11am UTC 6th Jun 2025\)  
 Dispatch: MAJOR ORDER WON. Thanks to the Helldivers’ swift and decisive response, the Automatons' opportunistic assault has been curtailed. Consult the Galactic Map for more information. (01:21am UTC 6th Jun 2025\)
@@ -6519,7 +6519,7 @@ Assault Division: ***Jet Brigade*** U6C is routed (9:38am UTC 30th Jun 2025\)
 DSS deploys to **Ustotu** of the ***Trigon*** sector (02:30pm UTC 30th Jun 2025\)  
 DSS effect Heavy Ordnance Distribution is activated (05:45pm UTC 30th Jun 2025\)  
 **Ustotu** defense is won (12:28am UTC 1st Jul 2025\)  
-↳ ***Major Order*** | A2-6-6 Repel 4 Automaton Attacks is won | Objective: Defend (12:28am UTC 1st Jul 2025\)  
+***Major Order*** | A2-6-6 Repel 4 Automaton Attacks is won | Objective: Defend (12:28am UTC 1st Jul 2025\)  
 DSS deploys to **Mintoria** of the ***Gellert*** sector (12:29am UTC 1st Jul 2025\)  
 Dispatch: MAJOR ORDER WON. The latest Automaton offensive—led by the newly-augmented ***Jet Brigade***—has been decisively repelled by the Helldivers. Consult your Galactic Map for more information. (01:07am UTC 1st Jul 2025\)
 
@@ -9298,9 +9298,12 @@ DSS deploys to **Julheim** of the ***Nanos*** sector (11:14pm UTC 17th Dec 2025\
 DSS effect Orbital Blockade stops (11:57pm UTC 17th Dec 2025\)
 
 Day \#680 9:00am 18th Dec 2025  
-**Heeth** is classified as a Recon campaign (09:59am UTC 18th Dec 2025\)  
-**Marfark** is classified as a Recon campaign (09:59am UTC 18th Dec 2025\)  
-**New Stockholm** is classified as a Recon campaign (09:59am UTC 18th Dec 2025\)  
+**Heeth** liberation campaign ends (09:59am UTC 18th Dec 2025\)  
+**Heeth** recon campaign starts (09:59am UTC 18th Dec 2025\)  
+**Marfark** liberation campaign ends (09:59am UTC 18th Dec 2025\)  
+**Marfark** recon campaign starts (09:59am UTC 18th Dec 2025\)  
+**New Stockholm** liberation campaign ends (09:59am UTC 18th Dec 2025\)  
+**New Stockholm** recon campaign starts (09:59am UTC 18th Dec 2025\)  
 ***Major Order*** | A2-12-4 Festival of Reckoning 2025 is issued | Objective: Conquest (09:59pm UTC 18th Dec 2025\)  
 ***Minor Order*** | A2-12-5 Kill Enemies on a Recon Campaign is issued | Objective: Eradicate (09:59pm UTC 18th Dec 2025\)  
 Dispatch: HOLIDAY NOTICE. The Festival of Reckoning starts today; the season of love, moral superiority, and gratuitous patriotic expenditure. During these 14 days of joyous retribution, Helldivers must liberate more planets than are lost. High Command has prepared a procession of surprises to aid the seasonal war effort. (09:59am UTC 18th Dec 2025\)  
@@ -9330,7 +9333,7 @@ DSS effect Eagle Storm is activated (04:46am UTC 21st Dec 2025\)
 Day \#683 9:00am 21st Dec 2025  
 Dispatch: ARSENAL AUGMENTATION. To engender a spirit of righteous reckoning, all Helldiver deployments will be augmented with the ORBITAL LASER for the next 24 hours. (09:59am UTC 21st Dec 2025\)  
 **Duma Tyr** is liberated (12:59am UTC 22nd Dec 2025\)  
-**Tarsh** decay rate changes to \-1.0% per hour (12:59am UTC 22nd Dec 2025\)  
+**Borea** decay rate changes to \-1.0% per hour (12:59am UTC 22nd Dec 2025\)  
 DSS deploys to **Julheim** of the ***Nanos*** sector (12:59am UTC 22nd Dec 2025\)  
 DSS effect Eagle Storm stops (04:47am UTC 22nd Dec 2025\)
 
@@ -9405,7 +9408,7 @@ Dispatch: ARSENAL AUGMENTATION. That our enemies may suffer greatly, all Helldiv
 
 Day \#690 9:00am 28th Dec 2025  
 ***Minor Order*** | A2-12-7 Kill Enemies On A Recon Campaign 3 is issued | Objective: Eradicate (10:03am UTC 28th Dec 2025\)  
-Dispatch: NEW STRATEGIC OPPORTUNITY. As the Festival of Reckoning enters its third and final phase, the theme of “Vengeance” fills the hearts of Super Earth citizens. The Helldivers are ordered to aid in the testing of the final experimental Stratagem: the Smoke-Enhanced Walking Barrage, available for use on MARFARK, HEETH, and NEW STOCKHOLM. The Helldivers are ordered to reach the designated kill count on any one of these planets. (10:03am UTC 28th Dec 2025\)  
+Dispatch: NEW STRATEGIC OPPORTUNITY. As the Festival of Reckoning enters its third and final phase, the theme of “Vengeance” fills the hearts of Super Earth citizens. The Helldivers are ordered to aid in the testing of the final experimental Stratagem: the Smoke-Enhanced Walking Barrage, available for use on **MARFARK**, **HEETH**, and **NEW STOCKHOLM**. The Helldivers are ordered to reach the designated kill count on any one of these planets. (10:03am UTC 28th Dec 2025\)  
 **Alamak VII** defense is failed (01:53pm UTC 28th Dec 2025\)  
 **Alamak VII** liberation campaign starts (01:53pm UTC 28th Dec 2025\)  
 **Alamak VII** Region 0 Kesuma Town is besieged by Humans (01:53pm UTC 28th Dec 2025\)  
@@ -9448,19 +9451,23 @@ Dispatch: FESTIVAL OF RECKONING GIFT. In the spirit of Generosity, Gratitude, an
 Dispatch: STRATEGIC OPPORTUNITY LOST. Though weapons were thoroughly tested, and much fun and merriment was had by all, the failure to reach the targeted kill count on any single planet has left our citizens and weaponry scientists with an unseasonal feeling of disappointment and unfulfillment. (11:05pm UTC 31st Dec 2025\)  
 ***Major Order*** | A2-12-4 Festival of Reckoning 2025 is won | Objective: Conquest (11:05pm UTC 31st Dec 2025\)  
 Dispatch: FESTIVAL'S END. The Festival of Reckoning has concluded with resounding success. The Helldivers have achieved a net expansion of Federation territory, gifting Super Earth with the seasonal bloodlust all good children deserve. A Vengeful Festival to each and every one of us. (11:07pm UTC 31st Dec 2025\)  
-**Heeth** is no longer classified as a Recon campaign (12:06am UTC 1st Jan 2025\)  
-**Marfark** is no longer classified as a Recon campaign (12:07am UTC 1st Jan 2025\)
+**Heeth** recon campaign ends (12:06am UTC 1st Jan 2025\)  
+**Heeth** liberation campaign starts (12:06am UTC 1st Jan 2025\)  
+**Marfark** recon campaign ends (12:07am UTC 1st Jan 2025\)  
+**Marfark** liberation campaign starts (12:07am UTC 1st Jan 2025\)
 
 #### January 2026 | Day 694 \- Now
 
 Day \#694 9:00am 1st Jan 2026  
-**Heeth** decay rate changes to \-1.0% decay (10:23am UTC 1st Jan 2026\)  
+**Heeth** decay rate changes to \-1.0% per hour (10:23am UTC 1st Jan 2026\)  
 **Tarsh** is liberated (02:50pm UTC 1st Jan 2026\)  
 ↳ **Vernen Wells** liberation campaign starts (02:50pm UTC 1st Jan 2026\)  
 ↳ ***Marspira*** sector is fully under Human control (02:50pm UTC 1st Jan 2026\)  
 **Vernen Wells** Region 2 Anne’s Vigil Town is besieged by Humans (02:50pm UTC 1st Jan 2026\)  
 DSS deploys to **Crimsica** of the ***Draco*** sector (02:50pm UTC 1st Jan 2026\)  
 Assault Division: ***Incineration Corps*** U8A deploys to **Merak** (04:10pm UTC 1st Jan 2026\)  
+**New Stockholm** recon campaign ends (04:38pm UTC 1st Jan 2026\)  
+**New Stockholm** liberation campaign starts (04:38pm UTC 1st Jan 2026\)  
 Assault Division: ***Incineration Corps*** U8A leaves **Merak** (06:09pm UTC 1st Jan 2026\)  
 Assault Division: ***Incineration Corps*** U8A deploys to **Penta** (06:10pm UTC 1st Jan 2026\)  
 Assault Division: ***Incineration Corps*** U8A leaves **Penta** (08:09pm UTC 1st Jan 2026\)  
@@ -9474,6 +9481,112 @@ Assault Division: ***Incineration Corps*** U8A divides into 2 groups \[U8A, U8B\
 Assault Division: ***Incineration Corps*** U8A deploys to **Gaellivare** (10:10pm UTC 1st Jan 2026\)  
 Assault Division: ***Incineration Corps*** U8B deploys to **Vog-Sojoth** (10:10pm UTC 1st Jan 2026\)  
 DSS deploys to **Lesath** of the ***Lacaille*** sector (03:22am UTC 2nd Jan 2026\)
+
+Day \#695 9:00am 2nd Jan 2026  
+***Major Order*** | A3-1-1 Exfil From **Omicron** is issued | Objective: Extraction (01:04pm UTC 2nd Jan 2026\)  
+Dispatch: NEW MAJOR ORDER. Operation Free Space proceeds on schedule. Its centerpiece is the creation of the Star of Peace, an augmentation to the Democracy Space Station. The primary weapon of the Star of Peace is a cutting-edge beam of ionized Dark Fluid. Synthesizing sufficient Dark Fluid to fire the Star of Peace even once will require vast amounts of E-711. The Helldivers are ordered to enable high-risk E-711 extraction on the mostly-untouched Hive World of **Omicron**. (1:05pm UTC 2nd Jan 2026\)  
+**Gaellivare** Region 0 Váhtjer Settlement is besieged by Humans (03:53pm UTC 2nd Jan 2026\)  
+DSS deploys to **Omicron** of the ***L'estrade*** sector (07:23pm UTC 2nd Jan 2026\)  
+**Heeth** is liberated (09:23pm UTC 2nd Jan 2026\)  
+↳ ***Orion*** sector is fully under Human control (09:23pm UTC 2nd Jan 2026\)  
+Assault Division: ***Rupture Strain*** U5A is routed (09:23pm UTC 2nd Jan 2026\)  
+DSS effect Orbital Blockade is activated (11:40pm UTC 2nd Jan 2026\)
+
+Day \#696 9:00am 3rd Jan 2026  
+**Vog-Sojoth** defense is failed (10:11pm UTC 3rd Jan 2026\)  
+↳ **Vog-Sojoth** liberation campaign starts (10:11pm UTC 3rd Jan 2026\)  
+**Gaellivare** defense is failed (10:11pm UTC 3rd Jan 2026\)  
+↳ **Gaellivare** liberation campaign starts (10:11pm UTC 3rd Jan 2026\)  
+↳ **Lesath** liberation campaign ends (10:11pm UTC 3rd Jan 2026\)  
+DSS effect Orbital Blockade stops (11:41pm UTC 3rd Jan 2026\)
+
+Day \#697 9:00am 4th Jan 2026  
+DSS effect Heavy Ordnance Distribution is activated (06:12pm UTC 4th Jan 2026\) 
+
+Day \#698 9:00am 5th Jan 2026  
+DSS effect Heavy Ordnance Distribution stops (06:12pm UTC 5th Jan 2025\)  
+**Gaellivare** Region 0 Váhtjer Settlement has fallen to Humans (11:48pm UTC 5th Jan 2026\)
+
+Day \#699 9:00am 6th Jan 2026
+
+Day \#700 9:00am 7th Jan 2026  
+Assault Division: ***Incineration Corps*** U8A leaves **Gaellivare** (12:33pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Lesath** (12:34pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Lesath** (01:45pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Vernen Wells** (01:45pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Vernen Wells** (02:44pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Aesir Pass** (02:45pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Aesir Pass** (03:44pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Marfark** (03:45pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Marfark** (04:44pm UTC 7th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Martale** (04:45pm UTC 7th Jan 2026\)
+
+Day \#701 9:00am 8th Jan 2026  
+Assault Division: ***Jet Brigade*** U10A deploys to **Aurora Bay** (12:06pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A leaves **Aurora Bay** (01:05pm UTC 8th Jan 2026\)  
+***Major Order*** | A3-1-1 Exfil From **Omicron** is failed | Objective: Extraction (01:06pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A deploys to **Choohe** (01:07pm UTC 8th Jan 2026\)  
+Dispatch: MAJOR ORDER FAILED. The Terminid Hive World of **Omicron** has proven extremely infested, frustrating efforts to extract E-711 from the planet. While some E-711 was secured, synthesizing it into Dark Fluid remains a highly inefficient process. Currently, projected yields are insufficient to enable the Star of Peace to fire. Consult the Galactic Map for more details. (01:09pm UTC 8th Jan 2026\)  
+***Major Order*** | A3-1-2 Defend Magma Worlds is issued | Objective: Control (01:17pm UTC 8th Jan 2025\)  
+Dispatch: NEW MAJOR ORDER. The Star of Peace requires thermal shielding to withstand firing its high-yield beam, optimized for mass Freedom dispensation. Helldivers: hold the Magma Planets to secure the mining infrastructure from Automaton greed, and to enable harvesting of their internal iridium-infused heatsinks. (01:18pm UTC 8th Jan 2026\)  
+**K** of the ***Trigon*** sector is attacked by Lvl 27 Automatons (01:19pm UTC 8th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Martale** (01:19pm UTC 8th Jan 2026\)  
+**Charon Prime** of the ***Andromeda*** sector is attacked by Lvl 21 Automatons (01:20pm UTC 8th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Charon Prime** (01:20pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A leaves **Choohe** (02:05pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A deploys to **Matar Bay** (02:06pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A leaves **Matar Bay** (03:05pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A deploys to **Meissa** (03:06pm UTC 8th Jan 2026\)  
+DSS deploys to **Crimsica** of the ***Draco*** sector (03:26pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A leaves **Meissa** (04:05pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A deploys to **Wasat** (04:07pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A leaves **Wasat** (05:05pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A deploys to **Vega Bay** (05:07pm UTC 8th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A leaves **Vega Bay** (06:05pm UTC 8th Jan 2026\)  
+**Mox** of the ***Trigon*** sector is attacked by Lvl 40 Automatons (06:07pm UTC 8th Jan 2026\)  
+DSS deploys to **K** of the ***Trigon*** sector (07:26pm UTC 8th Jan 2026\)  
+DSS effect Eagle Storm is activated (07:51pm UTC 8th Jan 2026\)  
+NOTE: From 07:56pm 8th Jan 2026 to 9:03am 9th Jan 2026 Jet Brigade was supposed to be deployed on **Mox** according to the api but it was not. Sites like Companion reflected the intended display but in game the ***Jet Brigade*** was completely absent until it was fixed by the GMs (07:56pm UTC 8th Jan 2026\)  
+DSS deploys to **Mox** of the ***Trigon*** sector (03:26am UTC 9th Jan 2026\)
+
+Day \#702 9:00am 9th Jan 2026  
+Assault Division: ***Jet Brigade*** U10A deploys to **Mox** (09:04am UTC 9th Jan 2026\)  
+**Charon Prime** defense is failed (01:21pm UTC 9th Jan 2026\)  
+↳ **Charon Prime** liberation campaign starts (01:21pm UTC 9th Jan 2026\)  
+↳ **Martale** liberation campaign ends (01:21pm UTC 9th Jan 2026\)  
+↳ ***Andromeda*** sector is fully under Automaton control (01:21pm UTC 9th Jan 2026\)  
+DSS effect Eagle Storm stops (07:52pm UTC 9th Jan 2026\)  
+**K** defense is won (05:10am UTC 10th Jan 2026\)
+
+Day \#703 9:00am 10th Jan 2026  
+DSS effect Orbital Blockade is activated (09:46pm UTC 10th Jan 2026\)
+
+Day \#704 9:00am 11th Jan 2026  
+**Mox** defense is won (09:24am UTC 11th Jan 2026\)  
+Assault Division: ***Jet Brigade*** U10A is routed (09:24am UTC 11th Jan 2026\)  
+DSS deploys to **Choepessa IV** of the ***Trigon*** sector (09:24am UTC 11th Jan 2026\)  
+Dispatch: ARSENAL AUGMENTATION. High Command has authorized fleetwide availability of the Jump Pack Stratagem for the next 24 hours. (10:30am UTC 11th Jan 2026\)  
+***Minor Order*** | A3-1-3 Liberate **Vog-Sojoth** is issued | Objective: Liberate (10:39am UTC 11th Jan 2026\)  
+Dispatch: NEW STRATEGIC OPPORTUNITY. The culmination of Operation Free Space approaches. Details are forthcoming. For now, in order to set the strategic operations for success, the Helldivers are ordered to liberate **VOG-SOJOTH**. (10:39am UTC 11th Jan 2026\)  
+DSS deploys to **Vog-Sojoth** of the ***Tanis*** sector (03:27pm UTC 11th Jan 2026\)  
+**Vog-Sojoth** Region 0 Haerstvik Town has fallen to Humans (07:30pm UTC 11th Jan 2026\)  
+DSS effect Orbital Blockade stops (09:46pm UTC 11th Jan 2026\)
+
+Day \#705 9:00am 12th Jan 2026  
+Dispatch: ARSENAL AUGMENTATION ENDED. Jump Pack Stratagem availability has now ended. (11:55am UTC 12th Jan 2025\)  
+**Vog-Sojoth** is liberated (07:25pm UTC 12th Jan 2026\)  
+↳ **Lesath** liberation campaign starts (07:25pm UTC 12th Jan 2026\)  
+**Lesath** Region 3 Bucu's Rest Megacity is besieged by Humans (07:25pm UTC 12th Jan 2026\)  
+***Minor Order*** | A3-1-3 Liberate **Vog-Sojoth** is won | Objective: Liberate (07:25pm UTC 12th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8B is routed (07:25pm UTC 12th Jan 2026\)  
+DSS deploys to **Crimsica** of the ***Draco*** sector (07:25pm UTC 12th Jan 2026\)  
+Dispatch: STRATEGIC OPPORTUNITY SEIZED. The Helldivers have liberated **VOG-SOJOTH**, setting the strategic conditions for the success of Operation Free Space. (07:33pm UTC 12th Jan 2026\)  
+DSS deploys to **Choepessa IV** of the ***Trigon*** sector (11:28pm UTC 12th Jan 2026\)
+
+Day \#706 9:00am 13th Jan 2026  
+**Choepessa IV** Region 1 Kalasatama City has fallen to Humans (07:36am UTC 14th Jan 2026\)
+
+Day \#707 9:00am 14th Jan 2026
 
 #### Day Zero
 
@@ -10097,15 +10210,15 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-151 Total M/SOs: 114 wins, 37 losses, (75.5%)  
-40 Liberate M/SOs: 26 wins, 14 losses, (65%)  
-33 Control M/SOs: 30 wins, 3 losses, (90.9%)  
+154 Total M/SOs: 115 wins, 38 losses, 1 pending, (75.2%)  
+41 Liberate M/SOs: 27 wins, 14 losses, (65.9%)  
+34 Control M/SOs: 30 wins, 3 losses, 1 pending, (90.9%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
 24 Eradicate M/SOs: 18 wins, 6 losses, (75%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
 4 Conquest M/SOs: 2 wins, 2 losses, (50%)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
-1 Extraction M/SO: 0 wins, 1 loss, (0%)  
+2 Extraction M/SOs: 0 wins, 2 losses, (0%)  
 33 Combo M/SOs: 26 wins, 7 losses, (78.8%)  
 ↳ 15 Eradicate Tasks: 13 wins, 2 losses, (86.7%)  
 ↳ 26 Liberate Tasks: 25 wins, 1 loss, (96.2%)  
@@ -10117,7 +10230,7 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Terminid Front M/SOs
 
-53 Terminid M/SOs: 48 wins, 5 losses, (90.6%)  
+54 Terminid M/SOs: 48 wins, 6 losses, (88.9%)  
 16 Liberate M/SOs: 13 wins, 3 losses, (81.3%)  
 11 Control M/SOs: 11 wins, 0 losses, (100%)  
 4 Defend M/SOs: 4 wins, 0 losses, (100%)  
@@ -10125,7 +10238,7 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 1 Sample M/SO: 1 win, 0 losses, (100%)  
 0 Conquest M/SOs: 0 wins, 0 losses, (???)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
-0 Extraction M/SOs: 0 wins, 0 losses, (???)  
+1 Extraction M/SO: 0 wins, 1 loss, (0%)  
 11 Combo M/SOs: 10 wins, 1 loss, (90.9%)  
 ↳ 7 Eradicate Tasks: 7 wins, 0 losses, (100%)  
 ↳ 8 Liberate Tasks: 8 wins, 0 losses, (100%)  
@@ -10137,9 +10250,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Automaton Front M/SOs
 
-46 Automaton M/SOs: 33 wins, 13 losses, (71.7%)  
-19 Liberate M/SOs: 12 wins, 7 losses, (63.2%)  
-12 Control M/SOs: 11 wins, 1 loss, (91.7%)  
+48 Automaton M/SOs: 34 wins, 13 losses, 1 pending, (72.3%)  
+20 Liberate M/SOs: 13 wins, 7 losses, (65%)  
+13 Control M/SOs: 11 wins, 1 loss, 1 pending, (91.7%)  
 5 Defend M/SOs: 3 wins, 2 losses, (60%)  
 3 Eradicate M/SOs: 2 wins, 1 loss, (66.7%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
