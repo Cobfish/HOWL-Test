@@ -7891,8 +7891,6 @@ DSS deploys to **Terrek** of the ***Orion*** sector (08:59am UTC 15th Sep 2025\)
 Day \#586 9:00am 15th Sep 2025  
 Dispatch: MAJOR ORDER WON. The outpouring of Terminids from the Gloom appears to have subsided. The damage has been severe, but thanks to the swift intervention of the Helldivers, the worst has been prevented. Consult your Galactic Map for more details. (09:03am UTC 15th Sep 2025\)  
 **Overgoe Prime** is overtaken by the Gloomwall (11:21am UTC 15th Sep 2025\)  
-**Socorro III** is no longer unobservable (12:27pm UTC 15th Sep 2025\)  
-**Erson Sands** is no longer unobservable (12:27pm UTC 15th Sep 2025\)  
 **Esker** is lightly enveloped by the Gloom (12:31pm UTC 15th Sep 2025\)  
 Dispatch: GLOOM SPREAD DETECTED. The Gloom is spreading amongst Terminid-occupied worlds. **ESKER** is now surrounded by low-density Gloom, and other planets in the sector are expected to follow. The only way to stop this spread is to liberate those planets immediately. (12:35pm UTC 15th Sep 2025\)  
 **Terrek** is liberated (04:42pm UTC 15th Sep 2025\)  
@@ -9451,10 +9449,10 @@ Dispatch: FESTIVAL OF RECKONING GIFT. In the spirit of Generosity, Gratitude, an
 Dispatch: STRATEGIC OPPORTUNITY LOST. Though weapons were thoroughly tested, and much fun and merriment was had by all, the failure to reach the targeted kill count on any single planet has left our citizens and weaponry scientists with an unseasonal feeling of disappointment and unfulfillment. (11:05pm UTC 31st Dec 2025\)  
 ***Major Order*** | A2-12-4 Festival of Reckoning 2025 is won | Objective: Conquest (11:05pm UTC 31st Dec 2025\)  
 Dispatch: FESTIVAL'S END. The Festival of Reckoning has concluded with resounding success. The Helldivers have achieved a net expansion of Federation territory, gifting Super Earth with the seasonal bloodlust all good children deserve. A Vengeful Festival to each and every one of us. (11:07pm UTC 31st Dec 2025\)  
-**Heeth** recon campaign ends (12:06am UTC 1st Jan 2025\)  
-**Heeth** liberation campaign starts (12:06am UTC 1st Jan 2025\)  
-**Marfark** recon campaign ends (12:07am UTC 1st Jan 2025\)  
-**Marfark** liberation campaign starts (12:07am UTC 1st Jan 2025\)
+**Heeth** recon campaign ends (12:06am UTC 1st Jan 2026\)  
+**Heeth** liberation campaign starts (12:06am UTC 1st Jan 2026\)  
+**Marfark** recon campaign ends (12:07am UTC 1st Jan 2026\)  
+**Marfark** liberation campaign starts (12:07am UTC 1st Jan 2026\)
 
 #### January 2026 | Day 694 \- Now
 
@@ -9504,7 +9502,7 @@ Day \#697 9:00am 4th Jan 2026
 DSS effect Heavy Ordnance Distribution is activated (06:12pm UTC 4th Jan 2026\) 
 
 Day \#698 9:00am 5th Jan 2026  
-DSS effect Heavy Ordnance Distribution stops (06:12pm UTC 5th Jan 2025\)  
+DSS effect Heavy Ordnance Distribution stops (06:12pm UTC 5th Jan 2026\)  
 **Gaellivare** Region 0 Váhtjer Settlement has fallen to Humans (11:48pm UTC 5th Jan 2026\)
 
 Day \#699 9:00am 6th Jan 2026
@@ -9527,7 +9525,7 @@ Assault Division: ***Jet Brigade*** U10A leaves **Aurora Bay** (01:05pm UTC 8th 
 ***Major Order*** | A3-1-1 Exfil From **Omicron** is failed | Objective: Extraction (01:06pm UTC 8th Jan 2026\)  
 Assault Division: ***Jet Brigade*** U10A deploys to **Choohe** (01:07pm UTC 8th Jan 2026\)  
 Dispatch: MAJOR ORDER FAILED. The Terminid Hive World of **Omicron** has proven extremely infested, frustrating efforts to extract E-711 from the planet. While some E-711 was secured, synthesizing it into Dark Fluid remains a highly inefficient process. Currently, projected yields are insufficient to enable the Star of Peace to fire. Consult the Galactic Map for more details. (01:09pm UTC 8th Jan 2026\)  
-***Major Order*** | A3-1-2 Defend Magma Worlds is issued | Objective: Control (01:17pm UTC 8th Jan 2025\)  
+***Major Order*** | A3-1-2 Defend Magma Worlds is issued | Objective: Control (01:17pm UTC 8th Jan 2026\)  
 Dispatch: NEW MAJOR ORDER. The Star of Peace requires thermal shielding to withstand firing its high-yield beam, optimized for mass Freedom dispensation. Helldivers: hold the Magma Planets to secure the mining infrastructure from Automaton greed, and to enable harvesting of their internal iridium-infused heatsinks. (01:18pm UTC 8th Jan 2026\)  
 **K** of the ***Trigon*** sector is attacked by Lvl 27 Automatons (01:19pm UTC 8th Jan 2026\)  
 Assault Division: ***Incineration Corps*** U8A leaves **Martale** (01:19pm UTC 8th Jan 2026\)  
@@ -9573,7 +9571,7 @@ DSS deploys to **Vog-Sojoth** of the ***Tanis*** sector (03:27pm UTC 11th Jan 20
 DSS effect Orbital Blockade stops (09:46pm UTC 11th Jan 2026\)
 
 Day \#705 9:00am 12th Jan 2026  
-Dispatch: ARSENAL AUGMENTATION ENDED. Jump Pack Stratagem availability has now ended. (11:55am UTC 12th Jan 2025\)  
+Dispatch: ARSENAL AUGMENTATION ENDED. Jump Pack Stratagem availability has now ended. (11:55am UTC 12th Jan 2026\)  
 **Vog-Sojoth** is liberated (07:25pm UTC 12th Jan 2026\)  
 ↳ **Lesath** liberation campaign starts (07:25pm UTC 12th Jan 2026\)  
 **Lesath** Region 3 Bucu's Rest Megacity is besieged by Humans (07:25pm UTC 12th Jan 2026\)  
@@ -9586,7 +9584,47 @@ DSS deploys to **Choepessa IV** of the ***Trigon*** sector (11:28pm UTC 12th Jan
 Day \#706 9:00am 13th Jan 2026  
 **Choepessa IV** Region 1 Kalasatama City has fallen to Humans (07:36am UTC 14th Jan 2026\)
 
-Day \#707 9:00am 14th Jan 2026
+Day \#707 9:00am 14th Jan 2026  
+***Major Order*** | A3-1-2 Defend Magma Worlds is won | Objective: Control (01:21pm UTC 14th Jan 2026\)  
+Dispatch: MAJOR ORDER WON. The Helldivers have secured the Magma Planets. Internal components harvested from sufficiently-intact Automatons have equipped the Star of Peace with the thermal shielding it required. The Star of Peace nears operational readiness, and will deliver Operation Free Space imminently. Consult the Galactic Map for more information. (01:21pm UTC 14th Jan 2026\)  
+***Major Order*** | A3-1-4 Vote to Fire Star of Peace is issued | Objective: Control (01:22pm UTC 14th Jan 2026\)  
+Dispatch: NEW MAJOR ORDER. The DSS will soon be augmented with the Star of Peace, a defensive weapon capable of collapsing entire planets. The Helldivers will vote on which planet to target, beginning in 48 hours. They must ensure the selected planet is adjacent to a planet under Super Earth control at the time of firing. There are three potential targets, one per faction: **Penta**, **Valmox**, and **Zagon Prime**. (01:22pm UTC 14th Jan 2026\)  
+**Penta** of the ***Lacaille*** sector is now under threat (01:23pm UTC 14th Jan 2026\)  
+**Zagon Prime** of the ***Mirin*** sector is now under threat (01:23pm UTC 14th Jan 2026\)  
+**Valmox** of the ***Rictus*** sector is now under threat (01:23pm UTC 14th Jan 2026\)  
+**Valmox** liberation campaign ends (01:25pm UTC 14th Jan 2026\)  
+**Zagon Prime** is no longer unobservable (01:31pm UTC 14th Jan 2026\)  
+**Crimsica** is liberated (03:30pm UTC 14th Jan 2026\)  
+DSS deploys to **Lesath** of the ***Lacaille*** sector (07:30pm UTC 14th Jan 2026\)  
+DSS effect Heavy Ordnance Distribution is activated (07:48am UTC 15th Jan 2026\)
+
+Day \#708 9:00am 15th Jan 2026  
+Dispatch: STAR OF PEACE VOTING IN 24 HOURS. In 24 hours, Helldivers will be given the opportunity to vote on which planet to target with the Star of Peace: **Penta**, **Afoyay Bay**, or **Zagon Prime**. The Democracy Space Station will be taken offline for the duration of the voting period in preparation for firing. (01:23pm UTC 15th Jan 2026\)  
+**NOTE**: The dispatch incorrectly states that **Afoyay Bay** is a target to be fired upon. This is later fixed at an unknown time to say **Valmox** (01:23pm UTC 15th Jan 2026\)  
+Assault Division: ***Dragonroaches*** U3A leaves **Nivel 43** (01:58pm UTC 15th Jan 2026\)  
+Assault Division: ***Dragonroaches*** U3A deploys to **Erson Sands** (01:59pm UTC 15th Jan 2026\)  
+**Lesath** Region 3 Bucu's Rest Megacity has fallen to Humans (03:23pm UTC 15th Jan 2026\)  
+**Lesath** Region 1 Morskie Oko Town is besieged by Humans (03:23pm UTC 15th Jan 2026\)  
+**Lesath** Region 2 Crystal Slopes City is besieged by Humans (03:23pm UTC 15th Jan 2026\)  
+**Lesath** Region 1 Morskie Oko Town has fallen to Humans (11:35pm UTC 15th Jan 2026\)  
+**Lesath** Region 0 Serenity Summit Town is besieged by Humans (04:42am UTC 16th Jan 2026\)  
+DSS effect Heavy Ordnance Distribution stops (07:48am UTC 16th Jan 2026\)
+
+Day \#709 9:00am 16th Jan 2026  
+DSS deploys to **Super Earth** of the ***Sol*** sector (01:17pm UTC 16th Jan 2026\)  
+Dispatch: STAR OF PEACE VOTING HAS BEGUN. Helldivers are advised to access the Democracy Space Station voting panel from the Galactic Map. Helldivers may vote a single time. If the chosen planet is not a strategically viable location at the time of firing—if no planet adjacent to the targeted planet is held by **Super Earth**—the second-highest voted planet will be targeted instead. (01:23pm UTC 16th Jan 2026\)  
+**Lesath** Region 2 Crystal Slopes City has fallen to Humans (04:24pm UTC 16th Jan 2026\)  
+**Lesath** is liberated (04:25pm UTC 16th Jan 2026\)  
+**Gaellivare** decay rate changes to \-0.59% per hour (03:54am UTC 17th Jan 2026\)
+
+Day \#710 9:00am 17th Jan 2026  
+**Nivel 43** is liberated (04:44pm UTC 17th Jan 2026\)  
+↳ **Esker** liberation campaign starts (04:44pm UTC 17th Jan 2026\)  
+Assault Division: ***Spore Burst Strain*** U4H is routed (04:44pm UTC 17th Jan 2026\)  
+**Erson Sands** is no longer unobservable (08:33pm UTC 17th Jan 2026\)  
+**Hort** of the ***Rigel*** sector is attacked by Lvl 18 Illuminate (08:42pm UTC 17th Jan 2026\)  
+**Hort** Region 1 Clockstop City is besieged by Humans (08:42pm UTC 17th Jan 2026\)  
+**Zefia** of the ***Tanis*** sector is attacked by Lvl 12 Automatons (03:23am UTC 18th Jan 2026\)
 
 #### Day Zero
 
@@ -9697,7 +9735,7 @@ Day Zero | **This Was The Starting Game-State At Launch**
 **Seyshel Beach** has Ethereal Jungle \[Primordial\] biome  
 **Effluvia** has Rocky Canyons \[Sandy\] biome  
 **Okul VI** has Icy Glaciers \[Arctic\] biome  
-***Sol*****ghast** has Deadlands \[Primordial\] biome  
+**Solghast** has Deadlands \[Primordial\] biome  
 **Diluvia** has Tundra \[Moor\] biome  
 **Martyr's Bay** has Boneyard \[Arctic\] biome  
 **Freedom Peak** has Ionic Crimson \[Moor\] biome  
@@ -9976,7 +10014,7 @@ Day Zero | **This Was The Starting Game-State At Launch**
 **Seyshel Beach** coordinates are X 0.0977173 Y \-0.22407754  
 **Hellmire** coordinates are X 0.5111386 Y 0.3511805  
 **Effluvia** coordinates are X \-0.023138678 Y \-0.24981944  
-***Sol*****ghast** coordinates are X \-0.09065833 Y \-0.2413738  
+**Solghast** coordinates are X \-0.09065833 Y \-0.2413738  
 **Diluvia** coordinates are X \-0.1440952 Y \-0.2027717  
 **Viridia Prime** coordinates are X \-0.19187985 Y \-0.14480585  
 **Obari** coordinates are X \-0.24438877 Y \-0.10283538  
@@ -10210,9 +10248,9 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-154 Total M/SOs: 115 wins, 38 losses, 1 pending, (75.2%)  
+155 Total M/SOs: 116 wins, 38 losses, 1 pending, (75.3%)  
 41 Liberate M/SOs: 27 wins, 14 losses, (65.9%)  
-34 Control M/SOs: 30 wins, 3 losses, 1 pending, (90.9%)  
+35 Control M/SOs: 31 wins, 3 losses, 1 pending, (91.2%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
 24 Eradicate M/SOs: 18 wins, 6 losses, (75%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
@@ -10250,9 +10288,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Automaton Front M/SOs
 
-48 Automaton M/SOs: 34 wins, 13 losses, 1 pending, (72.3%)  
+49 Automaton M/SOs: 35 wins, 13 losses, 1 pending, (72.9%)  
 20 Liberate M/SOs: 13 wins, 7 losses, (65%)  
-13 Control M/SOs: 11 wins, 1 loss, 1 pending, (91.7%)  
+14 Control M/SOs: 12 wins, 1 loss, 1 pending, (92.3%)  
 5 Defend M/SOs: 3 wins, 2 losses, (60%)  
 3 Eradicate M/SOs: 2 wins, 1 loss, (66.7%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
