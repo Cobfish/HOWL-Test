@@ -1102,7 +1102,7 @@ Dispatch: STRATEGIC UPDATE. We have detected a decrease in Terminid spawning on 
 ↳ **Acamar IV** liberation campaign starts (03:22pm UTC 2nd Jun 2024\)  
 **Meridia** is liberated (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Meridia** collapses into a black hole (07:13pm UTC 2nd Jun 2024\)  
-↳ **Meridia** of the ***Umlaut*** sector is established as a ***Meridian*** **Black Hole** POI (07:13pm UTC 2nd Jun 2024\)  
+↳ **Meridia** of the ***Umlaut*** sector is established as a **Meridian Black Hole** POI (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Estanu** liberation campaign starts (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Crimsica** liberation campaign starts (07:13pm UTC 2nd Jun 2024\)  
 ↳ **Fenrir III** defense is auto-won via gambit (07:16pm UTC 2nd Jun 2024\)  
@@ -9624,7 +9624,22 @@ Assault Division: ***Spore Burst Strain*** U4H is routed (04:44pm UTC 17th Jan 2
 **Erson Sands** is no longer unobservable (08:33pm UTC 17th Jan 2026\)  
 **Hort** of the ***Rigel*** sector is attacked by Lvl 18 Illuminate (08:42pm UTC 17th Jan 2026\)  
 **Hort** Region 1 Clockstop City is besieged by Humans (08:42pm UTC 17th Jan 2026\)  
-**Zefia** of the ***Tanis*** sector is attacked by Lvl 12 Automatons (03:23am UTC 18th Jan 2026\)
+**Zefia** of the ***Tanis*** sector is attacked by Lvl 12 Automatons (03:23am UTC 18th Jan 2026\)  
+**Gaellivare** Region 1 Malmberget Megacity is besieged by Humans (03:40am UTC 18th Jan 2026\)
+
+Day \#711 9:00am 18th Jan 2026  
+**Hort** Region 0 On-Earsahou City is besieged by Humans (06:52pm UTC 18th Jan 2026\)  
+***Major Order*** | A3-1-4 Vote to Fire Star of Peace is won | Objective: Control (06:52pm UTC 18th Jan 2026\)  
+Dispatch: STAR OF PEACE VOTING CONCLUDED. The voting period has ended. **PENTA** has been chosen by the Helldivers as the inaugural target of the Star of Peace. Firing will commence at the end of the Order period. (08:29pm UTC 18th Jan 2026\)  
+DSS deploys to **Penta** of the ***Lacaille*** sector (08:29pm UTC 18th Jan 2026\)  
+**Penta** collapses into a black hole (08:29pm UTC 18th Jan 2026\)  
+**Penta** of the ***Lacaille*** sector is established as a **Conventional Black Hole** POI (08:29pm UTC 18th Jan 2026\)  
+**Chort Bay** liberation campaign starts (08:32pm UTC 18th Jan 2026\)  
+**Merak** decay rate changes to \-1.0% per hour (08:32pm UTC 18th Jan 2026\)  
+Dispatch: MAJOR ORDER WON. Operation Free Space has been successfully completed. In a triumph of Managed Democracy, the Star of Peace has fired upon **PENTA**, collapsing it into a black hole and destroying all enemy forces present. The firing of this experimental defensive weapon was a monumental success. However, the DSS sustained damage during the firing process, and must be taken offline for repairs for a short period of time. (08:42pm UTC 18th Jan 2026\)  
+**Penta** of the ***Lacaille*** sector's warp links are obliterated (08:42pm UTC 18th Jan 2026\)  
+**Chort Bay** \- **Merak** warp link is added (08:42pm UTC 18th Jan 2026\)  
+**Merak** decay rate is no longer \-1.0% per hour (08:45pm UTC 18th Jan 2026\)
 
 #### Day Zero
 
@@ -10248,9 +10263,9 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-155 Total M/SOs: 116 wins, 38 losses, 1 pending, (75.3%)  
+155 Total M/SOs: 117 wins, 38 losses, (75.5%)  
 41 Liberate M/SOs: 27 wins, 14 losses, (65.9%)  
-35 Control M/SOs: 31 wins, 3 losses, 1 pending, (91.2%)  
+35 Control M/SOs: 32 wins, 3 losses, (91.4%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
 24 Eradicate M/SOs: 18 wins, 6 losses, (75%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
@@ -10288,9 +10303,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Automaton Front M/SOs
 
-49 Automaton M/SOs: 35 wins, 13 losses, 1 pending, (72.9%)  
+48 Automaton M/SOs: 35 wins, 13 losses, (72.9%)  
 20 Liberate M/SOs: 13 wins, 7 losses, (65%)  
-14 Control M/SOs: 12 wins, 1 loss, 1 pending, (92.3%)  
+13 Control M/SOs: 12 wins, 1 loss, (92.3%)  
 5 Defend M/SOs: 3 wins, 2 losses, (60%)  
 3 Eradicate M/SOs: 2 wins, 1 loss, (66.7%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
@@ -10328,9 +10343,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Multi-Fronts M/SOs
 
-34 Multi-Fronts M/SOs: 21 wins, 13 losses, (61.8%)  
+35 Multi-Fronts M/SOs: 22 wins, 13 losses, (62.9%)  
 3 Liberate M/SOs: 1 win, 2 losses, (33.3%)  
-5 Control M/SOs: 4 wins, 1 loss, (80%)  
+6 Control M/SOs: 5 wins, 1 loss, (83.3%)  
 1 Defend M/SO: 1 win, 0 losses, (100%)  
 9 Eradicate M/SOs: 5 wins, 4 losses, (55.6%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
