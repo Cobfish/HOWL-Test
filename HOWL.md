@@ -9680,7 +9680,81 @@ Dispatch: NEW ELITE OPERATION. Intel has pinpointed a secure bot database on CLA
 Day \#716 9:00am 23rd Jan 2026  
 **Myrium** is liberated (04:49pm UTC 23rd Jan 2026\)
 
-Day \#717 9:00am 24th Jan 2026
+Day \#717 9:00am 24th Jan 2026  
+**Valmox** Region 1 Reformed-By-Truth City has fallen to Humans (04:28pm UTC 24th Jan 2026\)  
+**Valmox** Region 0 Rebelsgrave Settlement is besieged by Humans (04:28pm UTC 24th Jan 2026\)  
+**Valmox** Region 0 Rebelsgrave Settlement has fallen to Humans (09:29pm UTC 24th Jan 2026\)
+
+Day \#718 9:00am 25th Jan 2026  
+**Valmox** Region 2 Obedience City is besieged by Humans (11:17am UTC 25th Jan 2026\)  
+**Afoyay Bay** of the ***Gallux*** sector is attacked by Lvl 13 Illuminate (11:23pm UTC 25th Jan 2026\)  
+***Minor Order*** | A3-1-6 Complete Operations On Clasa is issued | Objective: Operation is won (01:41am UTC 26th Jan 2026\)  
+Dispatch: MAJOR ORDER WON. The Illuminate have been repelled from Afoyay Bay long enough to evacuate the majority of CECOD and Pandora Base personnel to a secure location. The DSS has been moved to \#planet1, where it is secure from enemy attack. The Ministry of Truth investigation has confirmed an unauthorized download of the full blueprints to the Star of Peace. However, no facility personnel were involved: this was an act of espionage by an external foe. Consult the Galactic Map for more information. (01:41am UTC 26th Jan 2026\)  
+**NOTE**: This is not the correct dispatch for the mO but it appears there was a mistake on the gamemaster’s end. The dispatch was retracted at 06:21am the same day (01:41am UTC 26th Jan 2026\)  
+Dispatch: ELITE OPERATION COMPLETED. The Cyberassault teams have accomplished their mission, completing covert file transfer to the Automaton database. The small cadre of Helldivers who enabled mission success displayed uncommon skill in their conduct of Commando missions, proving the viability of this new method by which to extend Freedom's reach even into deeply contested territory. (06:26am UTC 26th Jan 2026\)  
+**Valmox** is liberated (08:37am UTC 26th Jan 2026\)  
+↳ **Iro** liberation campaign starts (08:37am UTC 26th Jan 2026\)  
+↳ **Mog** liberation campaign starts (08:37am UTC 26th Jan 2026\)
+
+Day \#719 9:00am 26th Jan 2026  
+**Aesir Pass** liberation campaign ends (02:40pm UTC 26th Jan 2026\)  
+**Aesir Pass** high priority campaign starts (02:40pm UTC 26th Jan 2026\)  
+Dispatch: COMMANDO OPERATION INITIATED. Automaton orbital defenses on **AESIR PASS** demand the employment of new Commando Operations on some regions of the planet. Helldivers seeking to prove themselves as the most elite of the elite are called to take on these operations. (02:41pm UTC 26th Jan 2026\)  
+**Clasa** Region 0 Sycamore Gardens Settlement is besieged by Humans (02:45pm UTC 26th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Charon Prime** (03:30pm UTC 26th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Choepessa IV** (03:32pm UTC 26th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A leaves **Choepessa IV** (04:45pm UTC 26th Jan 2026\)  
+**Fury** of the ***Xzar*** sector is attacked by Lvl 35 Automatons (04:47pm UTC 26th Jan 2026\)  
+Assault Division: ***Incineration Corps*** U8A deploys to **Fury** (04:47pm UTC 26th Jan 2026\)  
+**Afoyay Bay** defense is won (06:37pm UTC 26th Jan 2026\)
+
+Day \#720 9:00am 27th Jan 2026  
+***Major Order*** | A3-1-5 Secure Valmox and Myrium is won | Objective: Liberate/Control (12:44pm UTC 27th Jan 2026\)  
+Dispatch: MAJOR ORDER WON. The Illuminate have been repelled from Afoyay Bay long enough to evacuate the majority of CECOD and Pandora Base personnel to a secure location. The DSS has been moved to \#planet1, where it is secure from enemy attack. The Ministry of Truth investigation has confirmed an unauthorized download of the full blueprints to the Star of Peace. However, no facility personnel were involved: this was an act of espionage by an external foe. Consult the Galactic Map for more information. (12:47pm UTC 27th Jan 2026\)  
+**NOTE**: Despite what the dispatch says the DSS has not yet moved and planet1 is not defined. The line about the DSS moving is later removed from the dispatch at an unknown time between this dispatch and 06:43pm same day (12:47pm UTC 27th Jan 2026\)  
+***Major Order*** | A3-1-7 Secure **Clasa**, **Yed Prior**, **Adhara** and **Mog** is issued | Objective: Control (02:17pm UTC 27th Jan 2026\)  
+Dispatch: NEW MAJOR ORDER. To identify the culprit behind the Star of Peace blueprint espionage, simultaneous searches of Automaton and Illuminate data storage nodes will be conducted. Helldivers: hold **CLASA**, **YED PRIOR**, **MOG**, and **ADHARA** to allow recovery teams to perform deep-system archival synchronization. Democracy demands simple, uncomplex truth. The Helldivers will now secure it. (02:18pm UTC 27th Jan 2026\)  
+**Clasa** Region 0 Sycamore Gardens Settlement has fallen to Humans (08:03pm UTC 27th Jan 2026\)  
+**Lesath** of the ***Lacaille*** sector is attacked by Lvl 26 Automatons (08:26am UTC 28th Jan 2026\)  
+**Lesath** Region 0 Serenity Summit Town is besieged by Humans (08:26am UTC 28th Jan 2026\)
+
+Day \#721 9:00am 28th Jan 2026  
+**Adhara** Region 0 Traitor’s End Settlement has fallen to Illuminate (12:40pm UTC 28th Jan 2026\)  
+**Adhara** Region 0 Traitor’s End Settlement is besieged by Humans (12:40pm UTC 28th Jan 2026\)  
+**Clasa** Region 0 Sycamore Gardens Settlement has fallen to Automatons (12:40pm UTC 28th Jan 2026\)  
+**Clasa** Region 0 Sycamore Gardens Settlement is besieged by Humans (12:40pm UTC 28th Jan 2026\)  
+**Choepessa IV** Region 1 Kalasatama City has fallen to Automatons (12:43pm UTC 28th Jan 2026\)  
+**Choepessa IV** Region 1 Kalasatama City is besieged by Humans (12:43pm UTC 28th Jan 2026\)  
+**Fury** defense is failed (04:48pm UTC 28th Jan 2026\)  
+↳ **Fury** liberation campaign starts (04:48pm UTC 28th Jan 2026\)  
+**Lesath** Region 3 Bucu’s Rest Megacity is besieged by Humans (07:56pm UTC 28th Jan 2026\)  
+**Yed Prior** is liberated (04:14am UTC 29th Jan 2026\)  
+**Clasa** decay rate changes to \-0.59% per hour (04:14am UTC 29th Jan 2026\)  
+**Lesath** Region 2 Crystal Slopes City is besieged by Humans (05:40am UTC 29th Jan 2026\)  
+**Clasa** Region 0 Sycamore Gardens Settlement has fallen to Human (05:48am UTC 29th Jan 2026\)
+
+Day \#722 9:00am 29th Jan 2026  
+**Nivel 43** is no longer enveloped by the Gloom (01:06p UTC 29th Jan 2026\)  
+**Clasa** Region 1 Kodiak Falls Town is besieged by Humans (01:32pm UTC 29th Jan 2026\)  
+**Valmox** of the ***Rictus*** sector is attacked by Lvl 18 Illuminate (03:29pm UTC 29th Jan 2026\)  
+**Valmox** Region 0 Rebelsgrave Settlement is besieged by Humans (03:29pm UTC 29th Jan 2026\)  
+**Clasa** Region 1 Kodiak Falls Town has fallen to Humans (11:05pm UTC 29th Jan 2026\)  
+**Lesath** Region 1 Morskie Oko Town is besieged by Humans (11:25pm UTC 29th Jan 2026\)  
+**Clasa** Region 2 Voting District F-012357 City is besieged by Humans (01:17am UTC 30th Jan 2026\)  
+**Valmox** Region 2 Obedience City is besieged by Humans (05:00am UTC 30th Jan 2026\)  
+**Lesath** defense is failed (08:27am UTC 30th Jan 2026\)  
+↳ **Lesath** liberation campaign starts (08:27am UTC 30th Jan 2026\)  
+↳ **Chort Bay** liberation campaign ends (08:27am UTC 30th Jan 2026\)  
+↳ **Menkent** liberation campaign ends (08:27am UTC 30th Jan 2026\)
+
+Day \#723 9:00am 30th Jan 2026  
+**Nivel 43** of the ***Mirin*** sector is attacked by Terminids (09:00am UTC 30th Jan 2026\)  
+Assault Division: ***Rupture Strain*** U7A deploys to **Nivel 43** (09:00am UTC 30th Jan 2026\)  
+***Minor Order*** | A3-1-8 Defend Nivel 43 is issued | Objective: Control (09:07am UTC 30th Jan 2026\)  
+Dispatch: **NIVEL 43** UNDER ATTACK. Terminid forces are attempting to reinfest **Nivel 43**. This follows disturbing reports of a marked increase in the Gloom Spores engulfing the planet. Local and orbital visibility is further exacerbated by the sheer volume of bloodthirsty insect fascists now ravaging the planet. Helldivers: Hold **Nivel 43**. Repel the despotic swarm to enable surviving scientists to disperse the Gloom and restore optical sovereignty. (09:07am UTC 30th Jan 2026\)  
+**Nivel 43** is lightly enveloped by the Gloom (09:09am UTC 30th Jan 2026\)  
+**Clasa** is liberated (01:19pm UTC 30th Jan 2026\)  
+↳ ***Tanis*** sector is fully under Human control (01:19pm UTC 30th Jan 2026\)
 
 #### Day Zero
 
@@ -10304,29 +10378,29 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-157 Total M/SOs: 117 wins, 38 losses, 2 pending, (75.5%)  
+159 Total M/SOs: 119 wins, 38 losses, 2 pending, (75.8%)  
 41 Liberate M/SOs: 27 wins, 14 losses, (65.9%)  
-35 Control M/SOs: 32 wins, 3 losses, (91.4%)  
+37 Control M/SOs: 32 wins, 3 losses, 2 pending, (91.4%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
 24 Eradicate M/SOs: 18 wins, 6 losses, (75%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
 4 Conquest M/SOs: 2 wins, 2 losses, (50%)  
-1 Operation M/SO: 0 wins, 0 losses, 1 pending, (???)  
+1 Operation M/SO: 1 win, 0 losses, (100%)  
 2 Extraction M/SOs: 0 wins, 2 losses, (0%)  
-34 Combo M/SOs: 26 wins, 7 losses, 1 pending, (78.8%)  
+34 Combo M/SOs: 27 wins, 7 losses, (79.4%)  
 ↳ 15 Eradicate Tasks: 13 wins, 2 losses, (86.7%)  
-↳ 28 Liberate Tasks: 25 wins, 1 loss, 2 pending, (96.2%)  
+↳ 28 Liberate Tasks: 27 wins, 1 loss, (96.4%)  
 ↳ 14 Defend Tasks: 10 wins, 4 losses, (71.4%)  
-↳ 33 Control Tasks: 31 wins, 1 loss, 1 pending, (96.9%)  
+↳ 33 Control Tasks: 32 wins, 1 loss, (97%)  
 ↳ 11 Sample Tasks: 9 wins, 2 losses, (81.8%)  
 ↳ 1 Conquest Task: 1 win, 0 losses, (100%)  
 ↳ 2 Operation Tasks: 1 win, 1 loss, (50%)
 
 ##### Terminid Front M/SOs
 
-54 Terminid M/SOs: 48 wins, 6 losses, (88.9%)  
+55 Terminid M/SOs: 48 wins, 6 losses, 1 pending, (88.9%)  
 16 Liberate M/SOs: 13 wins, 3 losses, (81.3%)  
-11 Control M/SOs: 11 wins, 0 losses, (100%)  
+12 Control M/SOs: 11 wins, 0 losses, 1 pending, (100%)  
 4 Defend M/SOs: 4 wins, 0 losses, (100%)  
 9 Eradicate M/SOs: 8 wins, 1 loss, (88.9%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
@@ -10344,14 +10418,14 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Automaton Front M/SOs
 
-49 Automaton M/SOs: 35 wins, 13 losses, 1 pending ,(72.9%)  
+49 Automaton M/SOs: 36 wins, 13 losses, (73.5%)  
 20 Liberate M/SOs: 13 wins, 7 losses, (65%)  
 13 Control M/SOs: 12 wins, 1 loss, (92.3%)  
 5 Defend M/SOs: 3 wins, 2 losses, (60%)  
 3 Eradicate M/SOs: 2 wins, 1 loss, (66.7%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
 0 Conquest M/SOs: 0 wins, 0 losses, (???)  
-1 Operation M/SO: 0 wins, 0 losses, 1 pending, (???)  
+1 Operation M/SO: 1 win, 0 losses, (100%)  
 0 Extraction M/SOs: 0 wins, 0 losses, (???)  
 7 Combo M/SOs: 5 wins, 2 losses, (71.4%)  
 ↳ 3 Eradicate Tasks: 2 wins, 1 loss, (66.7%)  
@@ -10364,7 +10438,7 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Illuminate Front M/SOs
 
-19 Illuminate M/SOs: 12 wins, 6 losses, 1 pending, (66.7%)  
+19 Illuminate M/SOs: 13 wins, 6 losses, (68.4%)  
 3 Liberate M/SOs: 0 wins, 2 losses, (0%)  
 5 Control M/SOs: 4 wins, 1 loss, (80%)  
 5 Defend M/SOs: 3 wins, 2 losses, (60%)  
@@ -10373,20 +10447,20 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 0 Conquest M/SOs: 0 wins, 0 losses, (???)  
 0 Operation M/SOs: 0 wins, 0 losses, (???)  
 1 Extraction M/SO: 0 wins, 1 loss, (0%)  
-2 Combo M/SOs: 1 win, 0 losses, 1 pending, (100%)  
+2 Combo M/SOs: 2 wins, 0 losses, (100%)  
 ↳ 3 Eradicate Tasks: 3 wins, 0 losses, (100%)  
-↳ 2 Liberate Tasks: 0 wins, 0 losses, 2 pending, (???)  
+↳ 2 Liberate Tasks: 2 wins, 0 losses, (100%)  
 ↳ 2 Defend Tasks: 2 wins, 0 losses, (100%)  
-↳ 1 Control Task: 0 wins, 0 losses, 1 pending, (???)  
+↳ 1 Control Task: 1 win, 0 losses, (100%)  
 ↳ 0 Sample Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Conquest Tasks: 0 wins, 0 losses, (???)  
 ↳ 0 Operation Tasks: 0 wins, 0 losses, (???)
 
 ##### Multi-Fronts M/SOs
 
-35 Multi-Fronts M/SOs: 22 wins, 13 losses, (62.9%)  
+36 Multi-Fronts M/SOs: 22 wins, 13 losses, 1 pending, (62.9%)  
 3 Liberate M/SOs: 1 win, 2 losses, (33.3%)  
-6 Control M/SOs: 5 wins, 1 loss, (83.3%)  
+7 Control M/SOs: 5 wins, 1 loss, 1 pending, (83.3%)  
 1 Defend M/SO: 1 win, 0 losses, (100%)  
 9 Eradicate M/SOs: 5 wins, 4 losses, (55.6%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
