@@ -9447,7 +9447,7 @@ Dispatch: FESTIVAL'S END. The Festival of Reckoning has concluded with resoundin
 **Marfark** recon campaign ends (12:07am UTC 1st Jan 2026\)  
 **Marfark** liberation campaign starts (12:07am UTC 1st Jan 2026\)
 
-#### January 2026 | Day 694 \- Now
+#### January 2026 | Day 694 \- 724
 
 Day \#694 9:00am 1st Jan 2026  
 **Heeth** decay rate changes to \-1.0% per hour (10:23am UTC 1st Jan 2026\)  
@@ -9754,7 +9754,52 @@ Assault Division: ***Rupture Strain*** U7A deploys to **Nivel 43** (09:00am UTC 
 Dispatch: **NIVEL 43** UNDER ATTACK. Terminid forces are attempting to reinfest **Nivel 43**. This follows disturbing reports of a marked increase in the Gloom Spores engulfing the planet. Local and orbital visibility is further exacerbated by the sheer volume of bloodthirsty insect fascists now ravaging the planet. Helldivers: Hold **Nivel 43**. Repel the despotic swarm to enable surviving scientists to disperse the Gloom and restore optical sovereignty. (09:07am UTC 30th Jan 2026\)  
 **Nivel 43** is lightly enveloped by the Gloom (09:09am UTC 30th Jan 2026\)  
 **Clasa** is liberated (01:19pm UTC 30th Jan 2026\)  
-↳ ***Tanis*** sector is fully under Human control (01:19pm UTC 30th Jan 2026\)
+↳ ***Tanis*** sector is fully under Human control (01:19pm UTC 30th Jan 2026\)  
+DSS deploys to **Zefia** of the ***Tanis*** sector (02:17pm UTC 30th Jan 2026\)  
+DSS deploys to **Nivel 43** of the ***Mirin*** sector (02:18pm UTC 30th Jan 2026\)  
+Dispatch: DSS RETURNED TO SERVICE. The Democracy Space Station has been repaired and returned to service, following the defensive activation of the Star of Peace. The Star of Peace itself lacks sufficient Dark Fluid to fire again. Until more E-711 can be gathered from which to synthesize Dark Fluid, the DSS will operate in a non-planetary-destroying capacity only. (02:20pm UTC 30th Jan 2026\)  
+**Adhara** Region 0 Traitor’s End Settlement has fallen to Humans (05:45pm UTC 30th Jan 2026\)  
+**Valmox** Region 1 Reformed-By-Truth City is besieged by Humans (06:25pm UTC 30th Jan 2026\)  
+DSS deploys to **Adhara** of the ***Gallux*** sector (02:23am UTC 31th Jan 2026\)
+
+Day \#724 9:00am 31st Jan 2026  
+**Nivel 43** defense is failed (09:01am UTC 31st Jan 2026\)  
+↳ **Nivel 43** liberation campaign starts (09:01am UTC 31st Jan 2026\)  
+↳ **Erson Sands** liberation campaign ends (09:01am UTC 31st Jan 2026\)  
+↳ **Esker** liberation campaign ends (09:01am UTC 31st Jan 2026\)  
+↳ **Zagon Prime** liberation campaign ends (09:01am UTC 31st Jan 2026\)  
+**Valmox** defense is failed (03:31pm UTC 31st Jan 2026\)  
+↳ **Valmox** liberation campaign starts (03:31pm UTC 31st Jan 2026\)  
+↳ **Mog** liberation campaign ends (03:30pm UTC 31st Jan 2026\)  
+↳ **Iro** liberation campaign ends (03:30pm UTC 31st Jan 2026\)  
+↳ ***Rictus*** sector is fully under Illuminate control (03:31pm UTC 31st Jan 2026\)  
+**Afoyay Bay** of the ***Gallux*** sector is attacked by Lvl 12 Illuminate (08:19pm UTC 31st Jan 2026\)  
+DSS deploys to **Afoyay Bay** of the ***Gallux*** sector (02:25am UTC 1st Feb 2026\)
+
+#### February 2026 | Day 725 \- Now
+
+Day \#725 9:00am 1st Feb 2026  
+**Adhara** Region 1 Strength City is besieged by Humans (03:20pm UTC 1st Feb 2026\)  
+DSS effect Eagle Storm is activated (04:52pm UTC 1st Feb 2026\)  
+**Afoyay Bay** defense is won (06:34am UTC 2nd Feb 2026\)  
+DSS deploys to **Adhara** of the ***Gallux*** sector (06:34am UTC 2nd Feb 2026\)
+
+Day \#726 9:00am 2nd Feb 2026  
+***Minor Order*** | A3-1-8 Defend Nivel 43 is failed | Objective: Control (09:09am UTC 2nd Feb 2026\)  
+Dispatch: **NIVEL 43** HELD: ARSENAL AUGMENTATION. **Nivel 43** is secure. Reports of "coordinated" Terminids are officially attributed to residual pheromones from long-destroyed subterranean nurseries. Gloom dispersal has revealed stockpiles of Quasar Cannon, now authorized for fleetwide deployment for 72 hours. Disciplinary action is pending against the interns responsible for this inventory oversight, should their remains be identified. (09:11am UTC 2nd Feb 2026\)  
+**NOTE**: This dispatch is wrongly sent out. It is retracted one minute later and the correct dispatch is sent out a few minutes later (09:11am UTC 2nd Feb 2026\)  
+Dispatch: **NIVEL 43** HAS FALLEN. **Nivel 43** has fallen to Terminid infestation. Intelligence suggests the Terminids may be attempting to re-establish long-destroyed subterranean nurseries, a process likely expedited by the consumed biomass of Xenobiologists who negligently failed to evacuate. High Command has flagged these scientists for posthumous censure for providing unauthorized nutritional aid to the enemy. (09:17am UTC 2nd Feb 2026\)  
+**Zosma** of the ***Gellert*** sector is attacked by Lvl 17 Automatons (09:28am UTC 2nd Feb 2026\)  
+DSS effect Eagle Storm stops (04:53pm UTC 2nd Feb 2026\)  
+**Adhara** Region 1 Strength City has fallen to Humans (05:21pm UTC 2nd Feb 2026\)  
+**Adhara** is liberated (05:22pm UTC 2nd Feb 2026\)  
+↳ **Mog** liberation campaign starts (05:22pm UTC 2nd Feb 2026\)  
+↳ **Haldus** liberation campaign starts (05:22pm UTC 2nd Feb 2026\)  
+↳ ***Gallux*** sector is fully under Human control (05:22pm UTC 2nd Feb 2026\)  
+DSS deploys to **Zosma** of the ***Gellert*** sector (05:22pm UTC 2nd Feb 2026\)  
+DSS deploys to **Mog** of the ***Morgon*** sector (10:27pm UTC 2nd Feb 2026\)  
+***Major Order*** | A3-1-7 Secure **Clasa**, **Yed Prior**, **Adhara** and **Mog** is failed | Objective: Control (02:21am UTC 3rd Feb 2026\)  
+Dispatch: MAJOR ORDER FAILED. Though the investigation was blocked, in a fortuitous turn of impeccably accurate patriotic intuition, the stolen Star of Peace blueprints have been located precisely where expected. The only viable conclusion: the Automatons intend to build their own socialist Star of Peace, to wield for terror. High Command has no choice but to prosecute the perpetrators of this despicable and Galaxy-threatening act. **Cyberstan** must be destroyed. (02:28am UTC 3rd Feb 2026\)
 
 #### Day Zero
 
@@ -10378,9 +10423,9 @@ See [https://crosswaveomega.github.io/helldiversplanettable/](https://crosswaveo
 
 Since Combo M/SOs use multiple objectives, the combined completion for individual tasks during each combo is displayed
 
-159 Total M/SOs: 119 wins, 38 losses, 2 pending, (75.8%)  
+159 Total M/SOs: 119 wins, 40 losses, (74.8%)  
 41 Liberate M/SOs: 27 wins, 14 losses, (65.9%)  
-37 Control M/SOs: 32 wins, 3 losses, 2 pending, (91.4%)  
+37 Control M/SOs: 32 wins, 5 losses, (86.4%)  
 15 Defend M/SOs: 11 wins, 4 losses, (73.3%)  
 24 Eradicate M/SOs: 18 wins, 6 losses, (75%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
@@ -10398,9 +10443,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Terminid Front M/SOs
 
-55 Terminid M/SOs: 48 wins, 6 losses, 1 pending, (88.9%)  
+55 Terminid M/SOs: 48 wins, 7 losses, (87.3%)  
 16 Liberate M/SOs: 13 wins, 3 losses, (81.3%)  
-12 Control M/SOs: 11 wins, 0 losses, 1 pending, (100%)  
+12 Control M/SOs: 11 wins, 1 loss, (91.7%)  
 4 Defend M/SOs: 4 wins, 0 losses, (100%)  
 9 Eradicate M/SOs: 8 wins, 1 loss, (88.9%)  
 1 Sample M/SO: 1 win, 0 losses, (100%)  
@@ -10458,9 +10503,9 @@ Since Combo M/SOs use multiple objectives, the combined completion for individua
 
 ##### Multi-Fronts M/SOs
 
-36 Multi-Fronts M/SOs: 22 wins, 13 losses, 1 pending, (62.9%)  
+36 Multi-Fronts M/SOs: 22 wins, 14 losses, (61.1%)  
 3 Liberate M/SOs: 1 win, 2 losses, (33.3%)  
-7 Control M/SOs: 5 wins, 1 loss, 1 pending, (83.3%)  
+7 Control M/SOs: 5 wins, 2 losses, (71.4%)  
 1 Defend M/SO: 1 win, 0 losses, (100%)  
 9 Eradicate M/SOs: 5 wins, 4 losses, (55.6%)  
 0 Sample M/SOs: 0 wins, 0 losses, (???)  
